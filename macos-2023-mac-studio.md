@@ -13,7 +13,7 @@
 
 URL: https://browserbench.org/JetStream/
 
-| Rank | Chromium rank | Browser | Version | Chromium version | Score | Date |
+| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
 |:--|:--|:--|:-:|:-:|:-:|:-:|
 | 1. | - | Orion | 0.99.126.3-beta (WebKit 618.1.2) | - | 366.347 | 2023-12-09 |
 | 2. | 1. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 357.824 | 2023-12-09 |
@@ -31,7 +31,7 @@ URL: https://browserbench.org/MotionMark1.2/
 
 All results “on a large screen (desktop)” as per instructions
 
-| Rank | Chromium rank | Browser | Version | Chromium version | Score | Date |
+| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
 |:--|:--|:--|:-:|:-:|:-:|:-:|
 | 1. | 1. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 4864.02 ± 11.71% | 2023-12-08 |
 | 2. | 2. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 4583.58 ± 22.42% | 2023-12-08 |
@@ -49,7 +49,7 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ### By arithmetic mean
 
-| Rank | Chromium rank | Browser | Version | Chromium version | Score | Date |
+| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
 |:--|:--|:--|:-:|:-:|:-:|:-:|
 | 1. | - | Orion | 0.99.126.3-beta (WebKit 618.1.2) | - | 458 ± 27 (5.9%) | 2023-12-09 |
 | 2. | - | Safari | 17.1.2 (19616.2.9.11.12) | - | 457 ± 21 (4.6%) | 2023-12-08 |
@@ -61,7 +61,7 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ### By BEST RESULT of 10 iterations
 
-| Rank | Chromium rank | Browser | Version | Chromium version | Runs/min. | Date |
+| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Runs/<br>min. | Date |
 |:--|:--|:--|:-:|:-:|:-:|:-:|
 | 1. | - | Orion | 0.99.126.3-beta (WebKit 618.1.2) | - | 494.4 | 2023-12-09 |
 | 2. | - | Safari | 17.1.2 (19616.2.9.11.12) | - | 475.1 | 2023-12-08 |
@@ -73,7 +73,7 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ### By WORST RESULT of 10 iterations
 
-| Rank | Chromium rank | Browser | Version | Chromium version | Runs/min. | Date |
+| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Runs/<br>min. | Date |
 |:--|:--|:--|:-:|:-:|:-:|:-:|
 | 1. | - | Safari | 17.1.2 (19616.2.9.11.12) | - | 380.1 | 2023-12-08 |
 | 2. | - | Orion | 0.99.126.3-beta (WebKit 618.1.2) | - | 360.4 | 2023-12-09 |
