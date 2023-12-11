@@ -29,7 +29,7 @@ URL: https://browserbench.org/JetStream/
 
 URL: https://browserbench.org/MotionMark1.2/
 
-All results "on a large screen (desktop)" as per instructions
+All results “on a large screen (desktop)” as per instructions
 
 | Rank | Chromium rank | Browser | Version | Chromium version | Score | Date |
 |:--|:--|:--|:-:|:-:|:-:|:-:|
