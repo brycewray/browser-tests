@@ -3,12 +3,12 @@
 ## OS, system, and testing specs
 
 - Arch Linux
-- Firmware v.515.0.0.0.0
-- Linux kernel 6.6.3-arch1-1
-- GNOME 45.1 / Wayland
+  - Firmware v.515.0.0.0.0
+  - Linux kernel 6.6.3-arch1-1
+  - GNOME 45.1 / Wayland
 - iMac 18,3 (mid-2017 iMac)
-- Intel® Core™ i7-7700K × 8, 64GB RAM
-- AMD Radeon™ Pro 580X running 3840x2160 at 2x
+  - Intel® Core™ i7-7700K × 8, 64GB RAM
+  - AMD Radeon™ Pro 580X running 3840x2160 at 2x
 - Each browser running in private window; disabled extensions and tracking protection
 - Each browser via Flathub unless otherwise noted
 
@@ -80,9 +80,59 @@ URL: https://browserbench.org/Speedometer2.1/
 | 4. | 3. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 139.8 | 2023-12-08 |
 | 5. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71  | 136.2 | 2023-12-08 |
 
-### *Raw data from Speedometer runs*
+----
+
+### *Raw data*
 
 *(Unformatted for Markdown; best viewed in “raw” form on GH/GL.)*
+
+#### JetStream raw data
+
+Google Chrome v.120.0.6099.71 (Official Build) unknown (64-bit)
+2023-12-08
+Score: 182.543
+
+Brave v.1.61.101 with Chromium: 120.0.6099.71 (Official Build) unknown (64-bit)
+2023-12-08
+Score: 183.157
+
+Microsoft Edge v.120.0.2210.61 (Official build) (64-bit)
+2023-12-08
+Score: 179.141
+
+Ungoogled Chromium v.119.0.6045.199 (Official Build, ungoogled-chromium) Arch Linux (64-bit)
+via AUR (`ungoogled-chromium-bin`)
+2023-12-08
+Score: 174.299
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-08
+Score: 136.710
+
+#### MotionMark raw data
+
+Google Chrome v.120.0.6099.71 (Official Build) unknown (64-bit)
+2023-12-08
+Score: 958.93 ± 2.70% 
+
+Brave v.1.61.101 with Chromium: 120.0.6099.71 (Official Build) unknown (64-bit)
+2023-12-08
+Score: 969.30 ± 9.31%
+
+Microsoft Edge v.120.0.2210.61 (Official build) (64-bit)
+2023-12-08
+Score: 829.41 ± 2.98%
+
+Ungoogled Chromium v.119.0.6045.199 (Official Build, ungoogled-chromium) Arch Linux (64-bit)
+via AUR (`ungoogled-chromium-bin`)
+2023-12-08
+Score: 819.25 ± 2.94%
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-08
+Score: 969.82 ± 2.79%
+
+#### Speedometer raw data
 
 Google Chrome v.120.0.6099.71 (Official Build) unknown (64-bit)
 2023-12-08

@@ -4,7 +4,7 @@
 
 - macOS Sonoma v.14.1.2
 - Mac Studio (mid-2023 version)
-- M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
+  - M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
 - Each browser running in private window; disabled extensions and tracking protection
 
 ----
@@ -83,9 +83,77 @@ URL: https://browserbench.org/Speedometer2.1/
 | 6. | 3. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 321.2 | 2023-12-09 |
 | 7. | 4. | Brave | 1.61.101 | 120.0.6099.71 | 315.3 | 2023-12-08 |
 
-### *Raw data from Speedometer runs*
+----
+
+### *Raw data*
 
 *(Unformatted for Markdown; best viewed in “raw” form on GH/GL.)*
+
+#### JetStream raw data
+
+Google Chrome v.120.0.6099.71 (Official Build) (arm64)
+2023-12-08
+Score: 357.274
+
+Brave v.1.61.101 Chromium: 120.0.6099.71 (Official Build) (arm64)
+2023-12-08
+Score: 355.752
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-08
+Score: 239.182
+
+Safari v.17.1.2 (19616.2.9.11.12)
+2023-12-08
+Score: 350.381
+
+Microsoft Edge v.120.0.2210.61 (Official build) (arm64)
+Chromium v.120.0.6099.71
+2023-12-08
+Score: 338.623
+
+Arc v.1.20.1 (43987)
+Chromium v.120.0.6099.56 (Official Build) (arm64)
+2023-12-09
+Score: 357.824
+
+Orion v.0.99.126.3-beta (WebKit 618.1.2)
+2023-12-09
+Score: 366.347
+
+#### MotionMark raw data
+
+Google Chrome v.120.0.6099.71 (Official Build) (arm64)
+2023-12-08
+Score: 4864.02 ± 11.71%
+
+Brave v.1.61.101 Chromium: 120.0.6099.71 (Official Build) (arm64)
+2023-12-08
+Score: 3632.97 ± 27.96%
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-08
+Score: 1800.21 ± 2.34%
+
+Safari v.17.1.2 (19616.2.9.11.12)
+2023-12-08
+Score: 4461.82 ± 15.68%
+
+Microsoft Edge v.120.0.2210.61 (Official build) (arm64)
+Chromium v.120.0.6099.71
+2023-12-08
+Score: 4583.58 ± 22.42%
+
+Arc v.1.20.1 (43987)
+Chromium v.120.0.6099.56 (Official Build) (arm64)
+2023-12-09
+Score: 4497.63 ± 14.03%
+
+Orion v.0.99.126.3-beta (WebKit 618.1.2)
+2023-12-09
+Score: 3753.71 ± 19.97%
+
+#### Speedometer raw data
 
 Google Chrome v.120.0.6099.71 (Official Build) (arm64)
 2023-12-08
