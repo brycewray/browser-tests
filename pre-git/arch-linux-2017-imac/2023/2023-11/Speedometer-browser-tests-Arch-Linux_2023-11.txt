@@ -1,0 +1,160 @@
+Speedometer web browser tests on Linux
+Arch Linux
+Firmware v.515.0.0.0.0
+Linux kernel 6.6.3-arch1-1
+GNOME 45.1 / Wayland
+iMac 18,3 (mid-2017 iMac)
+Intel® Core™ i7-7700K × 8 cores, 64GB RAM
+AMD Radeon™ Pro 580X running 3840x2160 at 2x
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+URL: https://browserbench.org/Speedometer2.1/
+Each in private window with extensions and tracking protection off
+
+------------------------------------------------------
+
+By arithmetic mean			CHROMIUM-ONLY
+1. Web			205
+2. Vivaldi		202		1. Vivaldi		202
+3. Mozilla Firefox	201
+4. Google Chrome	190		2. Google Chrome	190
+5. Chromium		186		3. Chromium		186
+6. Brave		185		4. Brave		185
+7. Ungoogled Chromium	161		5. Ungoogled Chromium	161
+8. Microsoft Edge	156		6. Microsoft Edge	156
+
+By best among 10			CHROMIUM-ONLY
+1. Mozilla Firefox	212.4
+2. Vivaldi		212.0		1. Vivaldi		212.0
+3. Web			210.2
+4. Google Chrome	199.9		2. Google Chrome	199.9
+5. Chromium		196.3		3. Chromium		196.3
+6. Brave		194.8		4. Brave		194.8
+7. Ungoogled Chromium	169.7		5. Ungoogled Chromium	169.7
+8. Microsoft Edge	161.9		6. Microsoft Edge	161.9
+
+By worst among 10			CHROMIUM-ONLY
+1. Vivaldi		189.5		1. Vivaldi		189.5
+2. Web			186.8
+3. Google Chrome	181.1		2. Google Chrome	181.1
+4. Mozilla Firefox	178.2
+5. Chromium		173.0		3. Chromium		173.0
+6. Brave		166.5		4. Brave		166.5
+7. Microsoft Edge	144.5		5. Microsoft Edge	144.5
+8. Ungoogled Chromium	137.4		6. Ungoogled Chromium	137.4
+
+------------------------------------------------------
+
+Google Chrome v.119.0.6045.199 (Official Build) unknown (64-bit)
+2023-11-30
+Arithmetic Mean: 190 ± 3.8 (2.0%)
+Iteration 1	181.1 runs/min	<-- WORST
+Iteration 2	192.6 runs/min
+Iteration 3	192.7 runs/min
+Iteration 4	189.4 runs/min
+Iteration 5	189.8 runs/min
+Iteration 6	191.0 runs/min
+Iteration 7	182.7 runs/min
+Iteration 8	187.5 runs/min
+Iteration 9	191.5 runs/min
+Iteration 10	199.9 runs/min	<-- BEST
+
+Brave v.1.60.125 with Chromium: 119.0.6045.199 (Official Build) unknown (64-bit)
+2023-11-29
+Arithmetic Mean: 185 ± 6.0 (3.3%)
+Iteration 1	166.5 runs/min	<-- WORST
+Iteration 2	178.5 runs/min
+Iteration 3	194.8 runs/min	<-- BEST
+Iteration 4	177.8 runs/min
+Iteration 5	187.8 runs/min
+Iteration 6	192.7 runs/min
+Iteration 7	187.5 runs/min
+Iteration 8	190.9 runs/min
+Iteration 9	184.5 runs/min
+Iteration 10	186.7 runs/min
+
+Microsoft Edge v.119.0.2151.97 (Official build) (64-bit)
+2023-11-30
+Arithmetic Mean: 156 ± 3.8 (2.4%)
+Iteration 1	144.5 runs/min	<-- WORST
+Iteration 2	152.8 runs/min
+Iteration 3	161.9 runs/min	<-- BEST
+Iteration 4	160.3 runs/min
+Iteration 5	160.4 runs/min
+Iteration 6	158.1 runs/min
+Iteration 7	153.6 runs/min
+Iteration 8	155.5 runs/min
+Iteration 9	153.2 runs/min
+Iteration 10	160.7 runs/min
+
+Chromium (NOT ungoogled) v.119.0.6045.199 (Official Build) (64-bit)
+2023-11-30
+Arithmetic Mean: 186 ± 6.6 (3.5%)
+Iteration 1	173.6 runs/min
+Iteration 2	191.7 runs/min
+Iteration 3	195.1 runs/min
+Iteration 4	174.9 runs/min
+Iteration 5	196.3 runs/min	<-- BEST
+Iteration 6	187.6 runs/min
+Iteration 7	195.5 runs/min
+Iteration 8	187.9 runs/min
+Iteration 9	173.0 runs/min	<-- WORST
+Iteration 10	188.6 runs/min
+
+Ungoogled Chromium v.119.0.6045.159 (Official Build, ungoogled-chromium) (64-bit)
+2023-11-19
+Arithmetic Mean: 161 ± 7.1 (4.4%)
+Iteration 1	137.4 runs/min	<-- WORST
+Iteration 2	165.1 runs/min
+Iteration 3	164.7 runs/min
+Iteration 4	163.2 runs/min
+Iteration 5	169.7 runs/min	<-- BEST
+Iteration 6	163.8 runs/min
+Iteration 7	164.8 runs/min
+Iteration 8	163.8 runs/min
+Iteration 9	150.1 runs/min
+Iteration 10	169.0 runs/min
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-11-30
+Arithmetic Mean: 201 ± 7.1 (3.5%)
+Iteration 1	178.2 runs/min	<-- WORST
+Iteration 2	210.6 runs/min
+Iteration 3	199.8 runs/min
+Iteration 4	204.9 runs/min
+Iteration 5	198.3 runs/min
+Iteration 6	209.5 runs/min
+Iteration 7	198.0 runs/min
+Iteration 8	200.8 runs/min
+Iteration 9	212.4 runs/min	<-- BEST
+Iteration 10	195.5 runs/min
+
+Web (GNOME browser, WebkitGTK-based) "v.45.1" - part of GNOME packaging
+2023-11-28
+Arithmetic Mean: 205 ± 4.9 (2.4%)
+Iteration 1	186.8 runs/min	<-- WORST
+Iteration 2	210.1 runs/min
+Iteration 3	208.6 runs/min
+Iteration 4	207.7 runs/min
+Iteration 5	210.2 runs/min	<-- BEST
+Iteration 6	206.4 runs/min
+Iteration 7	204.6 runs/min
+Iteration 8	206.4 runs/min
+Iteration 9	202.2 runs/min
+Iteration 10	204.3 runs/min
+
+Vivaldi v.6.4.3160.47 (Stable channel) (64-bit)
+2023-11-30
+Arithmetic Mean: 202 ± 5.1 (2.5%)
+Iteration 1	189.5 runs/min	<-- WORST
+Iteration 2	200.5 runs/min
+Iteration 3	198.9 runs/min
+Iteration 4	204.5 runs/min
+Iteration 5	192.6 runs/min
+Iteration 6	212.0 runs/min	<-- BEST
+Iteration 7	211.4 runs/min
+Iteration 8	205.8 runs/min
+Iteration 9	201.8 runs/min
+Iteration 10	202.4 runs/min

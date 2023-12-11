@@ -1,0 +1,60 @@
+Jetstream 2.1 web browser tests on Linux
+Arch Linux
+Firmware v.515.0.0.0.0
+Linux kernel 6.6.3-arch1-1
+GNOME 45.1 / Wayland
+iMac 18,3 (mid-2017 iMac)
+Intel® Core™ i7-7700K × 8, 64GB RAM
+AMD Radeon™ Pro 580X running 3840x2160 at 2x
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+URL: https://browserbench.org/JetStream/
+Each in private window with extensions and tracking protection off
+
+------------------------------------------------------
+					CHROMIUM-ONLY
+1. Web			185.943
+2. Vivaldi		179.141		1. Vivaldi		179.141
+3. Brave		178.815		2. Brave		178.815
+4. Chromium		178.653		3. Chromium		178.653
+5. Microsoft Edge	176.905		4. Microsoft Edge	176.905
+6. Google Chrome	176.718		5. Google Chrome	176.718
+7. Ungoogled Chromium	173.838		6. Ungoogled Chromium	173.838
+8. Mozilla Firefox	138.751
+
+------------------------------------------------------
+
+Google Chrome v.119.0.6045.199 (Official Build) unknown (64-bit)
+2023-11-30
+Score: 176.718
+
+Brave v.1.60.125 with Chromium: 119.0.6045.199 (Official Build) unknown (64-bit)
+2023-11-29
+Score: 178.815
+
+Microsoft Edge v.119.0.2151.97 (Official build) (64-bit)
+2023-11-30
+Score: 176.905
+
+Chromium (NOT ungoogled) v.119.0.6045.199 (Official Build) (64-bit)
+2023-11-30
+Score: 178.653
+
+Ungoogled Chromium v.119.0.6045.159 (Official Build, ungoogled-chromium) (64-bit)
+2023-11-19
+Score: 173.838
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-11-30
+Score: 138.751
+
+Web (GNOME browser, WebkitGTK-based) "v.45.1" - part of GNOME packaging
+2023-11-28
+Score: 185.943
+
+Vivaldi v.6.4.3160.47 (Stable channel) (64-bit)
+2023-11-30
+Score: 179.141
+
