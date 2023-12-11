@@ -1,0 +1,38 @@
+ARES-6 1.0.1 web browser tests on macOS
+macOS Sonoma v.14.1.1
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core
+Neural Engine), 64 GB RAM
+===========================================
+
+URL: https://browserbench.org/ARES-6/
+Each in private window with extensions off
+
+-----------------------------------------------------------------------
+ALL					CHROMIUM-ONLY
+1. Microsoft Edge	 7.46ms		1. Microsoft Edge	7.46ms
+2. Google Chrome	 7.60ms		2. Google Chrome	7.60ms
+3. Brave		 7.72ms		3. Brave		7.72ms
+4. Safari		 8.63ms
+5. Mozilla Firefox	14.50ms
+-----------------------------------------------------------------------
+
+Google Chrome v.119.0.6045.123 (Official Build) (arm64)
+2023-11-09
+Score: 7.60ms ± 0.79
+
+Brave v.1.69.114 with Chromium: 119.0.6045.124 (Official Build) (arm64)
+2023-11-09
+Score: 7.72ms ± 0.75
+
+Mozilla Firefox v.119.0.1 (64-bit)
+2023-11-09
+Score: 14.50ms ± 0.96
+
+Safari v.17.1 (19616.2.9.11.7)
+2023-11-09
+Score: 8.63ms ± 0.77
+
+Microsoft Edge v.119.0.2151.58 (Official build) (arm64)
+2023-11-10
+Score: 7.46ms ± 0.95

@@ -1,0 +1,62 @@
+Jetstream 2.1 web browser tests on Windows 11 (VM)
+----------------------------------
+Parallels Desktop v.19.0.0 (54570)
+using the "Games" profile
+CPU		6 CPUs
+RAM		32 GB ("up to 16 GB for graphics")
+Graphics	Scaled
+Network		Shared (no use of Network Conditioner)
+
+Processor	Apple Silicon   3.20 GHz  (6 processors)
+System type	64-bit operating system, ARM-based processor
+Edition		Windows 11 Pro
+Version		22H2
+Installed on	‎7/‎6/‎2023
+OS build	22621.2428
+Experience	Windows Feature Experience Pack 1000.22674.1000.0
+on top of
+macOS Sonoma v.14.0
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
+===========================================
+
+2023-10-22
+URL: https://browserbench.org/JetStream/
+Each in private window with extensions off
+
+---------------------------
+
+1. Microsoft Edge	274.862
+2. Thorium		272.295
+3. Ungoogled Chromium	265.816
+4. Firefox		178.360
+5. Brave		98.105
+6. Google Chrome	90.484
+
+---------------------------
+
+Google Chrome
+v.118.0.5993.89 (Official Build) (32-bit emulated)
+Score: 90.484
+
+Brave
+v.1.59.120 / Chromium v.118.0.5993.88 (64-bit emulated) "Shields Down"
+Score: 98.105
+
+Ungoogled Chromium
+v.116.0.5845.82 (Official Build) (arm64)
+via https://chromium.woolyss.com/
+"Google API keys are missing. Some functionality of Chromium will be disabled."
+Score: 265.816
+
+Firefox
+v.118.0.2 (64-bit)
+Score: 178.360
+
+Microsoft Edge
+v.118.0.2088.61 (Official build) (arm64)
+Score: 274.862
+
+Thorium (Chromium fork)
+v.117.0.5938.157 (Official Build) (arm64)
+Score: 272.295

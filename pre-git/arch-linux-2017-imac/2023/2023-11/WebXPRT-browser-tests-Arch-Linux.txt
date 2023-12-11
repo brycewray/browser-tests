@@ -1,0 +1,56 @@
+WebXPRT 4 web browser tests on Linux
+Arch Linux
+Firmware v.515.0.0.0.0
+Linux kernel 6.6.1-arch1-1
+GNOME 45.1 / Wayland
+iMac 18,3 (mid-2017 iMac)
+Intel® Core™ i7-7700K × 8, 64GB RAM
+AMD Radeon™ Pro 580X running 3840x2160 at 2x
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+URL: https://www.principledtechnologies.com/benchmarkxprt/webxprt/2021/wx4_build_3_7_3/
+Each in private window with extensions off
+
+-----------------------------------------------------------------------
+ALL					CHROMIUM-ONLY
+1. Mozilla Firefox	193
+2. Google Chrome	161		1. Google Chrome	161
+3. Microsoft Edge	160		2. Microsoft Edge	160
+4. Ungoogled Chromium	159		3. Ungoogled Chromium	159
+5. Chromium		158		4. Chromium		158
+6. Brave		155		5. Brave		155
+7. Web			N/A
+
+* Tiebreaker: apparent accuracy of score (smaller "±" range is better)
+-----------------------------------------------------------------------
+
+Google Chrome v.119.0.6045.123 (Official Build) unknown (64-bit)
+2023-11-14
+Score: 161 ± 4
+
+Brave v.1.60.114 with Chromium: 119.0.6045.124 (Official Build) unknown (64-bit)
+2023-11-14
+Score: 155 ± 3 
+
+Microsoft Edge v.119.0.2151.58 (Official build) (64-bit)
+2023-11-14
+Score: 160 ± 5
+
+Chromium (NOT ungoogled) v.119.0.6045.123 (Official build) (64-bit)
+2023-11-14
+Score: 158 ± 4
+
+Ungoogled Chromium v.119.0.6045.123 (Official Build, ungoogled-chromium) (64-bit)
+2023-11-14
+Score: 159 ± 4
+
+Mozilla Firefox v.119.0.1 (64-bit)
+2023-11-14
+Score: 193 ± 4
+
+Web (GNOME browser, WebkitGTK-based) "v.45.1" - part of GNOME packaging
+2023-11-14
+Score: N/A --- due to the same bug which currently prevents Safari from using this.
+

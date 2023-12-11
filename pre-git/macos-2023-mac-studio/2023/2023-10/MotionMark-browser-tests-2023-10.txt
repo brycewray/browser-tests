@@ -1,0 +1,52 @@
+MotionMark 1.2 web browser tests on macOS
+macOS Sonoma v.14.0
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core
+Neural Engine), 64 GB RAM
+===========================================
+
+2023-10-22 (except Betterfox, 2022-10-31)
+URL: https://browserbench.org/MotionMark1.2/
+Each in private window with extensions off
+All results "on a large screen (desktop)"
+
+---------------------------
+ALL					CHROMIUM-ONLY
+1. Thorium		5518.18		1. Thorium		5518.18
+2. Safari		5057.19
+3. Safari Tech Preview	5022.58
+4. Microsoft Edge	5021.46		2. Microsoft Edge	5021.46
+5. Google Chrome	4867.13		3. Google Chrome	4867.13
+6. Ungoogled Chromium	4431.11		4. Ungoogled Chromium	4431.11
+7. Brave		4423.72		5. Brave		4423.72
+8. Mozilla Firefox	1713.98
+9. Betterfox		1712.19
+
+---------------------------
+
+Google Chrome v.118.0.5993.88 (Official Build) (arm64)
+Score: 4867.13 ± 31.04%
+
+Brave v.1.59.122 with Chromium: 118.0.5993.96 (Official Build) (arm64)
+Score: 4423.72 ± 4.42%
+
+Ungoogled Chromium v.118.0.5993.88 (Official Build, ungoogled-chromium) (arm64)
+Score: 4431.11 ± 23.56%
+
+Mozilla Firefox v.118.0.2 (64-bit)
+Score: 1713.98 ± 2.48%
+
+Betterfox — Mozilla Firefox v.119.0 (64-bit)
+Score: 1712.19 ± 5.99%
+
+Safari v.17.0 (19616.1.27.211.1)
+Score: 5057.19 ± 21.51%
+
+Safari Technology Preview Release 180 (Safari 17.4, WebKit 19618.1.1.2)
+Score: 5022.58 ± 17.29%
+
+Thorium (Chromium fork) v.116.0.5845.169 (Official Build)
+Score: 5518.18 ± 15.83%
+
+Microsoft Edge v.118.0.2088.61 (Official build) (arm64)
+Score: 5021.46 ± 13.04%

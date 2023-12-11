@@ -1,0 +1,46 @@
+HTML5 Test web browser tests on macOS
+macOS Sonoma v.14.1.2
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
+===================================================================
+
+URL: https://html5test.com
+Each in private window; disabled extensions and tracking protection
+Maximum possible score: 555
+For each test URL, the unique ID is the hash before `.html` (*e.g.*, for comparisons)
+
+-----------------------------------------------------------------------
+
+Google Chrome v.120.0.6099.71 (Official Build) (arm64)
+2023-12-09
+Score: 528
+https://html5test.com/s/1505366665ac66c1.html
+
+Brave v.1.61.101 Chromium: 120.0.6099.71 (Official Build) (arm64)
+2023-12-09
+Score: 528
+https://html5test.com/s/9ca9ab6665ae13d7.html
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-09
+Score: 500
+https://html5test.com/s/7948b16665a675a8.html
+
+Safari v.17.1.2 (19616.2.9.11.12)
+2023-12-09
+Score: 521
+https://html5test.com/s/37e4a66665af97be.html
+**NOTE**: Inaccurately says Safari doesn't support WebP, 
+so am unsure whether I can trust other results.
+
+Microsoft Edge v.120.0.2210.61 (Official build) (arm64)
+Chromium v.120.0.6099.71
+2023-12-09
+Score: 528
+https://html5test.com/s/a8845b6665b160ea.html
+
+-----------------------------------------------------------------------
+
+Comparison among Google Chrome, Mozilla Firefox, and Safari:
+https://html5test.com/compare/browser/1505366665ac66c1/7948b16665a675a8/37e4a66665af97be.html
+

@@ -1,0 +1,47 @@
+WebXPRT 4 web browser tests on macOS
+macOS Sonoma v.14.1.1
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core
+Neural Engine), 64 GB RAM
+===========================================
+
+URL: https://www.principledtechnologies.com/benchmarkxprt/webxprt/2021/wx4_build_3_7_3/
+Each in private window with extensions and tracking protection off
+
+-----------------------------------------------------------------------
+ALL					CHROMIUM-ONLY
+1. Vivaldi		303		1. Vivaldi		303
+2. Google Chrome	294		2. Google Chrome	294
+3. Brave		290		3. Brave		290
+4. Microsoft Edge	285		4. Microsoft Edge	285
+5. Mozilla Firefox	276
+6T. Orion		N/A
+6T. Safari		N/A
+-----------------------------------------------------------------------
+
+Google Chrome v.119.0.6045.199 (Official Build) (arm64)
+2023-11-28
+Score: 294 ± 9
+
+Brave v.1.60.125 with Chromium: 119.0.6045.199 (Official Build) (arm64)
+2023-11-30
+Score: 290 ± 7
+
+Mozilla Firefox v.120.0 (64-bit)
+2023-11-28
+Score: 276 ± 5
+
+Safari v.17.1 (19616.2.9.11.7)
+Score: [can't run due to bug affecting Apple OSs prior to the upcoming x.2 releases for 2023]
+
+Microsoft Edge v.119.0.2151.72 (Official build) (arm64)
+2023-11-28
+Score: 285 ± 6
+
+Orion v.0.99.126.3-beta (WebKit 618.1.2)
+2023-11-28
+Score: [can't run normally due to bug affecting Apple OSs prior to the upcoming x.2 releases for 2023]
+
+Vivaldi v.6.4.3160.47 (Stable channel) (arm64)
+2023-11-29
+Score: 303 ± 8

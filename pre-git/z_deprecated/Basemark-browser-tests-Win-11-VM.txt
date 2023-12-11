@@ -1,0 +1,62 @@
+Basemark Web 3.0 web browser tests on Windows 11 (VM)
+----------------------------------
+Parallels Desktop v.19.0.0 (54570)
+using the "Games" profile
+CPU		6 CPUs
+RAM		32 GB ("up to 16 GB for graphics")
+Graphics	Scaled
+Network		Shared (no use of Network Conditioner)
+
+Processor	Apple Silicon   3.20 GHz  (6 processors)
+System type	64-bit operating system, ARM-based processor
+Edition		Windows 11 Pro
+Version		22H2
+Installed on	‎7/‎6/‎2023
+OS build	22621.2428
+Experience	Windows Feature Experience Pack 1000.22674.1000.0
+on top of
+macOS Sonoma v.14.0
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
+===========================================
+
+2023-10-22
+URL: https://web.basemark.com/
+Each in private window with extensions off (and all other tabs closed, 
+as per instructions)
+
+----------------------------------
+
+1. Ungoogled Chromium	1674.71
+2. Microsoft Edge	1503.72
+3. Thorium		1418.85
+4. Google Chrome	1131.45
+5. Brave		1043.06
+6. Firefox		374.74
+
+----------------------------------
+
+Google Chrome
+v.118.0.5993.89 (Official Build) (32-bit emulated)
+Score: 1131.45
+
+Brave
+v.1.59.120 / Chromium v.118.0.5993.88 (64-bit emulated)
+Score: 1043.06 with "Shields Down"
+
+Firefox v.118.0.2 (64-bit)
+Score: 374.74
+(failed to run WebGL test, regardless of the Parallels profile used)
+
+Microsoft Edge v.118.0.2088.61 (Official build) (arm64)
+Score: 1503.72
+
+Thorium v.117.0.5938.157 (Official Build) (arm64)
+Score: 1418.85
+
+Ungoogled Chromium v.116.0.5845.82 (Official Build) (arm64)
+via https://chromium.woolyss.com/
+"Google API keys are missing. Some functionality of Chromium will be disabled."
+Score: 1674.71
+(Got an opt-in window for Chromium assets on #19 of 20 tests in this item; accepted and it finished.)
+

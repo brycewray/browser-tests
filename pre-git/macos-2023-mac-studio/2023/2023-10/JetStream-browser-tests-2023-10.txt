@@ -1,0 +1,51 @@
+Jetstream 2.1 web browser tests on macOS
+macOS Sonoma v.14.0
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core
+Neural Engine), 64 GB RAM
+===========================================
+
+2023-10-22 (except Betterfox, 2022-10-31)
+URL: https://browserbench.org/JetStream/
+Each in private window with extensions off
+
+---------------------------
+ALL					CHROMIUM-ONLY
+1. Safari Tech Preview	358.774
+2. Brave		350.522		1. Brave		350.522
+3. Microsoft Edge	349.137		2. Microsoft Edge	349.137
+4. Google Chrome	345.250		3. Google Chrome	345.250
+5. Safari		343.803
+6. Ungoogled Chromium	334.741		4. Ungoogled Chromium	334.741
+7. Thorium		326.034		5. Thorium		326.034
+8. Betterfox		238.735
+9. Mozilla Firefox	219.983
+
+---------------------------
+
+Google Chrome v.118.0.5993.88 (Official Build) (arm64)
+Score: 345.250
+
+Brave v.1.59.122 with Chromium: 118.0.5993.96 (Official Build) (arm64)
+Score: 350.522
+
+Ungoogled Chromium v.118.0.5993.88 (Official Build, ungoogled-chromium) (arm64)
+Score: 334.741
+
+Mozilla Firefox v.118.0.2 (64-bit)
+Score: 219.983
+
+Betterfox — Mozilla Firefox v.119.0 (64-bit)
+Score: 238.735
+
+Safari v.17.0 (19616.1.27.211.1)
+Score: 343.803
+
+Safari Technology Preview Release 180 (Safari 17.4, WebKit 19618.1.1.2)
+Score: 358.774
+
+Thorium (Chromium fork) v.116.0.5845.169 (Official Build)
+Score: 326.034
+
+Microsoft Edge v.118.0.2088.61 (Official build) (arm64)
+Score: 349.137

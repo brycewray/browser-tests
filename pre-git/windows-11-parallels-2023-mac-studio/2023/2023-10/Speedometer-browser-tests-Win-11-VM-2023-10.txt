@@ -1,0 +1,153 @@
+Speedometer 2.1 web browser tests on Windows 11 (VM)
+----------------------------------
+Parallels Desktop v.19.0.0 (54570)
+using the "Games" profile
+CPU		6 CPUs
+RAM		32 GB ("up to 16 GB for graphics")
+Graphics	Scaled
+Network		Shared (no use of Network Conditioner)
+
+Processor	Apple Silicon   3.20 GHz  (6 processors)
+System type	64-bit operating system, ARM-based processor
+Edition		Windows 11 Pro
+Version		22H2
+Installed on	‎7/‎6/‎2023
+OS build	22621.2428
+Experience	Windows Feature Experience Pack 1000.22674.1000.0
+on top of
+macOS Sonoma v.14.0
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
+===========================================
+
+## 2023-10-22
+URL: https://browserbench.org/Speedometer2.1/
+Each in private window with extensions off
+
+---------------------------
+
+By arithmetic mean
+
+1. Microsoft Edge	396
+2. Firefox		330
+3. Thorium		320
+4. Ungoogled Chromium	308
+5. Google Chrome	140
+6. Brave		101
+
+
+By best among 10
+
+1. Microsoft Edge	417.0
+2. Firefox		349.2
+3. Thorium		339.1
+4. Ungoogled Chromium	320.9
+5. Google Chrome	149.2
+6. Brave		104.6
+
+
+By worst among 10
+
+1. Microsoft Edge	327.9
+2. Firefox		294.1
+3. Thorium		261.0
+4. Ungoogled Chromium	258.8
+5. Google Chrome	111.4
+6. Brave		97.1
+
+---------------------------
+
+
+Google Chrome
+v.118.0.5993.89 (Official Build) (32-bit emulated)
+------------------------------
+Arithmetic Mean: 140 ± 7.8 (5.5%)
+Iteration 1	111.4 runs/min	<-- WORST
+Iteration 2	137.2 runs/min
+Iteration 3	144.6 runs/min
+Iteration 4	139.7 runs/min
+Iteration 5	142.4 runs/min
+Iteration 6	146.1 runs/min
+Iteration 7	148.6 runs/min
+Iteration 8	149.2 runs/min	<-- BEST
+Iteration 9	137.5 runs/min
+Iteration 10	140.9 runs/min
+
+Brave
+v.1.59.120 / Chromium v.118.0.5993.88 (64-bit emulated)
+"Shields Down"
+---------------------------------------------------------------
+Arithmetic Mean: 101 ± 1.6 (1.6%)
+Iteration 1	97.10 runs/min	<-- WORST
+Iteration 2	99.32 runs/min
+Iteration 3	98.58 runs/min
+Iteration 4	101.5 runs/min
+Iteration 5	103.9 runs/min
+Iteration 6	102.0 runs/min
+Iteration 7	104.6 runs/min	<!-- BEST
+Iteration 8	101.1 runs/min
+Iteration 9	100.2 runs/min
+Iteration 10	101.7 runs/min
+(Oddly enough, was about 10–15 better with "Shields Up"!)
+
+Ungoogled Chromium v.116.0.5845.82 (Official Build) (arm64)
+via https://chromium.woolyss.com/
+"Google API keys are missing. Some functionality of Chromium will be disabled."
+----------------------------------------------------
+Arithmetic Mean: 308 ± 13 (4.2%)
+Iteration 1	258.8 runs/min	<-- WORST
+Iteration 2	311.2 runs/min
+Iteration 3	315.3 runs/min
+Iteration 4	305.2 runs/min
+Iteration 5	320.9 runs/min	<-- BEST
+Iteration 6	320.3 runs/min
+Iteration 7	319.2 runs/min
+Iteration 8	311.8 runs/min
+Iteration 9	307.1 runs/min
+Iteration 10	310.3 runs/min
+
+
+Firefox v.118.0.2 (64-bit)
+--------------------------
+Arithmetic Mean: 330 ± 13 (4.0%)
+Iteration 1	294.1 runs/min	<-- WORST
+Iteration 2	341.5 runs/min
+Iteration 3	335.3 runs/min
+Iteration 4	340.4 runs/min
+Iteration 5	349.2 runs/min	<-- BEST
+Iteration 6	337.0 runs/min
+Iteration 7	338.9 runs/min
+Iteration 8	344.2 runs/min
+Iteration 9	305.8 runs/min
+Iteration 10	317.1 runs/min
+
+
+Microsoft Edge v.118.0.2088.61 (Official build) (arm64)
+-------------------------
+Arithmetic Mean: 396 ± 19 (4.7%)
+Iteration 1	327.9 runs/min	<-- WORST
+Iteration 2	387.2 runs/min
+Iteration 3	389.5 runs/min
+Iteration 4	408.6 runs/min
+Iteration 5	407.5 runs/min
+Iteration 6	417.0 runs/min	<-- BEST
+Iteration 7	397.8 runs/min
+Iteration 8	412.6 runs/min
+Iteration 9	393.2 runs/min
+Iteration 10	415.9 runs/min
+
+
+Thorium (Chromium fork) v.117.0.5938.157 (Official Build) (arm64)
+---------------------------------
+Arithmetic Mean: 320 ± 16 (4.9%)
+Iteration 1	261.0 runs/min	<-- WORST
+Iteration 2	312.2 runs/min
+Iteration 3	321.8 runs/min
+Iteration 4	339.1 runs/min	<-- BEST
+Iteration 5	322.6 runs/min
+Iteration 6	334.5 runs/min
+Iteration 7	327.9 runs/min
+Iteration 8	326.9 runs/min
+Iteration 9	327.2 runs/min
+Iteration 10	323.1 runs/min
+

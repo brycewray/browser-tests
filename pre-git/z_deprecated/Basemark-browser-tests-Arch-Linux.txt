@@ -1,0 +1,68 @@
+Basemark Web 3.0 web browser tests on Linux
+Arch Linux
+Linux kernel 6.5.6-arch2-1
+GNOME 45.0 / Wayland
+iMac 18,3 (mid-2017 iMac)
+Intel® Core™ i7-7700K × 8, 64GB RAM
+AMD Radeon™ Pro 580X
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+2023-10-11
+URL: https://web.basemark.com/
+Each in private window with extensions off (and all other tabs closed, 
+as per instructions)
+
+----------------------------------
+
+1. Brave		1114.73
+2. Thorium		1066.92
+3. Microsoft Edge	1053.43
+4. Ungoogled Chromium	1027.37
+5. Google Chrome	985.13
+6. FirefoxFP		844.30
+7. FirefoxArch		825.53
+8. Web			793.48
+
+----------------------------------
+
+Google Chrome v.117.0.5938.149
+Score: 985.13
+
+Brave v.1.58.137 with Chromium: 117.0.5938.153 (Official Build)
+Score: 1114.73
+
+Microsoft Edge v.117.0.2045.55 (Official build) (64-bit)
+Score:  1053.43
+
+Ungoogled Chromium v.117.0.5938.149 (Official Build, ungoogled-chromium)
+Score: 1027.37
+
+Firefox v.118.0.2
+Score: 844.3
+
+Thorium (Chromium fork) v.117.0.5938.157 (Official Build) stable via AUR
+Score: 1066.92
+NOTE: Had to run it twice because it seemed to "hang" on
+the WebGL part of the test, but actually was just very slow.
+
+Web (GNOME browser, WebkitGTK-based) "v.45.0+" - part of GNOME packaging
+Score: 793.48
+
+==============================
+
+## Addendum, 2023-10-13
+
+After seeing that Firefox isn't yet optimized for Wayland except in 
+distro-specific versions, with Arch being one of the distros mentioned,
+I decided to re-try some of the tests with the Arch distro of Firefox, 
+as well as distro-specific versions of other browsers.
+
+
+Firefox from Arch, v.118.0.2
+Mozilla Firefox for Arch Linux
+archlinux - 1.0
+-------------------------------
+Score:  825.53
+

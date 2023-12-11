@@ -1,0 +1,60 @@
+MotionMark 1.2 web browser tests on Linux
+Arch Linux
+Firmware v.515.0.0.0.0
+Linux kernel 6.6.1-arch1-1
+GNOME 45.1 / Wayland
+iMac 18,3 (mid-2017 iMac)
+Intel® Core™ i7-7700K × 8, 64GB RAM
+AMD Radeon™ Pro 580X running 3840x2160 at 2x
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+URL: https://browserbench.org/MotionMark1.2/
+Each in private window with extensions off
+All results "on a large screen (desktop)"
+
+------------------------------------------------------
+					CHROMIUM-ONLY
+1. Brave		988.31		1. Brave		988.31
+2. Chromium		971.16		2. Chromium		971.16
+3. Google Chrome	970.61		3. Google Chrome	970.61
+4. Firefox		876.65
+5. Microsoft Edge	868.67		4. Microsoft Edge	868.67
+6. Ungoogled Chromium	848.22		5. Ungoogled Chromium	848.22
+7. Web			N/A*
+* See details below; test result is too anomalous to be meaningful
+
+------------------------------------------------------
+
+Google Chrome v.119.0.6045.123 (Official Build) unknown (64-bit)
+2023-11-13
+Score: 970.61 ± 7.53%
+
+Brave v.1.60.114 with Chromium: 119.0.6045.124 (Official Build) unknown (64-bit)
+2023-11-13
+Score: 988.31 ± 2.82%
+
+Microsoft Edge v.119.0.2151.58 (Official build) (64-bit)
+2023-11-13
+Score: 868.67 ± 5.46%
+
+Chromium (NOT ungoogled) v.119.0.6045.123 (Official build) (64-bit)
+2023-11-13
+Score: 971.16 ± 9.03%
+
+Ungoogled Chromium v.119.0.6045.123 (Official Build, ungoogled-chromium) (64-bit)
+2023-11-13
+Score: 848.22 ± 5.13%
+
+Mozilla Firefox v.119.0.1 (64-bit)
+2023-11-13
+Score: 876.65 ± 10.42%
+
+Web (GNOME browser, WebkitGTK-based) "v.45.1" - part of GNOME packaging
+2023-11-13
+Score: 285.33 ± 30.78%
+(glitches occurred during the run, especially on the text-shadowing 
+test near the end, and those apparently caused the excessively low score 
+and high margin of error)
+

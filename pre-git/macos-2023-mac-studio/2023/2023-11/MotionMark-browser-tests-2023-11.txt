@@ -1,0 +1,45 @@
+MotionMark 1.2 web browser tests on macOS
+macOS Sonoma v.14.1.2
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
+===================================================================
+
+URL: https://browserbench.org/MotionMark1.2/
+Each in private window; disabled extensions and tracking protection
+All results "on a large screen (desktop)"
+
+-----------------------------------------------------------------------
+ALL					CHROMIUM-ONLY
+1. Microsoft Edge	4717.40		1. Microsoft Edge	4717.40
+2. Google Chrome	4601.24		2. Google Chrome	4601.24
+3. Brave		4519.91		3. Brave		4519.91
+4. Safari		4392.49
+5. Vivaldi		4330.62		4. Vivaldi		4330.62
+6. Mozilla Firefox	1707.73
+-----------------------------------------------------------------------
+
+Google Chrome v.119.0.6045.199 (Official Build) (arm64)
+2023-11-30
+Score: 4601.24 ± 16.55%
+
+Brave v.1.60.125 with Chromium: 119.0.6045.199 (Official Build) (arm64)
+2023-11-30
+Score: 4519.91 ± 18.75%
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-11-30
+Score: 1707.73 ± 5.73%
+
+Safari v.17.1.2 (19616.2.9.11.12)
+2023-11-30
+Score: 4392.49 ± 26.52%
+
+Microsoft Edge v.119.0.2151.97 (Official build) (arm64)
+Chromium v.119.0.6045.199
+2023-11-30
+Score: 4717.40 ± 19.10%
+
+Vivaldi v.6.4.3160.47 (Stable channel) (arm64)
+Chromium v.118.0.5993.146
+2023-11-30
+Score: 4330.62 ± 17.52%

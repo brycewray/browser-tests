@@ -1,0 +1,47 @@
+Jetstream 2.1 web browser tests on Linux
+Fedora Linux 38.20231011.0 (Bluefin)
+Linux kernel 6.5.6-200.fc38.x86_64
+GNOME [n/a, but at least 44.x] / Wayland
+iMac 18,3 (mid-2017 27-inch iMac)
+Intel® Core™ i7-7700K × 8, 64GB RAM
+AMD Radeon™ Pro 580X
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+2023-10-09
+URL: https://browserbench.org/JetStream/
+Each in private window with extensions off
+
+---------------------------
+
+1. Thorium		180.817
+2. Google Chrome	178.697
+3. Brave		178.033
+4. Ungoogled Chromium	176.237
+5. Firefox		124.125
+6. Web			N/A
+
+---------------------------
+
+Google Chrome v.117.0.5938.149
+Score: 178.697
+
+Brave v.1.58.137 with Chromium: 117.0.5938.153 (Official Build)
+Score: 178.033
+
+Ungoogled Chromium v.117.0.5938.149 (Official Build, ungoogled-chromium)
+Score: 176.237
+
+Firefox v.118.0.2
+Score: 124.125
+
+Thorium (Chromium fork) v.117.0.5938.157 (Official Build) stable via AUR in Distrobox
+Score: 180.817
+
+Web (GNOME browser, WebkitGTK-based) v.45.0 - added via FlatHub because not in Bluefin
+Score: N/A
+(Hung up on the first test, "WSL," and didn't progress further; I waited
+for about 15 minutes and gave up. Other browsers finished the whole series
+of tests in 1-2 minutes each, except for Thorium due to its WebGL issues; still,
+even Thorium finished in under 10 minutes.)

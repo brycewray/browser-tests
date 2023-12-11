@@ -1,0 +1,55 @@
+Jetstream 2.1 web browser tests on Linux
+Arch Linux
+Firmware v.515.0.0.0.0
+Linux kernel 6.6.1-arch1-1
+GNOME 45.1 / Wayland
+iMac 18,3 (mid-2017 iMac)
+Intel® Core™ i7-7700K × 8, 64GB RAM
+AMD Radeon™ Pro 580X running 3840x2160 at 2x
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+URL: https://browserbench.org/JetStream/
+Each in private window with extensions off
+
+------------------------------------------------------
+					CHROMIUM-ONLY
+1. Web			184.398
+2. Chromium		180.261		1. Chromium		180.261
+3. Brave		178.850		2. Brave		178.850
+4. Google Chrome	178.503		3. Google Chrome	178.503
+5. Microsoft Edge	176.105		4. Microsoft Edge	176.105
+6. Ungoogled Chromium	173.408		5. Ungoogled Chromium	173.408
+7. Mozilla Firefox	129.959
+
+------------------------------------------------------
+
+Google Chrome v.119.0.6045.123 (Official Build) unknown (64-bit)
+2023-11-13
+Score: 178.503
+
+Brave v.1.60.114 with Chromium: 119.0.6045.124 (Official Build) unknown (64-bit)
+2023-11-13
+Score: 178.850
+
+Microsoft Edge v.119.0.2151.58 (Official build) (64-bit)
+2023-11-13
+Score: 176.105
+
+Chromium (NOT ungoogled) v.119.0.6045.123 (Official build) (64-bit)
+2023-11-13
+Score: 180.261
+
+Ungoogled Chromium v.119.0.6045.123 (Official Build, ungoogled-chromium) (64-bit)
+2023-11-13
+Score: 173.408
+
+Mozilla Firefox v.119.0.1 (64-bit)
+2023-11-13
+Score: 129.959
+
+Web (GNOME browser, WebkitGTK-based) "v.45.1" - part of GNOME packaging
+2023-11-13
+Score: 184.398
+

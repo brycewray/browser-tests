@@ -1,0 +1,54 @@
+Basemark Web 3.0 web browser tests on macOS
+macOS Sonoma v.14.0
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core
+Neural Engine), 64 GB RAM
+===========================================
+
+2023-10-22 (except Betterfox, 2022-10-31)
+URL: https://web.basemark.com/
+Each in private window with extensions off (and all other tabs closed, 
+as per instructions)
+
+----------------------------------
+ALL					CHROMIUM-ONLY
+
+1. Thorium		2407.19		1. Thorium		2407.19
+2. Ungoogled Chromium	2362.37		2. Ungoogled Chromium	2362.37
+3. Google Chrome	2037.58		3. Google Chrome	2037.58
+4. Microsoft Edge	1953.34		4. Microsoft Edge	1953.34
+5. Safari		1930.14
+6. Safari Tech Preview	1869.53
+7. Brave		1839.79		5. Brave		1839.79
+8. Betterfox		1480.25
+9. Mozilla Firefox	1462.78
+
+----------------------------------
+
+
+Google Chrome v.118.0.5993.88 (Official Build) (arm64)
+Score: 2037.58
+
+Brave v.1.59.122 with Chromium: 118.0.5993.96 (Official Build) (arm64)
+Score: 1839.79
+
+Ungoogled Chromium v.118.0.5993.88 (Official Build, ungoogled-chromium) (arm64)
+Score: 2362.37
+
+Mozilla Firefox v.118.0.2 (64-bit)
+Score: 1462.78
+
+Betterfox — Mozilla Firefox v.119.0 (64-bit)
+Score: 1480.25
+
+Safari v.17.0 (19616.1.27.211.1)
+Score: 1930.14
+
+Safari Technology Preview Release 180 (Safari 17.4, WebKit 19618.1.1.2)
+Score: 1869.53
+
+Thorium (Chromium fork) v.116.0.5845.169 (Official Build)
+Score: 2407.19
+
+Microsoft Edge v.118.0.2088.61 (Official build) (arm64)
+Score: 1953.34

@@ -1,0 +1,130 @@
+Speedometer 2.1 web browser tests on macOS
+macOS Sonoma v.14.1.2
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
+===================================================================
+
+URL: https://browserbench.org/Speedometer2.1/
+Each in private window; disabled extensions and tracking protection
+
+-----------------------------------------------------------------------
+ALL					CHROMIUM-ONLY
+
+By arithmetic mean
+1. Safari		467
+2. Vivaldi		459		1. Vivaldi		459
+3. Mozilla Firefox	432	
+4. Microsoft Edge	403		2. Microsoft Edge	403
+5. Brave*		398 ± 14		3. Brave*		398 ± 14
+6. Google Chrome*	398 ± 18		4. Google Chrome*	398 ± 18
+* Tiebreaker = lower margin of error.
+
+By best among 10
+1. Safari		490.7
+2. Vivaldi		484.0		1. Vivaldi		484.0
+3. Mozilla Firefox	456.0
+4. Microsoft Edge	427.3		2. Microsoft Edge	427.3
+5. Google Chrome	419.3		3. Google Chrome	419.3
+6. Brave		411.0		4. Brave		411.0
+
+By worst among 10
+1. Safari		374.0
+2. Microsoft Edge	349.8		1. Microsoft Edge	349.8
+3. Vivaldi		344.9		2. Vivaldi		344.9
+4. Brave		344.8		3. Brave		344.8
+5. Google Chrome	328.7		4. Google Chrome	328.7
+6. Mozilla Firefox	324.9
+-----------------------------------------------------------------------
+
+
+Google Chrome v.119.0.6045.199 (Official Build) (arm64)
+2023-11-30
+------------------------------
+Arithmetic Mean: 398 ± 18 (4.5%)
+Iteration 1	328.7 runs/min	<-- WORST
+Iteration 2	394.7 runs/min
+Iteration 3	403.8 runs/min
+Iteration 4	409.3 runs/min
+Iteration 5	406.0 runs/min
+Iteration 6	419.3 runs/min	<-- BEST
+Iteration 7	397.9 runs/min
+Iteration 8	407.8 runs/min
+Iteration 9	410.4 runs/min
+Iteration 10	401.1 runs/min
+
+Brave v.1.60.125 with Chromium: 119.0.6045.199 (Official Build) (arm64)
+2023-11-30
+----------------------------------------------------
+Arithmetic Mean: 398 ± 14 (3.5%)
+Iteration 1	344.8 runs/min	<-- WORST
+Iteration 2	405.7 runs/min
+Iteration 3	411.0 runs/min	<-- BEST
+Iteration 4	404.1 runs/min
+Iteration 5	395.2 runs/min
+Iteration 6	399.4 runs/min
+Iteration 7	410.2 runs/min
+Iteration 8	409.7 runs/min
+Iteration 9	396.5 runs/min
+Iteration 10	404.3 runs/min
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-11-30
+----------------------------------------
+Arithmetic Mean: 432 ± 28 (6.5%)
+Iteration 1	324.9 runs/min	<-- WORST
+Iteration 2	447.1 runs/min
+Iteration 3	450.8 runs/min
+Iteration 4	455.3 runs/min
+Iteration 5	456.0 runs/min	<-- BEST
+Iteration 6	440.2 runs/min
+Iteration 7	423.0 runs/min
+Iteration 8	440.6 runs/min
+Iteration 9	434.2 runs/min
+Iteration 10	449.6 runs/min
+
+Safari v.17.1.2 (19616.2.9.11.12)
+2023-11-30
+----------------------------------------
+Arithmetic Mean: 467 ± 25 (5.3%)
+Iteration 1	374.0 runs/min	<-- WORST
+Iteration 2	472.2 runs/min
+Iteration 3	450.6 runs/min
+Iteration 4	479.5 runs/min
+Iteration 5	475.2 runs/min
+Iteration 6	489.6 runs/min
+Iteration 7	481.3 runs/min
+Iteration 8	482.8 runs/min
+Iteration 9	490.7 runs/min	<-- BEST
+Iteration 10	469.1 runs/min
+
+Microsoft Edge v.119.0.2151.97 (Official build) (arm64)
+Chromium v.119.0.6045.199
+2023-11-30
+----------------------------------------
+Arithmetic Mean: 403 ± 15 (3.7%)
+Iteration 1	349.8 runs/min	<-- WORST
+Iteration 2	391.6 runs/min
+Iteration 3	410.0 runs/min
+Iteration 4	416.7 runs/min
+Iteration 5	409.0 runs/min
+Iteration 6	408.3 runs/min
+Iteration 7	408.0 runs/min
+Iteration 8	403.7 runs/min
+Iteration 9	427.3 runs/min	<-- BEST
+Iteration 10	403.9 runs/min
+
+Vivaldi v.6.4.3160.47 (Stable channel) (arm64)
+Chromium v.118.0.5993.146
+2023-11-30
+-----------------------------------------
+Arithmetic Mean: 459 ± 29 (6.3%)
+Iteration 1	344.9 runs/min	<-- WORST
+Iteration 2	459.9 runs/min
+Iteration 3	466.3 runs/min
+Iteration 4	470.4 runs/min
+Iteration 5	471.9 runs/min
+Iteration 6	469.0 runs/min
+Iteration 7	481.5 runs/min
+Iteration 8	469.0 runs/min
+Iteration 9	484.0 runs/min	<-- BEST
+Iteration 10	469.8 runs/min

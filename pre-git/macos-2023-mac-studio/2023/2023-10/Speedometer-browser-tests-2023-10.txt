@@ -1,0 +1,180 @@
+Speedometer 2.1 web browser tests on macOS
+macOS Sonoma v.14.0
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core
+Neural Engine), 64 GB RAM
+===========================================
+
+2023-10-22 (except Betterfox, 2022-10-31)
+URL: https://browserbench.org/Speedometer2.1/
+Each in private window with extensions off
+
+---------------------------
+ALL					CHROMIUM-ONLY
+
+By arithmetic mean
+
+1. Safari Tech Preview	532
+2. Safari		521
+3. Microsoft Edge	492		1. Microsoft Edge	492
+4. Thorium		484		2. Thorium		484
+5. Google Chrome	482		3. Google Chrome	482
+6. Brave		481		4. Brave		481
+7. Betterfox		433
+8. Ungoogled Chromium	427		5. Ungoogled Chromium	427
+9. Mozilla Firefox	415
+
+
+By best among 10
+
+1. Safari Tech Preview	563.1
+2. Safari		538.4
+3. Microsoft Edge	514.0		1. Microsoft Edge	514.0
+4. Brave		509.7		2. Brave		509.7
+5. Google Chrome	505.2		3. Google Chrome	505.2
+6. Thorium		504.9		4. Thorium		504.9
+7. Betterfox		463.4
+8. Ungoogled Chromium	447.0		5. Ungoogled Chromium	447.0
+9. Mozilla Firefox	439.9
+
+
+By worst among 10
+
+1. Safari		419.8
+2. Safari Tech Preview	411.4
+3. Microsoft Edge	408.9		1. Microsoft Edge	408.9
+4. Brave		399.3		2. Brave		399.3
+5. Thorium		389.4		3. Thorium		389.4
+6. Google Chrome	381.7		4. Google Chrome	381.7
+7. Ungoogled Chromium	342.2		5. Ungoogled Chromium	342.2
+8. Mozilla Firefox	336.5
+9. Betterfox		326.0
+
+---------------------------
+
+
+Google Chrome v.118.0.5993.88 (Official Build) (arm64)
+------------------------------
+Arithmetic Mean: 482 ± 26 (5.4%)
+Iteration 1	381.7 runs/min	<-- WORST
+Iteration 2	496.9 runs/min
+Iteration 3	484.0 runs/min
+Iteration 4	505.2 runs/min	<-- BEST
+Iteration 5	483.4 runs/min
+Iteration 6	499.6 runs/min
+Iteration 7	488.6 runs/min
+Iteration 8	486.9 runs/min
+Iteration 9	492.7 runs/min
+Iteration 10	504.8 runs/min
+
+Brave v.1.59.122 with Chromium: 118.0.5993.96 (Official Build) (arm64)
+---------------------------------------------------------------
+Arithmetic Mean: 481 ± 23 (4.7%)
+Iteration 1	399.3 runs/min	<-- WORST
+Iteration 2	475.8 runs/min
+Iteration 3	476.5 runs/min
+Iteration 4	509.7 runs/min	<-- BEST
+Iteration 5	490.1 runs/min
+Iteration 6	497.4 runs/min
+Iteration 7	489.6 runs/min
+Iteration 8	504.0 runs/min
+Iteration 9	470.5 runs/min
+Iteration 10	500.9 runs/min
+
+Ungoogled Chromium v.118.0.5993.88 (Official Build, ungoogled-chromium) (arm64)
+----------------------------------------------------
+Arithmetic Mean: 427 ± 22 (5.2%)
+Iteration 1	342.2 runs/min	<-- WORST
+Iteration 2	419.4 runs/min
+Iteration 3	433.4 runs/min
+Iteration 4	441.2 runs/min
+Iteration 5	442.7 runs/min
+Iteration 6	445.0 runs/min
+Iteration 7	435.5 runs/min
+Iteration 8	434.4 runs/min
+Iteration 9	447.0 runs/min	<-- BEST
+Iteration 10	426.3 runs/min
+
+Mozilla Firefox v.118.0.2 (64-bit)
+---------
+Arithmetic Mean: 415 ± 21 (5.0%)
+Iteration 1	336.5 runs/min	<-- WORST
+Iteration 2	422.5 runs/min
+Iteration 3	422.8 runs/min
+Iteration 4	439.9 runs/min	<-- BEST
+Iteration 5	433.6 runs/min
+Iteration 6	416.2 runs/min
+Iteration 7	411.7 runs/min
+Iteration 8	413.3 runs/min
+Iteration 9	434.6 runs/min
+Iteration 10	415.7 runs/min
+
+Betterfox — Mozilla Firefox v.119.0 (64-bit)
+---------
+Arithmetic Mean: 433 ± 29 (6.6%)
+Iteration 1	326.0 runs/min	<-- WORST
+Iteration 2	435.9 runs/min
+Iteration 3	463.4 runs/min	<-- BEST
+Iteration 4	462.7 runs/min
+Iteration 5	451.0 runs/min
+Iteration 6	454.0 runs/min
+Iteration 7	431.6 runs/min
+Iteration 8	420.1 runs/min
+Iteration 9	438.9 runs/min
+Iteration 10	446.8 runs/min
+
+Safari v.17.0 (19616.1.27.211.1)
+-------------------------
+Arithmetic Mean: 521 ± 26 (5.0%)
+Iteration 1	419.8 runs/min	<-- WORST
+Iteration 2	524.8 runs/min
+Iteration 3	523.6 runs/min
+Iteration 4	538.1 runs/min
+Iteration 5	536.8 runs/min
+Iteration 6	536.4 runs/min
+Iteration 7	536.6 runs/min
+Iteration 8	538.4 runs/min	<-- BEST
+Iteration 9	536.6 runs/min
+Iteration 10	523.9 runs/min
+
+Safari Technology Preview Release 180 (Safari 17.4, WebKit 19618.1.1.2)
+---------------------------------------------
+Arithmetic Mean: 532 ± 32 (6.0%)
+Iteration 1	411.4 runs/min	<-- WORST
+Iteration 2	553.6 runs/min
+Iteration 3	510.6 runs/min
+Iteration 4	548.3 runs/min
+Iteration 5	549.5 runs/min
+Iteration 6	545.9 runs/min
+Iteration 7	549.3 runs/min
+Iteration 8	563.1 runs/min	<-- BEST
+Iteration 9	541.2 runs/min
+Iteration 10	542.7 runs/min
+
+Thorium (Chromium fork) v.116.0.5845.169 (Official Build)
+---------------------------------
+Arithmetic Mean: 484 ± 24 (5.0%)
+Iteration 1	389.4 runs/min	<-- WORST
+Iteration 2	484.0 runs/min
+Iteration 3	490.8 runs/min
+Iteration 4	500.1 runs/min
+Iteration 5	504.9 runs/min	<-- BEST
+Iteration 6	490.9 runs/min
+Iteration 7	497.9 runs/min
+Iteration 8	488.0 runs/min
+Iteration 9	495.0 runs/min
+Iteration 10	499.2 runs/min
+
+Microsoft Edge v.118.0.2088.61 (Official build) (arm64)
+----------------------------------------
+Arithmetic Mean: 492 ± 22 (4.5%)
+Iteration 1	408.9 runs/min	<-- WORST
+Iteration 2	483.1 runs/min
+Iteration 3	496.2 runs/min
+Iteration 4	505.7 runs/min
+Iteration 5	506.2 runs/min
+Iteration 6	513.7 runs/min
+Iteration 7	499.2 runs/min
+Iteration 8	514.0 runs/min	<-- BEST
+Iteration 9	494.3 runs/min
+Iteration 10	503.5 runs/min

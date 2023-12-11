@@ -1,0 +1,62 @@
+Basemark Web 3.0 web browser tests on Linux
+Fedora Linux 38.20231011.0 (Bluefin)
+Linux kernel 6.5.6-200.fc38.x86_64
+GNOME [n/a, but at least 44.x] / Wayland
+iMac 18,3 (mid-2017 27-inch iMac)
+Intel® Core™ i7-7700K × 8, 64GB RAM
+AMD Radeon™ Pro 580X
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+2023-10-11
+URL: https://web.basemark.com/
+Each in private window with extensions off (and all other tabs closed, 
+as per instructions)
+
+----------------------------------
+
+1. Brave		1058.41
+2. Ungoogled Chromium	1058.21
+3. Google Chrome	1053.11
+4. Firefox		1013.39
+5. Thorium		996.94
+6. Web			929.17
+
+----------------------------------
+
+
+Google Chrome
+v.117.0.5938.149
+------------------------------
+Score: 1053.11
+
+
+Brave
+v.1.58.137 with Chromium: 117.0.5938.153 (Official Build)
+---------------------------------------------------------------
+Score: 1058.41
+
+
+Ungoogled Chromium v.117.0.5938.149 (Official Build, ungoogled-chromium)
+---------------------------------------------------------------
+Score: 1058.21
+
+
+Firefox v.118.0.2
+---------------------------------------------------------------
+Score: 1013.39
+
+
+Thorium (Chromium fork) v.117.0.5938.157 (Official Build) stable via AUR in Distrobox
+---------------------------------------------------------------
+Score:		996.94
+NOTE: Took a long time to do the WebGL test (initializing its parts), 
+as in the previous Thorium test in "real" Arch.
+
+
+Web (GNOME browser, WebkitGTK-based) v.45.0 - added via FlatHub because not in Bluefin
+---------------------------------------------------------------
+Score: 929.17
+
+

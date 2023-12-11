@@ -1,0 +1,146 @@
+Speedometer web browser tests on Linux
+Arch Linux
+Firmware v.515.0.0.0.0
+Linux kernel 6.6.1-arch1-1
+GNOME 45.1 / Wayland
+iMac 18,3 (mid-2017 iMac)
+Intel® Core™ i7-7700K × 8 cores, 64GB RAM
+AMD Radeon™ Pro 580X running 3840x2160 at 2x
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+URL: https://browserbench.org/Speedometer2.1/
+Each in private window with extensions off
+
+------------------------------------------------------
+
+By arithmetic mean			CHROMIUM-ONLY
+1. Web			201
+2. Mozilla Firefox	199
+3. Chromium*		198		1. Chromium*		198
+4. Google Chrome*	198		2. Google Chrome*	198
+5. Brave		197		3. Brave		197
+6. Microsoft Edge*	165		4. Microsoft Edge*	165
+7. Ungoogled Chromium*	165		5. Ungoogled Chromium*	165
+* Tiebreaker: lower margin of error is better
+
+By best among 10			CHROMIUM-ONLY
+1. Brave		214.9		1. Brave		214.9
+2. Google Chrome	210.4		2. Google Chrome	210.4
+3. Web			209.1
+4. Mozilla Firefox	208.2
+5. Chromium		204.3		3. Chromium		204.3
+6. Ungoogled Chromium	174.8		4. Ungoogled Chromium	174.8
+7. Microsoft Edge	170.2		5. Microsoft Edge	170.2
+
+By worst among 10			CHROMIUM-ONLY
+1. Web			176.3
+2. Chromium		175.2		1. Chromium		175.2
+3. Brave		166.8		2. Brave		166.8
+4. Mozilla Firefox	166.3
+5. Google Chrome	165.0		3. Google Chrome	165.0
+6. Ungoogled Chromium	146.8		4. Ungoogled Chromium	146.8
+7. Microsoft Edge	142.7		5. Microsoft Edge	142.7
+
+------------------------------------------------------
+
+
+Google Chrome v.119.0.6045.123 (Official Build) unknown (64-bit)
+2023-11-13
+Arithmetic Mean: 198 ± 9.2 (4.7%)
+Iteration 1	165.0 runs/min	<-- WORST
+Iteration 2	199.0 runs/min
+Iteration 3	208.2 runs/min
+Iteration 4	204.6 runs/min
+Iteration 5	194.8 runs/min
+Iteration 6	203.2 runs/min
+Iteration 7	210.4 runs/min	<-- BEST
+Iteration 8	199.0 runs/min
+Iteration 9	190.2 runs/min
+Iteration 10	201.3 runs/min
+
+Brave v.1.60.114 with Chromium: 119.0.6045.124 (Official Build) unknown (64-bit)
+2023-11-13
+Arithmetic Mean: 197 ± 9.4 (4.8%)
+Iteration 1	166.8 runs/min	<-- WORST
+Iteration 2	186.0 runs/min
+Iteration 3	195.1 runs/min
+Iteration 4	199.4 runs/min
+Iteration 5	192.2 runs/min
+Iteration 6	208.0 runs/min
+Iteration 7	214.9 runs/min	<-- BEST
+Iteration 8	199.9 runs/min
+Iteration 9	201.7 runs/min
+Iteration 10	202.5 runs/min
+
+Microsoft Edge v.119.0.2151.58 (Official build) (64-bit)
+2023-11-13
+Arithmetic Mean: 165 ± 5.8 (3.5%)
+Iteration 1	142.7 runs/min	<-- WORST
+Iteration 2	169.2 runs/min
+Iteration 3	166.5 runs/min
+Iteration 4	170.2 runs/min	<-- BEST
+Iteration 5	169.1 runs/min
+Iteration 6	167.3 runs/min
+Iteration 7	163.4 runs/min
+Iteration 8	166.0 runs/min
+Iteration 9	170.0 runs/min
+Iteration 10	166.9 runs/min
+
+Chromium (NOT ungoogled) v.119.0.6045.123 (Official build) (64-bit)
+2023-11-13
+Arithmetic Mean: 198 ± 7.5 (3.8%)
+Iteration 1	175.2 runs/min	<-- WORST	
+Iteration 2	201.9 runs/min
+Iteration 3	203.5 runs/min
+Iteration 4	204.3 runs/min	<-- BEST
+Iteration 5	209.7 runs/min
+Iteration 6	198.9 runs/min
+Iteration 7	207.2 runs/min
+Iteration 8	188.8 runs/min
+Iteration 9	189.5 runs/min
+Iteration 10	200.0 runs/min
+
+Ungoogled Chromium v.119.0.6045.123 (Official Build, ungoogled-chromium) (64-bit)
+2023-11-13
+Arithmetic Mean: 165 ± 6.5 (3.9%)
+Iteration 1	146.8 runs/min	<-- WORST
+Iteration 2	156.7 runs/min
+Iteration 3	174.8 runs/min	<-- BEST
+Iteration 4	172.5 runs/min
+Iteration 5	167.7 runs/min
+Iteration 6	174.6 runs/min
+Iteration 7	171.5 runs/min
+Iteration 8	162.1 runs/min
+Iteration 9	160.6 runs/min
+Iteration 10	160.8 runs/min
+
+Mozilla Firefox v.119.0.1 (64-bit)
+2023-11-13
+Arithmetic Mean: 199 ± 8.8 (4.4%)
+Iteration 1	166.3 runs/min	<-- WORST
+Iteration 2	204.0 runs/min
+Iteration 3	202.9 runs/min
+Iteration 4	207.0 runs/min
+Iteration 5	196.2 runs/min
+Iteration 6	199.1 runs/min
+Iteration 7	207.8 runs/min
+Iteration 8	198.8 runs/min
+Iteration 9	208.2 runs/min	<-- BEST
+Iteration 10	198.5 runs/min
+
+Web (GNOME browser, WebkitGTK-based) "v.45.1" - part of GNOME packaging
+2023-11-13
+Arithmetic Mean: 201 ± 6.7 (3.3%)
+Iteration 1	176.3 runs/min	<-- WORST
+Iteration 2	198.7 runs/min
+Iteration 3	203.4 runs/min
+Iteration 4	205.0 runs/min
+Iteration 5	208.3 runs/min
+Iteration 6	204.3 runs/min
+Iteration 7	204.8 runs/min
+Iteration 8	201.7 runs/min
+Iteration 9	202.8 runs/min
+Iteration 10	209.1 runs/min	<-- BEST
+

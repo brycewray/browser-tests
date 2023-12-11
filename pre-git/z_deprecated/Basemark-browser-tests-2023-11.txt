@@ -1,0 +1,44 @@
+Basemark Web 3.0 web browser tests on macOS
+macOS Sonoma v.14.1.1
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core
+Neural Engine), 64 GB RAM
+===========================================
+
+URL: https://web.basemark.com/
+Each in private window with extensions off (and all other tabs closed, 
+as per instructions)
+
+**Updatte, 2023-11-10**: The results of this test are wildly inconsistent 
+due to apparent server-side glitches throughout, so I no longer will perform 
+this test or use it as a guide.
+
+-----------------------------------------------------------------------
+ALL					CHROMIUM-ONLY
+1. Microsoft Edge	2346.33		3. Microsoft Edge	2346.33
+2. Safari		2185.28
+3. Mozilla Firefox	2122.74
+4. Brave		2043.50		1. Brave		2043.50
+5. Google Chrome	1970.60		2. Google Chrome	1970.60
+-----------------------------------------------------------------------
+
+
+Google Chrome v.119.0.6045.123 (Official Build) (arm64)
+2023-11-08
+Score: 1970.6
+
+Brave v.1.69.114 with Chromium: 119.0.6045.124 (Official Build) (arm64)
+2023-11-08
+Score: 2043.5
+
+Mozilla Firefox v.119.0.1 (64-bit)
+2023-11-08
+Score: 2122.74 (!?! — actual tests took MUCH longer to run than on other browsers)
+
+Safari v.17.1 (19616.2.9.11.7)
+2023-11-08
+Score: 2185.28
+
+Microsoft Edge v.119.0.2151.58 (Official build) (arm64)
+2023-11-10
+Score: 2346.33 (results wildly inconsistent, however)

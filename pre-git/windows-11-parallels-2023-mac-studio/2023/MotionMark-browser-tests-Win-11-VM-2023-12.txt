@@ -1,0 +1,45 @@
+MotionMark 1.2 web browser tests on Windows 11 (VM)
+----------------------------------
+Parallels Desktop v.19.0.0 (54570)
+using the "Games" profile
+CPU		6 CPUs
+RAM		32 GB ("up to 16 GB for graphics")
+Graphics	Scaled
+Network		Shared (no use of Network Conditioner)
+
+Processor	Apple Silicon   3.20 GHz  (6 processors)
+System type	64-bit operating system, ARM-based processor
+Edition		Windows 11 Pro
+Version		22H2
+Installed on	‎7/‎6/‎2023
+OS build	22621.2428
+Experience	Windows Feature Experience Pack 1000.22674.1000.0
+on top of
+macOS Sonoma v.14.1.2
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
+===========================================
+
+URL: https://browserbench.org/MotionMark1.2/
+Each in private window; disabled extensions and tracking protection
+All results "on a large screen (desktop)"
+
+---------------------------
+
+1. Microsoft Edge		1421.20
+2. Thorium			1199.86
+3. Ungoogled Chromium		1140.94
+4. Firefox			1049.17
+5. Google Chrome		626.28
+6. Brave			571.54
+
+---------------------------
+
+Google Chrome v.
+Score: 
+
+Brave v.1.60.125 with Chromium: 119.0.6045.199 (64-bit emulated)
+Score: 
+
+Vivaldi v.6.4.3160.47 (Chromium 118.0.5993.161)
+Score: 

@@ -1,0 +1,140 @@
+Speedometer web browser tests on Linux
+Fedora Linux 38.20231011.0 (Bluefin)
+Linux kernel 6.5.6-200.fc38.x86_64
+GNOME [n/a, but at least 44.x] / Wayland
+iMac 18,3 (mid-2017 27-inch iMac)
+Intel® Core™ i7-7700K × 8 cores, 64GB RAM
+AMD Radeon™ Pro 580X
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+## 2023-10-08
+URL: https://browserbench.org/Speedometer2.1/
+Each in private window with extensions off
+
+---------------------------
+
+By arithmetic mean
+
+1. Firefox		205
+2. Google Chrome	204
+3. Thorium		202
+4. Brave		192
+5. Web			186
+6. Ungoogled Chromium	171
+
+
+By best among 10
+1. Firefox		216.2
+2. Thorium		214.2
+3. Google Chrome	215.1
+4. Brave		204.5
+5. Web			191.8
+6. Ungoogled Chromium	178.8
+
+
+By worst among 10
+
+1. Firefox*		171.5
+2. Google Chrome*	171.5
+3. Thorium		167.9
+4. Brave		165.5
+5. Web			168.8
+6. Ungoogled Chromium	146.1
+* Firefox won tiebreaker by having better scores in other two categories.
+
+---------------------------
+
+
+Google Chrome
+v.117.0.5938.149
+------------------------------
+Arithmetic Mean:		204 ± 9.7 (4.8%)
+Iteration 1		171.5 runs/min	<-- WORST
+Iteration 2		197.5 runs/min
+Iteration 3		197.8 runs/min
+Iteration 4		195.8 runs/min
+Iteration 5		213.1 runs/min
+Iteration 6		215.1 runs/min	<-- BEST
+Iteration 7		211.0 runs/min
+Iteration 8		210.1 runs/min
+Iteration 9		214.4 runs/min
+Iteration 10		210.7 runs/min
+
+
+Brave
+v.1.58.137 with Chromium: 117.0.5938.153 (Official Build)
+---------------------------------------------------------------
+Arithmetic Mean: 192 ± 9.3 (4.9%)
+Iteration 1 		165.5 runs/min	<-- WORST
+Iteration 2 		191.9 runs/min
+Iteration 3 		201.4 runs/min
+Iteration 4 		172.4 runs/min
+Iteration 5 		195.1 runs/min
+Iteration 6 		204.5 runs/min	<-- BEST
+Iteration 7 		198.5 runs/min
+Iteration 8 		194.7 runs/min
+Iteration 9 		203.5 runs/min
+Iteration 10 	195.7 runs/min
+
+
+Ungoogled Chromium
+v.117.0.5938.149 (Official Build, ungoogled-chromium)
+----------------------------------------------------
+Arithmetic Mean:		171 ± 6.9 (4.0%)
+Iteration 1		146.1 runs/min	<-- WORST
+Iteration 2		165.8 runs/min
+Iteration 3		169.0 runs/min
+Iteration 4		175.9 runs/min
+Iteration 5		175.7 runs/min
+Iteration 6		177.9 runs/min
+Iteration 7		178.8 runs/min	<-- BEST
+Iteration 8		171.6 runs/min
+Iteration 9		172.2 runs/min
+Iteration 10		175.2 runs/min
+
+
+Firefox v.118.0.2
+---------------------------------------------------------------
+Arithmetic Mean:		205 ± 9.1 (4.4%)
+Iteration 1		171.5 runs/min	<-- WORST
+Iteration 2		215.1 runs/min
+Iteration 3		210.0 runs/min
+Iteration 4		211.2 runs/min
+Iteration 5		216.2 runs/min	<-- BEST
+Iteration 6		209.3 runs/min
+Iteration 7		208.9 runs/min
+Iteration 8		207.0 runs/min
+Iteration 9		203.9 runs/min
+Iteration 10		201.6 runs/min
+
+
+Thorium (Chromium fork) v.117.0.5938.157 (Official Build) stable via AUR in Distrobox
+---------------------------------------------------------------
+Arithmetic Mean:		202 ± 9.3 (4.6%)
+Iteration 1		167.9 runs/min	<-- WORST
+Iteration 2		200.5 runs/min
+Iteration 3		206.5 runs/min
+Iteration 4		205.9 runs/min
+Iteration 5		209.0 runs/min
+Iteration 6		209.3 runs/min
+Iteration 7		195.7 runs/min
+Iteration 8		201.2 runs/min
+Iteration 9		207.2 runs/min
+Iteration 10		214.0 runs/min	<-- BEST
+
+
+Web (GNOME browser, WebkitGTK-based) v.45.0 - added via FlatHub because not in Bluefin
+---------------------------------------------------------------
+Arithmetic Mean:		186 ± 4.9 (2.7%)
+Iteration 1		168.8 runs/min	<-- WORST
+Iteration 2		181.5 runs/min
+Iteration 3		191.8 runs/min
+Iteration 4		187.2 runs/min
+Iteration 5		186.7 runs/min
+Iteration 6		190.0 runs/min
+Iteration 7		191.8 runs/min	<-- BEST
+Iteration 8		190.7 runs/min
+Iteration 9		187.3 runs/min
+Iteration 10		184.4 runs/min

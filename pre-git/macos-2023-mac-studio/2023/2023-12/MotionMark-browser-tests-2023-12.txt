@@ -1,0 +1,50 @@
+MotionMark 1.2 web browser tests on macOS
+macOS Sonoma v.14.1.2
+Mac Studio (mid-2023 version)
+M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
+===================================================================
+
+URL: https://browserbench.org/MotionMark1.2/
+Each in private window; disabled extensions and tracking protection
+All results "on a large screen (desktop)"
+
+----------------------------------------------------------------------------------------
+ALL						CHROMIUM-ONLY
+1. Google Chrome	4864.02 ± 11.71%		1. Google Chrome	4864.02 ± 11.71%
+2. Microsoft Edge	4583.58 ± 22.42%		2. Microsoft Edge	4583.58 ± 22.42%
+3. Arc			4497.63 ± 14.03%		3. Arc			4497.63 ± 14.03%
+4. Safari		4461.82 ± 15.68%
+5. Orion		3753.71 ± 19.97%
+6. Brave		3632.97 ± 27.96%		4. Brave		3632.97 ± 27.96%
+7. Mozilla Firefox	1800.21 ± 2.34%
+----------------------------------------------------------------------------------------
+
+Google Chrome v.120.0.6099.71 (Official Build) (arm64)
+2023-12-08
+Score: 4864.02 ± 11.71%
+
+Brave v.1.61.101 Chromium: 120.0.6099.71 (Official Build) (arm64)
+2023-12-08
+Score: 3632.97 ± 27.96%
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-08
+Score: 1800.21 ± 2.34%
+
+Safari v.17.1.2 (19616.2.9.11.12)
+2023-12-08
+Score: 4461.82 ± 15.68%
+
+Microsoft Edge v.120.0.2210.61 (Official build) (arm64)
+Chromium v.120.0.6099.71
+2023-12-08
+Score: 4583.58 ± 22.42%
+
+Arc v.1.20.1 (43987)
+Chromium v.120.0.6099.56 (Official Build) (arm64)
+2023-12-09
+Score: 4497.63 ± 14.03%
+
+Orion v.0.99.126.3-beta (WebKit 618.1.2)
+2023-12-09
+Score: 3753.71 ± 19.97%
