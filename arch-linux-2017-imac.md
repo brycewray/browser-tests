@@ -4,8 +4,8 @@
 
 - Arch Linux
   - Firmware v.515.0.0.0.0
-  - Linux kernel 6.6.3-arch1-1
-  - GNOME 45.1 / Wayland
+  - Linux kernel 6.6.4-arch1-1
+  - GNOME 45.2 / Wayland
 - iMac 18,3 (mid-2017 iMac)
   - Intel® Core™ i7-7700K × 8, 64GB RAM
   - AMD Radeon™ Pro 580X running 3840x2160 at 2x
