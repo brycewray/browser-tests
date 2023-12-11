@@ -75,7 +75,7 @@ URL: https://browserbench.org/Speedometer2.1/
 | Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Runs/<br>min. | Date |
 |:--|:--|:--|:-:|:-:|:-:|:-:|
 | 1. | 1. | Brave | 1.61.101 | 120.0.6099.71 | 171.6 | 2023-12-08 |
-| 2. | 2. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 167.5 |
+| 2. | 2. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 167.5 | 2023-12-08 |
 | 3. | - | Mozilla Firefox | 120.0.1 | - | 161.5 | 2023-12-08 |
 | 4. | 3. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 139.8 | 2023-12-08 |
 | 5. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71  | 136.2 | 2023-12-08 |
