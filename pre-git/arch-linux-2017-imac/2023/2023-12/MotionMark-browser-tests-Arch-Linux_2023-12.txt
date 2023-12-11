@@ -1,0 +1,46 @@
+MotionMark 1.2 web browser tests on Linux
+Arch Linux
+Firmware v.515.0.0.0.0
+Linux kernel 6.6.4-arch1-1
+GNOME 45.2 / Wayland
+iMac 18,3 (mid-2017 iMac)
+Intel® Core™ i7-7700K × 8, 64GB RAM
+AMD Radeon™ Pro 580X running 3840x2160 at 2x
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+URL: https://browserbench.org/MotionMark1.2/
+Each in private window with extensions and tracking protection off
+All results "on a large screen (desktop)"
+
+-----------------------------------------------------------------------
+					CHROMIUM-ONLY
+1. Mozilla Firefox	969.82
+2. Brave		969.30		1. Brave		969.30
+3. Google Chrome	958.93		2. Google Chrome	958.93
+4. Microsoft Edge	829.41		3. Microsoft Edge	829.41
+5. Ungoogled Chromium	819.25		4. Ungoogled Chromium	819.25
+-----------------------------------------------------------------------
+
+Google Chrome v.120.0.6099.71 (Official Build) unknown (64-bit)
+2023-12-08
+Score: 958.93 ± 2.70% 
+
+Brave v.1.61.101 with Chromium: 120.0.6099.71 (Official Build) unknown (64-bit)
+2023-12-08
+Score: 969.30 ± 9.31%
+
+Microsoft Edge v.120.0.2210.61 (Official build) (64-bit)
+2023-12-08
+Score: 829.41 ± 2.98%
+
+Ungoogled Chromium v.119.0.6045.199 (Official Build, ungoogled-chromium) Arch Linux (64-bit)
+via AUR (`ungoogled-chromium-bin`)
+2023-12-08
+Score: 819.25 ± 2.94%
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-08
+Score: 969.82 ± 2.79%
+

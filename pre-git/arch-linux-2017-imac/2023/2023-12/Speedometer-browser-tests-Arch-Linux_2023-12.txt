@@ -1,0 +1,113 @@
+Speedometer web browser tests on Linux
+Arch Linux
+Firmware v.515.0.0.0.0
+Linux kernel 6.6.4-arch1-1
+GNOME 45.2 / Wayland
+iMac 18,3 (mid-2017 iMac)
+Intel® Core™ i7-7700K × 8 cores, 64GB RAM
+AMD Radeon™ Pro 580X running 3840x2160 at 2x
+
+Each browser via Flathub unless otherwise noted
+===============================================
+
+URL: https://browserbench.org/Speedometer2.1/
+Each in private window with extensions and tracking protection off
+
+-----------------------------------------------------------------------
+By arithmetic mean			CHROMIUM-ONLY
+1. Mozilla Firefox	202
+2. Google Chrome	189		1. Google Chrome	189
+3. Brave		187		2. Brave		187
+4. Microsoft Edge	159		3. Microsoft Edge	159
+5. Ungoogled Chromium	153		4. Ungoogled Chromium	153
+
+By best among 10			CHROMIUM-ONLY
+1. Mozilla Firefox	221.0
+2. Google Chrome	198.1		1. Google Chrome	198.1
+3. Brave		197.5		2. Brave		197.5
+4. Microsoft Edge	168.5		3. Microsoft Edge	168.5
+5. Ungoogled Chromium	158.8		4. Ungoogled Chromium	158.8
+
+By worst among 10			CHROMIUM-ONLY
+1. Brave		171.6		1. Brave		171.6
+2. Google Chrome	167.5		2. Google Chrome	167.5
+3. Mozilla Firefox	161.5
+4. Ungoogled Chromium	139.8		3. Ungoogled Chromium	139.8
+5. Microsoft Edge	136.2		4. Microsoft Edge	136.2
+-----------------------------------------------------------------------
+
+Google Chrome v.120.0.6099.71 (Official Build) unknown (64-bit)
+2023-12-08
+Arithmetic Mean: 189 ± 5.9 (3.1%)
+Iteration 1	167.5 runs/min	<-- WORST
+Iteration 2	188.5 runs/min
+Iteration 3	189.7 runs/min
+Iteration 4	186.9 runs/min
+Iteration 5	198.1 runs/min	<-- BEST
+Iteration 6	190.0 runs/min
+Iteration 7	194.8 runs/min
+Iteration 8	187.5 runs/min
+Iteration 9	193.2 runs/min
+Iteration 10	191.4 runs/min
+
+
+Brave v.1.61.101 with Chromium: 120.0.6099.71 (Official Build) unknown (64-bit)
+2023-12-08
+Arithmetic Mean: 187 ± 5.5 (2.9%)
+Iteration 1	171.6 runs/min	<-- WORST
+Iteration 2	192.4 runs/min
+Iteration 3	179.9 runs/min
+Iteration 4	191.3 runs/min
+Iteration 5	197.5 runs/min	<-- BEST
+Iteration 6	186.9 runs/min
+Iteration 7	190.6 runs/min
+Iteration 8	183.9 runs/min
+Iteration 9	192.9 runs/min
+Iteration 10	182.2 runs/min
+
+
+Microsoft Edge v.120.0.2210.61 (Official build) (64-bit)
+2023-12-08
+Arithmetic Mean: 159 ± 6.6 (4.2%)
+Iteration 1	136.2 runs/min	<-- WORST
+Iteration 2	151.0 runs/min
+Iteration 3	166.3 runs/min
+Iteration 4	161.2 runs/min
+Iteration 5	158.4 runs/min
+Iteration 6	161.4 runs/min
+Iteration 7	161.7 runs/min
+Iteration 8	163.1 runs/min
+Iteration 9	168.5 runs/min	<-- BEST
+Iteration 10	158.1 runs/min
+
+
+Ungoogled Chromium v.119.0.6045.199 (Official Build, ungoogled-chromium) Arch Linux (64-bit)
+via AUR (`ungoogled-chromium-bin`)
+2023-12-08
+Arithmetic Mean: 153 ± 3.8 (2.5%)
+Iteration 1	139.8 runs/min	<-- WORST
+Iteration 2	158.8 runs/min	<-- BEST
+Iteration 3	151.4 runs/min
+Iteration 4	152.7 runs/min
+Iteration 5	154.3 runs/min
+Iteration 6	157.5 runs/min
+Iteration 7	151.8 runs/min
+Iteration 8	156.7 runs/min
+Iteration 9	156.7 runs/min
+Iteration 10	152.8 runs/min
+
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-08
+Arithmetic Mean: 202 ± 17 (8.3%)
+Iteration 1	161.5 runs/min	<-- WORST
+Iteration 2	205.8 runs/min
+Iteration 3	218.5 runs/min
+Iteration 4	215.6 runs/min
+Iteration 5	208.9 runs/min
+Iteration 6	212.8 runs/min
+Iteration 7	213.8 runs/min
+Iteration 8	221.0 runs/min	<-- BEST
+Iteration 9	155.8 runs/min
+Iteration 10	205.4 runs/min
+
