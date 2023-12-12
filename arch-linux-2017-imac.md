@@ -8,7 +8,7 @@
   - GNOME 45.2 / Wayland
 - iMac 18,3 (mid-2017 iMac)
   - Intel® Core™ i7-7700K × 8, 64GB RAM
-  - AMD Radeon™ Pro 580X running 3840x2160 at 2x
+  - AMD Radeon™ Pro 580X running 3840 × 2160 at 2x
 - Each browser running in private window; disabled extensions and tracking protection
 - Each browser via Flathub unless otherwise noted
 

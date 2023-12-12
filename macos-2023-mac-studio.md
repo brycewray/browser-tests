@@ -5,6 +5,7 @@
 - macOS Sonoma v.14.1.2
 - Mac Studio (mid-2023 version)
   - M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
+  - Internal graphics running 5120 × 2880 at 2x (“Retina”)
 - Each browser running in private window; disabled extensions and tracking protection
 
 ----
