@@ -17,12 +17,12 @@ URL: https://browserbench.org/JetStream/
 | Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
 |:--|:--|:--|:-:|:-:|:-:|--:|
 | 1. | - | Orion | 0.99.126.4-beta (WebKit 618.1.2) | - | 364.465 | 2023-12-12 |
-| 2. | - | Safari | 17.2 (19617.1.17.11.9) | - | 357.901 | 2023-12-12 |
-| 3. | 1. | Brave | 1.61.101 | 120.0.6099.71 | 356.283 | 2023-12-12 |
-| 4. | 2. | Vivaldi | 6.4.3160.47 | 118.0.5993.161 | 353.843 | 2023-12-12 |
-| 5. | 3. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 352.909 | 2023-12-12 |
-| 6. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 351.304 | 2023-12-12 |
-| 7. | 5. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 337.223 | 2023-12-12 |
+| 2. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 361.499 | 2023-12-13 |
+| 3. | - | Safari | 17.2 (19617.1.17.11.9) | - | 357.901 | 2023-12-12 |
+| 4. | 2. | Brave | 1.61.101 | 120.0.6099.71 | 356.283 | 2023-12-12 |
+| 5. | 3. | Vivaldi | 6.4.3160.47 | 118.0.5993.161 | 353.843 | 2023-12-12 |
+| 6. | 4. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 352.909 | 2023-12-12 |
+| 7. | 5. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 351.304 | 2023-12-12 |
 | 8. | - | Mozilla Firefox | 120.0.1 | - | 236.867 | 2023-12-12 |
 
 ----
@@ -35,7 +35,7 @@ All results “on a large screen (desktop)” as per instructions
 
 | Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
 |:--|:--|:--|:-:|:-:|:-:|--:|
-| 1. | 1. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 4612.97 ± 12.79% | 2023-12-12 |
+| 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 4642.71 ± 14.80% | 2023-12-13 |
 | 2. | 2. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 4546.73 ± 14.47% | 2023-12-12 |
 | 3. | 3. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 4496.01 ± 27.22% | 2023-12-12 |
 | 4. | 4. | Vivaldi | 6.4.3160.47 | 118.0.5993.161 | 4467.11 ± 13.73% | 2023-12-12 |
@@ -60,7 +60,7 @@ URL: https://browserbench.org/Speedometer2.1/
 | 4. | 2. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 423 ± 23 (5.4%) | 2023-12-12 |
 | 5. | 3. | Brave | 1.61.101 | 120.0.6099.71 | 415 ± 16 (3.9%) | 2023-12-12 |
 | 6. | 4. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 408 ± 25 (6.2%) | 2023-12-12 |
-| 7. | 5. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 401 ± 18 (4.4%) | 2023-12-12 |
+| 7. | 5. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 403 ± 16 (4.0%) | 2023-12-13 |
 | 8. | - | Orion | 0.99.126.4-beta (WebKit 618.1.2) | - | 332 ± 28 (8.3%) | 2023-12-12 |
 
 ### By BEST RESULT of 10 iterations
@@ -73,7 +73,7 @@ URL: https://browserbench.org/Speedometer2.1/
 | 4. | 2. | Vivaldi | 6.4.3160.47 | 118.0.5993.161 | 446.8 | 2023-12-12 |
 | 5. | 3. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 439.2 | 2023-12-12 |
 | 6. | 4. | Brave | 1.61.101 | 120.0.6099.71 | 430.4 | 2023-12-12 |
-| 7. | 5. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 417.7 | 2023-12-12 |
+| 7. | 5. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 415.7 | 2023-12-13 |
 | 8. | - | Orion | 0.99.126.4-beta (WebKit 618.1.2) | - | 391.4 | 2023-12-12 |
 
 ### By WORST RESULT of 10 iterations
@@ -83,11 +83,11 @@ URL: https://browserbench.org/Speedometer2.1/
 | 1. | - | Safari | 17.2 (19617.1.17.11.9) | - | 394.5 | 2023-12-12 |
 | 2. | 1. | Vivaldi | 6.4.3160.47 | 118.0.5993.161 | 354.6 | 2023-12-12 |
 | 3. | 2. | Brave | 1.61.101 | 120.0.6099.71 | 354.0 | 2023-12-12 |
-| 4. | 3. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 339.7 | 2023-12-12 |
-| T5. | 4. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 334.4 | 2023-12-12 |
-| T5. | - | Mozilla Firefox | 120.0.1 | - | 334.4 | 2023-12-12 |
-| 7. | - | Orion | 0.99.126.4-beta (WebKit 618.1.2) | - | 334.2 | 2023-12-12 |
-| 8. | 5. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 332.7 | 2023-12-12 |
+| 4. | 3. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 341.7 | 2023-12-13 |
+| 5. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 339.7 | 2023-12-12 |
+| T6. | 5. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 334.4 | 2023-12-12 |
+| T6. | - | Mozilla Firefox | 120.0.1 | - | 334.4 | 2023-12-12 |
+| 8. | - | Orion | 0.99.126.4-beta (WebKit 618.1.2) | - | 334.2 | 2023-12-12 |
 
 ----
 
@@ -97,9 +97,9 @@ URL: https://browserbench.org/Speedometer2.1/
 
 #### JetStream raw data
 
-Google Chrome v.120.0.6099.71 (Official Build) (arm64)
-2023-12-12
-Score: 337.223
+Google Chrome v.120.0.6099.109 (Official Build) (arm64)
+2023-12-13
+Score: 361.499
 
 Brave v.1.61.101 Chromium: 120.0.6099.71 (Official Build) (arm64)
 2023-12-12
@@ -134,9 +134,9 @@ Score: 353.843
 
 #### MotionMark raw data
 
-Google Chrome v.120.0.6099.71 (Official Build) (arm64)
-2023-12-12
-Score: 4612.97 ± 12.79%
+Google Chrome v.120.0.6099.109 (Official Build) (arm64)
+2023-12-13
+Score: 4642.71 ± 14.80%
 
 Brave v.1.61.101 Chromium: 120.0.6099.71 (Official Build) (arm64)
 2023-12-12
@@ -171,19 +171,19 @@ Score: 4467.11 ± 13.73%
 
 #### Speedometer raw data
 
-Google Chrome v.120.0.6099.71 (Official Build) (arm64)
-2023-12-12
-Arithmetic Mean: 401 ± 18 (4.4%)
-Iteration 1	332.7 runs/min  <-- WORST
-Iteration 2	398.3 runs/min
-Iteration 3	406.3 runs/min
-Iteration 4	405.3 runs/min
-Iteration 5	410.4 runs/min
-Iteration 6	417.7 runs/min  <-- BEST
-Iteration 7	399.8 runs/min
-Iteration 8	407.8 runs/min
-Iteration 9	415.4 runs/min
-Iteration 10	413.4 runs/min
+Google Chrome v.120.0.6099.109 (Official Build) (arm64)
+2023-12-13
+Arithmetic Mean: 403 ± 16 (4.0%)
+Iteration 1	341.7 runs/min  <-- WORST
+Iteration 2	393.8 runs/min
+Iteration 3	411.1 runs/min
+Iteration 4	414.4 runs/min
+Iteration 5	413.4 runs/min
+Iteration 6	415.3 runs/min
+Iteration 7	414.8 runs/min
+Iteration 8	415.7 runs/min  <-- BEST
+Iteration 9	412.3 runs/min
+Iteration 10	401.1 runs/min
 
 Brave v.1.61.101 Chromium: 120.0.6099.71 (Official Build) (arm64)
 2023-12-12
