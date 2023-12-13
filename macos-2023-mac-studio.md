@@ -10,7 +10,7 @@
 
 ----
 
-## Jetstream 2.1
+## JetStream 2.1
 
 URL: https://browserbench.org/JetStream/
 
