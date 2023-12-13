@@ -17,4 +17,3 @@
 |:--|:-:|:-:|:-:|--:|
 | [Firefox](https://groups.google.com/a/mozilla.org/g/announce) | [Open](https://hg.mozilla.org/mozilla-central/) | 120.0.1 | Gecko | 2023-11-30-0820CST |
 | [Orion](https://kagi.com/orion/updates/orion-release-notes.html) | Closed | 0.99.126.4 (beta) | WebKit | 2023-12-11-2007CST |
-| [SigmaOS](https://sigmaos.com/update) | Closed | 1.13 | WebKit | 2023-11-17-????CST |
