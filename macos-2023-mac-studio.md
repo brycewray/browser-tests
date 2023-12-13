@@ -14,8 +14,8 @@
 
 URL: https://browserbench.org/JetStream/
 
-| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
-|:--|:--|:--|:-:|:-:|:-:|--:|
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | - | Orion | 0.99.126.4-beta (WebKit 618.1.2) | - | 364.465 | 2023-12-12 |
 | 2. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 361.499 | 2023-12-13 |
 | 3. | - | Safari | 17.2 (19617.1.17.11.9) | - | 357.901 | 2023-12-12 |
@@ -33,8 +33,8 @@ URL: https://browserbench.org/MotionMark1.2/
 
 All results “on a large screen (desktop)” as per instructions
 
-| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
-|:--|:--|:--|:-:|:-:|:-:|--:|
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 4642.71 ± 14.80% | 2023-12-13 |
 | 2. | 2. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 4546.73 ± 14.47% | 2023-12-12 |
 | 3. | 3. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 4496.01 ± 27.22% | 2023-12-12 |
@@ -52,8 +52,8 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ### By arithmetic mean
 
-| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
-|:--|:--|:--|:-:|:-:|:-:|--:|
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | - | Safari | 17.2 (19617.1.17.11.9) | - | 490 ± 25 (5.0%) | 2023-12-12 |
 | 2. | 1. | Vivaldi | 6.4.3160.47 | 118.0.5993.161 | 443 ± 24 (5.3%) | 2023-12-12 |
 | 3. | - | Mozilla Firefox | 120.0.1 | - | 436 ± 26 (6.0%) | 2023-12-12 |
@@ -65,8 +65,8 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ### By BEST RESULT of 10 iterations
 
-| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Runs/<br>min. | Date |
-|:--|:--|:--|:-:|:-:|:-:|--:|
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | - | Safari | 17.2 (19617.1.17.11.9) | - | 515.7 | 2023-12-12 |
 | 2. | - | Mozilla Firefox | 120.0.1 | - | 457.8 | 2023-12-12 |
 | 3. | 1. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 449.2 | 2023-12-12 |
@@ -78,8 +78,8 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ### By WORST RESULT of 10 iterations
 
-| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Runs/<br>min. | Date |
-|:--|:--|:--|:-:|:-:|:-:|--:|
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | - | Safari | 17.2 (19617.1.17.11.9) | - | 394.5 | 2023-12-12 |
 | 2. | 1. | Brave | 1.61.104 | 120.0.6099.115 | 361.0 | 2023-12-13 |
 | 3. | 2. | Vivaldi | 6.4.3160.47 | 118.0.5993.161 | 354.6 | 2023-12-12 |
