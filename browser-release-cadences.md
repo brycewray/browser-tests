@@ -17,5 +17,5 @@
 | Browser | Source | Browser version | Engine | Timestamp |
 |:--|:-:|:-:|:-:|--:|
 | [Firefox](https://groups.google.com/a/mozilla.org/g/announce) | [Open](https://hg.mozilla.org/mozilla-central/) | 120.0.1 | Gecko | 2023-11-30-0820CST |
-| [Orion](https://kagi.com/orion/updates/orion-release-notes.html) | Closed | 0.99.126.4 (beta) | WebKit | 2023-12-11-2007CST |
+| [Orion](https://kagi.com/orion/updates/orion-release-notes.html) | Closed | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | WebKit | 2023-12-13-????CST |
 | [Safari](https://developer.apple.com/documentation/safari-release-notes/) | Closed | 17.2 (19617.1.17) | WebKit | 2023-12-11-????CST |
