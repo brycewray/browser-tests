@@ -10,7 +10,7 @@
 | [Brave](https://github.com/brave/brave-browser/releases) | [Open](https://github.com/brave/brave-browser) | 1.61.104 | 120.0.6099.115<br>Stable | 2023-12-13-0318CST |
 | [Google Chrome](https://chromereleases.googleblog.com/search/label/Stable%20updates) | Closed | 120.0.6099.109 | 120.0.6099.109<br>Stable | 2023-12-12-1817CST |
 | [Microsoft Edge](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel) | Closed | 120.0.2210.61 | 120.0.6099.71<br>Stable | 2023-12-07-????CST |
-| [Vivaldi](https://vivaldi.com/blog/desktop/updates/) | Closed | 6.5 (3206.39) | 120.0.6099.121[^OneTwentyOne]<br>Extended stable | 2023-11-28-1615CST |
+| [Vivaldi](https://vivaldi.com/blog/desktop/updates/) | Closed | 6.5.3206.39 | 120.0.6099.121[^OneTwentyOne]<br>Extended stable | 2023-11-28-1615CST |
 
 [^OneTwentyOne]: Chromium extended stable v.120.0.6099.121 release timestamp: 2023-12-12-1742CST.
 
