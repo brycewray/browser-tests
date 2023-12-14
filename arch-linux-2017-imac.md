@@ -18,8 +18,8 @@
 
 URL: https://browserbench.org/JetStream/
 
-| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
-|:--|:--|:--|:-:|:-:|:-:|--:|
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | 1. | Brave | 1.61.101 | 120.0.6099.71 | 183.157 | 2023-12-08 |
 | 2. | 2. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 182.543 | 2023-12-08 |
 | 3. | 3. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 179.141 | 2023-12-08 |
@@ -36,8 +36,8 @@ URL: https://browserbench.org/MotionMark1.2/
 
 All results “on a large screen (desktop)” as per instructions
 
-| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
-|:--|:--|:--|:-:|:-:|:-:|--:|
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | - | Mozilla Firefox | 120.0.1 | - | 969.82 ± 2.79% | 2023-12-08 |
 | 2. | 1. | Brave | 1.61.101 | 120.0.6099.71 | 969.30 ± 9.31% | 2023-12-08 |
 | 3. | 2. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 958.93 ± 2.70% | 2023-12-08 |
@@ -52,8 +52,8 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ### By arithmetic mean
 
-| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Score | Date |
-|:--|:--|:--|:-:|:-:|:-:|--:|
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | - | Mozilla Firefox | 120.0.1 | - | 202 ± 17 (8.3%) | 2023-12-08 |
 | 2. | 1. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 189 ± 5.9 (3.1%) | 2023-12-08 |
 | 3. | 2. | Brave | 1.61.101 | 120.0.6099.71 | 187 ± 5.5 (2.9%) | 2023-12-08 |
@@ -62,8 +62,8 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ### By BEST RESULT of 10 iterations
 
-| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Runs/<br>min. | Date |
-|:--|:--|:--|:-:|:-:|:-:|--:|
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | - | Mozilla Firefox | 120.0.1 | - | 221.0 | 2023-12-08 |
 | 2. | 1. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 198.1 | 2023-12-08 |
 | 3. | 2. | Brave | 1.61.101 | 120.0.6099.71 | 197.5 | 2023-12-08 |
@@ -72,8 +72,8 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ### By WORST RESULT of 10 iterations
 
-| Rank | Chr.<br>rank | Browser | Version | Chr.<br>version | Runs/<br>min. | Date |
-|:--|:--|:--|:-:|:-:|:-:|--:|
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | 1. | Brave | 1.61.101 | 120.0.6099.71 | 171.6 | 2023-12-08 |
 | 2. | 2. | Google Chrome | 120.0.6099.71 | 120.0.6099.71 | 167.5 | 2023-12-08 |
 | 3. | - | Mozilla Firefox | 120.0.1 | - | 161.5 | 2023-12-08 |
