@@ -2,7 +2,7 @@
 
 ## Chromium browsers
 
-| Browser | Source | Browser version<br>Timestamp | Chromium version<br>Timestamp |
+| Browser | Source | Browser version and timestamp | Chromium version and timestamp |
 |:--|:-:|:-:|:-:|
 | *[Chromium stable](https://chromiumdash.appspot.com/releases?platform=Mac)* | *[Open](https://github.com/chromium/chromium)* | &mdash; | *120.0.6099.109<br>2023-12-11-1348CST* |
 | *[Chromium extended stable](https://chromiumdash.appspot.com/releases?platform=Mac)* | *[Open](https://github.com/chromium/chromium)* | &mdash; | *120.0.6099.109<br>2023-12-11-1348CST* |
