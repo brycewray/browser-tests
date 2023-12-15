@@ -10,42 +10,6 @@
 
 ----
 
-## JetStream 2.1
-
-URL: https://browserbench.org/JetStream/
-
-| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 361.499 | 2023-12-13 |
-| 2. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 357.901 | 2023-12-12 |
-| 3. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 356.565 | 2023-12-14 |
-| 4. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 355.110 | 2023-12-14 |
-| 5. | 3. | Arc | 1.21.1 (44274) | 120.0.6099.109 | 354.602 | 2023-12-15 |
-| 6. | 4. | Brave | 1.61.104 | 120.0.6099.115 | 341.232 | 2023-12-13 |
-| 7. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 334.443 | 2023-12-15 |
-| 8. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 236.867 | 2023-12-12 |
-
-----
-
-## MotionMark 1.2
-
-URL: https://browserbench.org/MotionMark1.2/
-
-All results “on a large screen (desktop)” as per instructions
-
-| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 4642.71 ± 14.80% | 2023-12-13 |
-| 2. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 4519.09 ± 18.93% | 2023-12-14 |
-| 3. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 4365.06 ± 31.82% | 2023-12-12 |
-| 4. | 3. | Arc | 1.21.1 (44274) | 120.0.6099.109 | 4363.96 ± 10.10% | 2023-12-15 |
-| 5. | 4. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 4253.68 ± 25.98% | 2023-12-15 |
-| 6. | 5. | Brave | 1.61.104 | 120.0.6099.115 | 3657.34 ± 22.13% | 2023-12-13 |
-| 7. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 3653.62 ± 5.89% | 2023-12-14 |
-| 8. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 1777.31 ± 4.87% | 2023-12-12 |
-
-----
-
 ## Speedometer 2.1
 
 URL: https://browserbench.org/Speedometer2.1/
@@ -91,83 +55,45 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ----
 
+## JetStream 2.1
+
+URL: https://browserbench.org/JetStream/
+
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
+| 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 361.499 | 2023-12-13 |
+| 2. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 357.901 | 2023-12-12 |
+| 3. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 356.565 | 2023-12-14 |
+| 4. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 355.110 | 2023-12-14 |
+| 5. | 3. | Arc | 1.21.1 (44274) | 120.0.6099.109 | 354.602 | 2023-12-15 |
+| 6. | 4. | Brave | 1.61.104 | 120.0.6099.115 | 341.232 | 2023-12-13 |
+| 7. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 334.443 | 2023-12-15 |
+| 8. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 236.867 | 2023-12-12 |
+
+----
+
+## MotionMark 1.2
+
+URL: https://browserbench.org/MotionMark1.2/
+
+All results “on a large screen (desktop)” as per instructions
+
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
+| 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 4642.71 ± 14.80% | 2023-12-13 |
+| 2. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 4519.09 ± 18.93% | 2023-12-14 |
+| 3. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 4365.06 ± 31.82% | 2023-12-12 |
+| 4. | 3. | Arc | 1.21.1 (44274) | 120.0.6099.109 | 4363.96 ± 10.10% | 2023-12-15 |
+| 5. | 4. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 4253.68 ± 25.98% | 2023-12-15 |
+| 6. | 5. | Brave | 1.61.104 | 120.0.6099.115 | 3657.34 ± 22.13% | 2023-12-13 |
+| 7. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 3653.62 ± 5.89% | 2023-12-14 |
+| 8. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 1777.31 ± 4.87% | 2023-12-12 |
+
+----
+
 ### *Raw data*
 
 *(Unformatted for Markdown; best viewed in “raw” form on GH/GL.)*
-
-#### JetStream raw data
-
-Google Chrome v.120.0.6099.109 (Official Build) (arm64)
-2023-12-13
-Score: 361.499
-
-Brave v.1.61.104 Chromium: 120.0.6099.115 (Official Build) (arm64)
-2023-12-13
-Score: 341.232
-
-Mozilla Firefox v.120.0.1 (64-bit)
-2023-12-12
-Score: 236.867
-
-Safari v.17.2 (19617.1.17.11.9)
-2023-12-12
-Score: 357.901
-
-Microsoft Edge v.120.0.2210.77 (Official build) (arm64)
-Chromium v.120.0.6099.110
-2023-12-15
-Score: 334.443
-
-Arc v.1.20.1 (43987)
-Chromium v.120.0.6099.109 (Official Build) (arm64)
-2023-12-15
-Score: 354.602
-
-Orion v.0.99.126.4.1-beta (WebKit 618.1.2)
-2023-12-14
-Score: 356.565
-
-Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
-Chromium v.120.0.6099.121
-2023-12-14
-Score: 355.110
-
-#### MotionMark raw data
-
-Google Chrome v.120.0.6099.109 (Official Build) (arm64)
-2023-12-13
-Score: 4642.71 ± 14.80%
-
-Brave v.1.61.104 Chromium: 120.0.6099.115 (Official Build) (arm64)
-2023-12-13
-Score: 3657.34 ± 22.13%
-
-Mozilla Firefox v.120.0.1 (64-bit)
-2023-12-12
-Score: 1777.31 ± 4.87%
-
-Safari v.17.2 (19617.1.17.11.9)
-2023-12-12
-Score: 4365.06 ± 31.82%
-
-Microsoft Edge v.120.0.2210.77 (Official build) (arm64)
-Chromium v.120.0.6099.110
-2023-12-15
-Score: 4253.68 ± 25.98%
-
-Arc v.1.20.1 (43987)
-Chromium v.120.0.6099.109 (Official Build) (arm64)
-2023-12-15
-Score: 4363.96 ± 10.10%
-
-Orion v.0.99.126.4.1-beta (WebKit 618.1.2)
-2023-12-14
-Score: 3653.62 ± 5.89%
-
-Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
-Chromium v.120.0.6099.121
-2023-12-14
-Score: 4519.09 ± 18.93%
 
 #### Speedometer raw data
 
@@ -285,3 +211,77 @@ Iteration 7	448.0 runs/min
 Iteration 8	434.4 runs/min
 Iteration 9	441.3 runs/min
 Iteration 10	442.9 runs/min
+
+#### JetStream raw data
+
+Google Chrome v.120.0.6099.109 (Official Build) (arm64)
+2023-12-13
+Score: 361.499
+
+Brave v.1.61.104 Chromium: 120.0.6099.115 (Official Build) (arm64)
+2023-12-13
+Score: 341.232
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-12
+Score: 236.867
+
+Safari v.17.2 (19617.1.17.11.9)
+2023-12-12
+Score: 357.901
+
+Microsoft Edge v.120.0.2210.77 (Official build) (arm64)
+Chromium v.120.0.6099.110
+2023-12-15
+Score: 334.443
+
+Arc v.1.20.1 (43987)
+Chromium v.120.0.6099.109 (Official Build) (arm64)
+2023-12-15
+Score: 354.602
+
+Orion v.0.99.126.4.1-beta (WebKit 618.1.2)
+2023-12-14
+Score: 356.565
+
+Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
+Chromium v.120.0.6099.121
+2023-12-14
+Score: 355.110
+
+#### MotionMark raw data
+
+Google Chrome v.120.0.6099.109 (Official Build) (arm64)
+2023-12-13
+Score: 4642.71 ± 14.80%
+
+Brave v.1.61.104 Chromium: 120.0.6099.115 (Official Build) (arm64)
+2023-12-13
+Score: 3657.34 ± 22.13%
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-12
+Score: 1777.31 ± 4.87%
+
+Safari v.17.2 (19617.1.17.11.9)
+2023-12-12
+Score: 4365.06 ± 31.82%
+
+Microsoft Edge v.120.0.2210.77 (Official build) (arm64)
+Chromium v.120.0.6099.110
+2023-12-15
+Score: 4253.68 ± 25.98%
+
+Arc v.1.20.1 (43987)
+Chromium v.120.0.6099.109 (Official Build) (arm64)
+2023-12-15
+Score: 4363.96 ± 10.10%
+
+Orion v.0.99.126.4.1-beta (WebKit 618.1.2)
+2023-12-14
+Score: 3653.62 ± 5.89%
+
+Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
+Chromium v.120.0.6099.121
+2023-12-14
+Score: 4519.09 ± 18.93%

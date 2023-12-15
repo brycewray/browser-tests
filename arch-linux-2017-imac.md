@@ -14,42 +14,6 @@
 
 ----
 
-## JetStream 2.1
-
-URL: https://browserbench.org/JetStream/
-
-| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | 1. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 183.205 | 2023-12-14 |
-| 2. | &mdash; | GNOME Web/Epiphany | 45.1 | &mdash; | 183.110 | 2023-12-14 |
-| 3. | 2. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 182.391 | 2023-12-14 |
-| 4. | 3. | Brave | 1.61.104 | 120.0.6099.109 | 180.530 | 2023-12-14 |
-| 5. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 179.129 | 2023-12-14 |
-| 6. | 5. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 175.108 | 2023-12-14 |
-| 7. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 134.625 | 2023-12-14 |
-
-[^UgC]: From the AUR as `ungoogled-chromium-bin`.
-
-----
-
-## MotionMark 1.2
-
-URL: https://browserbench.org/MotionMark1.2/
-
-All results “on a large screen (desktop)” as per instructions
-
-| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 998.71 ± 1.98% | 2023-12-14 |
-| 2. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 984.94 ± 6.32% | 2023-12-14 |
-| 3. | 3. | Brave | 1.61.104 | 120.0.6099.109 | 957.88 ± 9.12% | 2023-12-14 |
-| 4. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 946.89 ± 8.67% | 2023-12-14 |
-| 5. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 828.42 ± 4.86% | 2023-12-14 |
-| 6. | 5. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 819.83 ± 2.71% | 2023-12-14 |
-| 7. | &mdash; | GNOME Web/Epiphany | 45.1 | &mdash; | 228.86 ± 25.23% | 2023-12-14 |
-
-----
-
 ## Speedometer 2.1
 
 URL: https://browserbench.org/Speedometer2.1/
@@ -92,72 +56,45 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ----
 
+## JetStream 2.1
+
+URL: https://browserbench.org/JetStream/
+
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
+| 1. | 1. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 183.205 | 2023-12-14 |
+| 2. | &mdash; | GNOME Web/Epiphany | 45.1 | &mdash; | 183.110 | 2023-12-14 |
+| 3. | 2. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 182.391 | 2023-12-14 |
+| 4. | 3. | Brave | 1.61.104 | 120.0.6099.109 | 180.530 | 2023-12-14 |
+| 5. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 179.129 | 2023-12-14 |
+| 6. | 5. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 175.108 | 2023-12-14 |
+| 7. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 134.625 | 2023-12-14 |
+
+[^UgC]: From the AUR as `ungoogled-chromium-bin`.
+
+----
+
+## MotionMark 1.2
+
+URL: https://browserbench.org/MotionMark1.2/
+
+All results “on a large screen (desktop)” as per instructions
+
+| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
+|--:|--:|:--|:-:|:-:|:-:|--:|
+| 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 998.71 ± 1.98% | 2023-12-14 |
+| 2. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 984.94 ± 6.32% | 2023-12-14 |
+| 3. | 3. | Brave | 1.61.104 | 120.0.6099.109 | 957.88 ± 9.12% | 2023-12-14 |
+| 4. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 946.89 ± 8.67% | 2023-12-14 |
+| 5. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 828.42 ± 4.86% | 2023-12-14 |
+| 6. | 5. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 819.83 ± 2.71% | 2023-12-14 |
+| 7. | &mdash; | GNOME Web/Epiphany | 45.1 | &mdash; | 228.86 ± 25.23% | 2023-12-14 |
+
+----
+
 ### *Raw data*
 
 *(Unformatted for Markdown; best viewed in “raw” form on GH/GL.)*
-
-#### JetStream raw data
-
-Google Chrome v.120.0.6099.109 (Official Build) unknown (64-bit)
-2023-12-14
-Score: 182.391
-
-Brave v.1.61.104 with Chromium: 120.0.6099.115 (Official Build) unknown (64-bit)
-2023-12-14
-Score: 180.530
-
-Microsoft Edge v.120.0.2210.61 (Official build) (64-bit)
-Chromium v.120.0.6099.71
-2023-12-14
-Score: 179.129
-
-Ungoogled Chromium v.119.0.6045.199 (Official Build, ungoogled-chromium) Arch Linux (64-bit)
-via AUR (`ungoogled-chromium-bin`)
-2023-12-14
-Score: 175.108
-
-Mozilla Firefox v.120.0.1 (64-bit)
-2023-12-14
-Score: 134.625
-
-Vivaldi v.6.5.3206.39 (Stable channel) (64-bit)
-Chromium v.120.0.6099.121
-Score: 183.205
-
-GNOME Web/Epiphany v.45.1
-Score: 183.110
-
-#### MotionMark raw data
-
-Google Chrome v.120.0.6099.109 (Official Build) unknown (64-bit)
-2023-12-14
-Score: 998.71 ± 1.98%
-
-Brave v.1.61.104 with Chromium: 120.0.6099.115 (Official Build) unknown (64-bit)
-2023-12-14
-Score: 957.88 ± 9.12%
-
-Microsoft Edge v.120.0.2210.61 (Official build) (64-bit)
-Chromium v.120.0.6099.71
-2023-12-14
-Score: 828.42 ± 4.86%
-
-Ungoogled Chromium v.119.0.6045.199 (Official Build, ungoogled-chromium) Arch Linux (64-bit)
-via AUR (`ungoogled-chromium-bin`)
-2023-12-08
-Score: 819.83 ± 2.71%
-
-Mozilla Firefox v.120.0.1 (64-bit)
-2023-12-14
-Score: 946.89 ± 8.67%
-
-Vivaldi v.6.5.3206.39 (Stable channel) (64-bit)
-Chromium v.120.0.6099.121
-Score: 984.94 ± 6.32%
-
-GNOME Web/Epiphany v.45.1
-Score: 228.86 ± 25.23%
-("Leaves" = 90.00 ± 302.74% - !?!)
 
 #### Speedometer raw data
 
@@ -259,3 +196,66 @@ Iteration 7	203.6 runs/min
 Iteration 8	206.8 runs/min  <-- BEST
 Iteration 9	202.1 runs/min
 Iteration 10	192.1 runs/min
+
+#### JetStream raw data
+
+Google Chrome v.120.0.6099.109 (Official Build) unknown (64-bit)
+2023-12-14
+Score: 182.391
+
+Brave v.1.61.104 with Chromium: 120.0.6099.115 (Official Build) unknown (64-bit)
+2023-12-14
+Score: 180.530
+
+Microsoft Edge v.120.0.2210.61 (Official build) (64-bit)
+Chromium v.120.0.6099.71
+2023-12-14
+Score: 179.129
+
+Ungoogled Chromium v.119.0.6045.199 (Official Build, ungoogled-chromium) Arch Linux (64-bit)
+via AUR (`ungoogled-chromium-bin`)
+2023-12-14
+Score: 175.108
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-14
+Score: 134.625
+
+Vivaldi v.6.5.3206.39 (Stable channel) (64-bit)
+Chromium v.120.0.6099.121
+Score: 183.205
+
+GNOME Web/Epiphany v.45.1
+Score: 183.110
+
+#### MotionMark raw data
+
+Google Chrome v.120.0.6099.109 (Official Build) unknown (64-bit)
+2023-12-14
+Score: 998.71 ± 1.98%
+
+Brave v.1.61.104 with Chromium: 120.0.6099.115 (Official Build) unknown (64-bit)
+2023-12-14
+Score: 957.88 ± 9.12%
+
+Microsoft Edge v.120.0.2210.61 (Official build) (64-bit)
+Chromium v.120.0.6099.71
+2023-12-14
+Score: 828.42 ± 4.86%
+
+Ungoogled Chromium v.119.0.6045.199 (Official Build, ungoogled-chromium) Arch Linux (64-bit)
+via AUR (`ungoogled-chromium-bin`)
+2023-12-08
+Score: 819.83 ± 2.71%
+
+Mozilla Firefox v.120.0.1 (64-bit)
+2023-12-14
+Score: 946.89 ± 8.67%
+
+Vivaldi v.6.5.3206.39 (Stable channel) (64-bit)
+Chromium v.120.0.6099.121
+Score: 984.94 ± 6.32%
+
+GNOME Web/Epiphany v.45.1
+Score: 228.86 ± 25.23%
+("Leaves" = 90.00 ± 302.74% - !?!)
