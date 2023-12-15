@@ -30,6 +30,8 @@ URL: https://browserbench.org/Speedometer2.1/
 | 6. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 166 ± 5.4 (3.2%) | 2023-12-14 |
 | 7. | 5. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 157 ± 4.9 (3.1%) | 2023-12-14 |
 
+[^UgC]: From the AUR as `ungoogled-chromium-bin`.
+
 ### By BEST RESULT of 10 iterations
 
 | Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
@@ -69,8 +71,6 @@ URL: https://browserbench.org/JetStream/
 | 5. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 179.129 | 2023-12-14 |
 | 6. | 5. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 175.108 | 2023-12-14 |
 | 7. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 134.625 | 2023-12-14 |
-
-[^UgC]: From the AUR as `ungoogled-chromium-bin`.
 
 ----
 
