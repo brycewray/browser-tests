@@ -21,8 +21,8 @@ URL: https://browserbench.org/JetStream/
 | 3. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 356.565 | 2023-12-14 |
 | 4. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 355.110 | 2023-12-14 |
 | 5. | 3. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 352.909 | 2023-12-12 |
-| 6. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 351.304 | 2023-12-12 |
-| 7. | 5. | Brave | 1.61.104 | 120.0.6099.115 | 341.232 | 2023-12-13 |
+| 6. | 4. | Brave | 1.61.104 | 120.0.6099.115 | 341.232 | 2023-12-13 |
+| 7. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 334.443 | 2023-12-15 |
 | 8. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 236.867 | 2023-12-12 |
 
 ----
@@ -38,8 +38,8 @@ All results “on a large screen (desktop)” as per instructions
 | 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 4642.71 ± 14.80% | 2023-12-13 |
 | 2. | 2. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 4546.73 ± 14.47% | 2023-12-12 |
 | 3. | 3. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 4519.09 ± 18.93% | 2023-12-14 |
-| 4. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 4496.01 ± 27.22% | 2023-12-12 |
-| 5. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 4365.06 ± 31.82% | 2023-12-12 |
+| 4. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 4365.06 ± 31.82% | 2023-12-12 |
+| 5. | 4. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 4253.68 ± 25.98% | 2023-12-15 |
 | 6. | 5. | Brave | 1.61.104 | 120.0.6099.115 | 3657.34 ± 22.13% | 2023-12-13 |
 | 7. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 3653.62 ± 5.89% | 2023-12-14 |
 | 8. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 1777.31 ± 4.87% | 2023-12-12 |
@@ -57,10 +57,10 @@ URL: https://browserbench.org/Speedometer2.1/
 | 1. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 490 ± 25 (5.0%) | 2023-12-12 |
 | 2. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 436 ± 26 (6.0%) | 2023-12-12 |
 | 3. | 1. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 435 ± 22 (5.2%) | 2023-12-14 |
-| 4. | 2. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 423 ± 23 (5.4%) | 2023-12-12 |
-| 5. | 3. | Brave | 1.61.104 | 120.0.6099.115 | 410 ± 18 (4.5%) | 2023-12-13 |
-| 6. | 4. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 408 ± 25 (6.2%) | 2023-12-12 |
-| 7. | 5. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 403 ± 16 (4.0%) | 2023-12-13 |
+| 4. | 2. | Brave | 1.61.104 | 120.0.6099.115 | 410 ± 18 (4.5%) | 2023-12-13 |
+| 5. | 3. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 408 ± 25 (6.2%) | 2023-12-12 |
+| 6. | 4. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 403 ± 16 (4.0%) | 2023-12-13 |
+| 7. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 390 ± 16 (4.1%) | 2023-12-15 |
 | 8. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 309 ± 31 (10%) | 2023-12-14 |
 
 ### By BEST RESULT of 10 iterations
@@ -70,11 +70,11 @@ URL: https://browserbench.org/Speedometer2.1/
 | 1. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 515.7 | 2023-12-12 |
 | 2. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 457.8 | 2023-12-12 |
 | 3. | 1. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 455.0 | 2023-12-14 |
-| 4. | 2. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 449.2 | 2023-12-12 |
-| 5. | 3. | Brave | 1.61.104 | 120.0.6099.115 | 447.7 | 2023-12-13 |
-| 6. | 4. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 439.2 | 2023-12-12 |
-| 7. | 5. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 415.7 | 2023-12-13 |
-| 8. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 403.5 | 2023-12-14 |
+| 4. | 2. | Brave | 1.61.104 | 120.0.6099.115 | 447.7 | 2023-12-13 |
+| 5. | 3. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 439.2 | 2023-12-12 |
+| 6. | 4. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 415.7 | 2023-12-13 |
+| 7. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 403.5 | 2023-12-14 |
+| 8. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 400.0 | 2023-12-15 |
 
 ### By WORST RESULT of 10 iterations
 
@@ -84,9 +84,9 @@ URL: https://browserbench.org/Speedometer2.1/
 | 2. | 1. | Brave | 1.61.104 | 120.0.6099.115 | 361.0 | 2023-12-13 |
 | 3. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 347.7 | 2023-12-14 |
 | 4. | 3. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 341.7 | 2023-12-13 |
-| 5. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71 | 339.7 | 2023-12-12 |
-| T6. | 5. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 334.4 | 2023-12-12 |
-| T6. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 334.4 | 2023-12-12 |
+| T5. | 4. | Arc | 1.20.1 (43987) | 120.0.6099.56 | 334.4 | 2023-12-12 |
+| T5. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 334.4 | 2023-12-12 |
+| 7. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 326.4 | 2023-12-15 |
 | 8. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 245.8 | 2023-12-14 |
 
 ----
@@ -113,10 +113,10 @@ Safari v.17.2 (19617.1.17.11.9)
 2023-12-12
 Score: 357.901
 
-Microsoft Edge v.120.0.2210.61 (Official build) (arm64)
-Chromium v.120.0.6099.71
-2023-12-12
-Score: 351.304
+Microsoft Edge v.120.0.2210.77 (Official build) (arm64)
+Chromium v.120.0.6099.110
+2023-12-15
+Score: 334.443
 
 Arc v.1.20.1 (43987)
 Chromium v.120.0.6099.56 (Official Build) (arm64)
@@ -150,10 +150,10 @@ Safari v.17.2 (19617.1.17.11.9)
 2023-12-12
 Score: 4365.06 ± 31.82%
 
-Microsoft Edge v.120.0.2210.61 (Official build) (arm64)
-Chromium v.120.0.6099.71
-2023-12-12
-Score: 4496.01 ± 27.22%
+Microsoft Edge v.120.0.2210.77 (Official build) (arm64)
+Chromium v.120.0.6099.110
+2023-12-15
+Score: 4253.68 ± 25.98%
 
 Arc v.1.20.1 (43987)
 Chromium v.120.0.6099.56 (Official Build) (arm64)
@@ -227,20 +227,20 @@ Iteration 8	503.2 runs/min
 Iteration 9	508.4 runs/min
 Iteration 10	515.7 runs/min  <-- BEST
 
-Microsoft Edge v.120.0.2210.61 (Official build) (arm64)
-Chromium v.120.0.6099.71
-2023-12-12
-Arithmetic Mean: 423 ± 23 (5.4%)
-Iteration 1	339.7 runs/min  <-- WORST
-Iteration 2	415.3 runs/min
-Iteration 3	433.0 runs/min
-Iteration 4	432.2 runs/min
-Iteration 5	441.4 runs/min
-Iteration 6	449.2 runs/min  <-- BEST
-Iteration 7	414.6 runs/min
-Iteration 8	430.7 runs/min
-Iteration 9	428.9 runs/min
-Iteration 10	449.1 runs/min
+Microsoft Edge v.120.0.2210.77 (Official build) (arm64)
+Chromium v.120.0.6099.110
+2023-12-15
+Arithmetic Mean: 390 ± 16 (4.1%)
+Iteration 1	326.4 runs/min  <-- WORST
+Iteration 2	397.1 runs/min
+Iteration 3	400.0 runs/min  <-- BEST
+Iteration 4	396.0 runs/min
+Iteration 5	391.5 runs/min
+Iteration 6	398.1 runs/min
+Iteration 7	399.0 runs/min
+Iteration 8	395.6 runs/min
+Iteration 9	398.9 runs/min
+Iteration 10	394.3 runs/min
 
 Arc v.1.20.1 (43987)
 Chromium v.120.0.6099.56 (Official Build) (arm64)
