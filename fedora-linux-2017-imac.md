@@ -67,7 +67,9 @@ URL: https://browserbench.org/JetStream/
 | 4. | 4. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110 | 174.280 | 2023-12-16 |
 | 5. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 169.020 | 2023-12-16 |
 | 6. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 128.921 | 2023-12-16 |
-| 7. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | N/A | 2023-12-16 |
+| 7. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | N/A[^DNF] | 2023-12-16 |
+
+[^DNF]: Browser was unable to run this benchmark.
 
 ----
 
