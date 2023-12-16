@@ -20,7 +20,7 @@ URL: https://browserbench.org/Speedometer2.1/
 ### By arithmetic mean
 
 | Rank | Chr.<br>rank | Browser | Repo | Version | Chromium<br>version | Score | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
+|--:|--:|:-:|:--|:-:|:-:|:-:|--:|
 | 1. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 000 | 2023-12-16 |
 | 2. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 000 | 2023-12-16 |
 | 3. | 1. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 000 | 2023-12-16 |
@@ -34,7 +34,7 @@ URL: https://browserbench.org/Speedometer2.1/
 ### By BEST RESULT of 10 iterations
 
 | Rank | Chr.<br>rank | Browser | Repo | Version | Chromium<br>version | Runs/<br>min. | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
+|--:|--:|:-:|:--|:-:|:-:|:-:|--:|
 | 1. | 1. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 000 | 2023-12-16 |
 | 2. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 000 | 2023-12-16 |
 | T3. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 000 | 2023-12-16 |
@@ -46,7 +46,7 @@ URL: https://browserbench.org/Speedometer2.1/
 ### By WORST RESULT of 10 iterations
 
 | Rank | Chr.<br>rank | Browser | Repo | Version | Chromium<br>version | Runs/<br>min. | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
+|--:|--:|:-:|:--|:-:|:-:|:-:|--:|
 | 1. | 1. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 000 | 2023-12-16  |
 | 2. | 2. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 000 | 2023-12-16 |
 | 3. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 000 | 2023-12-16 |
@@ -62,7 +62,7 @@ URL: https://browserbench.org/Speedometer2.1/
 URL: https://browserbench.org/JetStream/
 
 | Rank | Chr.<br>rank | Browser | Repo | Version | Chromium<br>version | Score | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
+|--:|--:|:-:|:--|:-:|:-:|:-:|--:|
 | 1. | 1. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 000 | 2023-12-16 |
 | 2. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 000 | 2023-12-16 |
 | 3. | 2. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 000 | 2023-12-16 |
@@ -80,7 +80,7 @@ URL: https://browserbench.org/MotionMark1.2/
 All results “on a large screen (desktop)” as per instructions
 
 | Rank | Chr.<br>rank | Browser | Repo | Version | Chromium<br>version | Score | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
+|--:|--:|:-:|:--|:-:|:-:|:-:|--:|
 | 1. | 1. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 000 | 2023-12-16 |
 | 2. | 2. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 000 | 2023-12-16 |
 | 3. | 3. | Brave | Brave | 1.61.104 | 120.0.6099.109 | 000 | 2023-12-16 |
