@@ -38,7 +38,7 @@ URL: https://browserbench.org/Speedometer2.1/
 | 3. | 3. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 215.7 | 2023-12-16 |
 | 4. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 210.8 | 2023-12-16 |
 | 5. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 188.5 | 2023-12-16 |
-| 6. | 4. | Microsoft Edge | Microsoft | 120.0.2210.61 | 120.0.6099.71  | 175.7 | 2023-12-16 |
+| 6. | 4. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110  | 175.7 | 2023-12-16 |
 | 7. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 173.9 | 2023-12-16 |
 
 ### By WORST RESULT of 10 iterations
@@ -51,7 +51,7 @@ URL: https://browserbench.org/Speedometer2.1/
 | 4. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 178.4 | 2023-12-16 |
 | 5. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 166.5 | 2023-12-16 |
 | 6. | 4. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 151.8 | 2023-12-16 |
-| 7. | 5. | Microsoft Edge | Microsoft | 120.0.2210.61 | 120.0.6099.71  | 151.3 | 2023-12-16 |
+| 7. | 5. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110  | 151.3 | 2023-12-16 |
 
 ----
 
@@ -211,8 +211,8 @@ Brave v.1.61.104 with Chromium: 120.0.6099.115 (Official Build) unknown (64-bit)
 2023-12-16
 Score: 176.918
 
-Microsoft Edge v.120.0.2210.61 (Official build) (64-bit)
-Chromium v.120.0.6099.71
+Microsoft Edge v.120.0.2210.77 (Official build) (64-bit)
+Chromium v.120.0.6099.110
 2023-12-16
 Score: 174.280
 
@@ -243,8 +243,8 @@ Brave v.1.61.104 with Chromium: 120.0.6099.115 (Official Build) unknown (64-bit)
 2023-12-16
 Score: 979.03 ± 2.69%
 
-Microsoft Edge v.120.0.2210.61 (Official build) (64-bit)
-Chromium v.120.0.6099.71
+Microsoft Edge v.120.0.2210.77 (Official build) (64-bit)
+Chromium v.120.0.6099.110
 2023-12-16
 Score: 843.80 ± 4.70%
 
