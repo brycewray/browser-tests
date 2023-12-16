@@ -81,13 +81,15 @@ All results “on a large screen (desktop)” as per instructions
 
 | Rank | Chr.<br>rank | Browser | Repo | Version | Chromium<br>version | Score | Date |
 |--:|--:|:-:|:-:|:-:|:-:|:-:|--:|
-| 1. | 1. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 2395.40 ± 2.84% | 2023-12-16 |
+| 1. | 1. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 2395.40 ± 2.84%[^real] | 2023-12-16 |
 | 2. | 2. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 979.03 ± 2.69% | 2023-12-16 |
 | 3. | 3. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 961.43 ± 2.54% | 2023-12-16 |
 | 4. | 4. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 852.85 ± 7.82% | 2023-12-16 |
 | 5. | 5. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110 | 843.80 ± 4.70% | 2023-12-16 |
 | 6. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 262.30 ± 17.24% | 2023-12-16 |
 | 7. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 224.02 ± 10.22% | 2023-12-16 |
+
+[^real]: Not a typo; re-ran test on multiple browsers to confirm Chrome was this far ahead.
 
 <!--
 ----
