@@ -89,6 +89,7 @@ All results “on a large screen (desktop)” as per instructions
 | 7. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 3653.62 ± 5.89% | 2023-12-14 |
 | 8. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 1777.31 ± 4.87% | 2023-12-12 |
 
+<!--
 ----
 
 ### *Raw data*
@@ -285,3 +286,5 @@ Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
 Chromium v.120.0.6099.121
 2023-12-14
 Score: 4519.09 ± 18.93%
+
+-->

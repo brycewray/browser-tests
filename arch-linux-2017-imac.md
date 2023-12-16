@@ -90,6 +90,7 @@ All results “on a large screen (desktop)” as per instructions
 | 6. | 5. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 819.83 ± 2.71% | 2023-12-14 |
 | 7. | &mdash; | GNOME Web/Epiphany | 45.1 | &mdash; | 228.86 ± 25.23% | 2023-12-14 |
 
+<!--
 ----
 
 ### *Raw data*
@@ -259,3 +260,5 @@ Score: 984.94 ± 6.32%
 GNOME Web/Epiphany v.45.1
 Score: 228.86 ± 25.23%
 ("Leaves" = 90.00 ± 302.74% - !?!)
+
+-->
