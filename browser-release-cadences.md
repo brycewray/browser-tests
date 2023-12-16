@@ -15,7 +15,7 @@
 ## Non-Chromium browsers
 
 | Browser | Source | macOS | Linux | Engine | Browser version<br>and timestamp |
-|:--|:-:|:-:|:-:|:-:|:-:|--:|
+|:--|:-:|:-:|:-:|:-:|:-:|
 | [Firefox](https://groups.google.com/a/mozilla.org/g/announce) | [Open](https://hg.mozilla.org/mozilla-central/) | ✅ | ✅ | Gecko | 120.0.1<br>2023-11-30-0820CST |
 | [GNOME Web/Epiphany](https://gitlab.gnome.org/GNOME/epiphany/-/releases) | [Open](https://gitlab.gnome.org/GNOME/epiphany) | &mdash; | ✅ | WebKitGTK | 45.1<br>2023-11-06-1152CST |
 | [Orion](https://kagi.com/orion/updates/orion-release-notes.html) | Closed | ✅ | &mdash; | WebKit | 0.99.126.4.1-beta<br>(WebKit 618.1.2)<br>2023-12-13-????CST |
