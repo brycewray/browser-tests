@@ -1,5 +1,8 @@
 # Web browser tests on Arch Linux
 
+> [!NOTE]
+> I later decided to do my Linux testing in Fedora rather than Arch, due to the easier availability of truly official browser versions for that version. The resulting page is [here](https://github.com/brycewray/browser-tests/blob/main/fedora-linux-2017-imac.md).
+
 ## OS, system, and testing specs
 
 - Arch Linux
