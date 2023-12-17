@@ -1,6 +1,6 @@
 # Browser tests
 
-This is where I keep version-controlled tests on various web browsers, along with the files I originally maintained before deciding this project’s output was worth VC’ing.
+This is where I keep version-controlled tests on [various web browsers](https://github.com/brycewray/browser-tests/blob/main/browser-release-cadences.md), along with [the files I originally maintained before deciding this project’s output was worth VC’ing](https://github.com/brycewray/browser-tests/tree/main/pre-git).
 
 The tests are on browsers in [macOS](https://github.com/brycewray/browser-tests/blob/main/macos-2023-mac-studio.md) and [Linux](https://github.com/brycewray/browser-tests/blob/main/fedora-linux-2017-imac.md).
 
