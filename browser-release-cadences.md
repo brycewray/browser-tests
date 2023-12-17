@@ -4,8 +4,8 @@
 
 | Browser | Source | macOS | Linux | Browser version<br>and timestamp | Chromium version<br>and timestamp |
 |:--|:-:|:-:|:-:|:-:|:-:|
-| *[Chromium stable](https://chromiumdash.appspot.com/releases?platform=Mac)* | *[Open](https://github.com/chromium/chromium)* | ✅ | ✅ | &mdash; | *120.0.6099.109<br>2023-12-11-1348CST* |
-| *[Chromium extended stable](https://chromiumdash.appspot.com/releases?platform=Mac)* | *[Open](https://github.com/chromium/chromium)* | ✅ | ✅ | &mdash; | *120.0.6099.109<br>2023-12-11-1348CST* |
+| *[Chromium stable](https://chromiumdash.appspot.com/releases)* | *[Open](https://github.com/chromium/chromium)* | ✅ | ✅ | &mdash; | *120.0.6099.109<br>2023-12-11-1348CST* |
+| *[Chromium extended stable](https://chromiumdash.appspot.com/releases)* | *[Open](https://github.com/chromium/chromium)* | ✅ | ✅ | &mdash; | *120.0.6099.109<br>2023-12-11-1348CST* |
 | [Arc](https://resources.arc.net/en/articles/8233343-release-notes) | Closed | ✅ | &mdash; | 1.21.1 (44274)<br>2023-12-14-????CST | Stable 120.0.6099.109<br>2023-12-11-1348CST |
 | [Brave](https://github.com/brave/brave-browser/releases) | [Open](https://github.com/brave/brave-browser) | ✅ | ✅ | 1.61.104<br>2023-12-13-0318CST | Stable 120.0.6099.115<br>2023-12-11-1401CST |
 | [Google Chrome](https://chromereleases.googleblog.com/search/label/Stable%20updates) | Closed | ✅ | ✅ | 120.0.6099.109<br>2023-12-12-1817CST | Stable 120.0.6099.109<br>2023-12-11-1348CST |
