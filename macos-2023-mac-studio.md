@@ -2,7 +2,7 @@
 
 ## OS, system, and testing specs
 
-- macOS Sonoma v.14.2
+- macOS Sonoma v.14.2.1
 - Mac Studio (mid-2023 version)
   - M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64 GB RAM
   - Internal graphics running 5120 × 2880 at 2x (“Retina”)
@@ -18,40 +18,40 @@ URL: https://browserbench.org/Speedometer2.1/
 
 | Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
 |--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 490 ± 25 (5.0%) | 2023-12-12 |
-| 2. | 1. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 435 ± 22 (5.2%) | 2023-12-14 |
-| 3. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 421 ± 27 (6.4%) | 2023-12-19 |
-| 4. | 2. | Brave | 1.61.104 | 120.0.6099.115 | 410 ± 18 (4.5%) | 2023-12-13 |
-| 5. | 3. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 403 ± 16 (4.0%) | 2023-12-13 |
-| 6. | 4. | Arc | 1.21.1 (44274) | 120.0.6099.109 | 397 ± 15 (3.8%) | 2023-12-15 |
-| 7. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 390 ± 16 (4.1%) | 2023-12-15 |
-| 8. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 309 ± 31 (10%) | 2023-12-14 |
+| 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 478 ± 25 (5.2%) | 2023-12-19 |
+| 2. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 455 ± 24 (5.2%) | 2023-12-19 |
+| 3. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 426 ± 19 (4.5%) | 2023-12-19 |
+| 4. | 2. | Brave | 1.61.104 | 120.0.6099.115 | 425 ± 16 (3.7%) | 2023-12-19 |
+| 5. | 3. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 425 ± 22 (5.3%) | 2023-12-19 |
+| 6. | 4. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 424 ± 18 (4.3%) | 2023-12-19 |
+| 7. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 416 ± 20 (4.8%) | 2023-12-19 |
+| 8. | 5. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 414 ± 17 (4.1%) | 2023-12-19 |
 
 ### By BEST RESULT of 10 iterations
 
 | Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
 |--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 515.7 | 2023-12-12 |
-| 2. | 1. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 455.0 | 2023-12-14 |
-| 3. | 2. | Brave | 1.61.104 | 120.0.6099.115 | 447.7 | 2023-12-13 |
-| 4. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 444.1 | 2023-12-19 |
-| 5. | 3. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 415.7 | 2023-12-13 |
-| 6. | 4. | Arc | 1.21.1 (44274) | 120.0.6099.109 | 412.7 | 2023-12-15 |
-| 7. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 403.5 | 2023-12-14 |
-| 8. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 400.0 | 2023-12-15 |
+| 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 503.0| 2023-12-19 |
+| 2. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 470.5 | 2023-12-19 |
+| 3. | 1. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 453.9 | 2023-12-19 |
+| 4. | 2. | Brave | 1.61.104 | 120.0.6099.115 | 453.6 | 2023-12-19 |
+| 5. | 3. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 450.5 | 2023-12-19 |
+| 6. | 4. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 442.3 | 2023-12-19 |
+| 7. | 5. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 439.2 | 2023-12-19 |
+| 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 435.3 | 2023-12-19 |
 
 ### By WORST RESULT of 10 iterations
 
 | Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
 |--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 394.5 | 2023-12-12 |
-| 2. | 1. | Brave | 1.61.104 | 120.0.6099.115 | 361.0 | 2023-12-13 |
-| 3. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 347.7 | 2023-12-14 |
-| 4. | 3. | Arc | 1.21.1 (44274) | 120.0.6099.109 | 343.8 | 2023-12-15 |
-| 5. | 4. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 341.7 | 2023-12-13 |
-| 5. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 326.4 | 2023-12-15 |
-| 7. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 314.7 | 2023-12-19 |
-| 8. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 245.8 | 2023-12-14 |
+| 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 381.4 | 2023-12-19 |
+| 2. | 1. | Brave | 1.61.104 | 120.0.6099.115 | 375.3 | 2023-12-19 |
+| 3. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 372.1 | 2023-12-19 |
+| 4. | 3. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 370.3 | 2023-12-19 |
+| 5. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 360.9 | 2023-12-19 |
+| 6. | 4. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 353.9 | 2023-12-19 |
+| 7. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 343.5 | 2023-12-19 |
+| 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 340.4 | 2023-12-19 |
 
 ----
 
@@ -61,14 +61,14 @@ URL: https://browserbench.org/JetStream/
 
 | Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
 |--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 361.499 | 2023-12-13 |
-| 2. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 357.901 | 2023-12-12 |
-| 3. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 356.565 | 2023-12-14 |
-| 4. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 355.110 | 2023-12-14 |
-| 5. | 3. | Arc | 1.21.1 (44274) | 120.0.6099.109 | 354.602 | 2023-12-15 |
-| 6. | 4. | Brave | 1.61.104 | 120.0.6099.115 | 341.232 | 2023-12-13 |
-| 7. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 334.443 | 2023-12-15 |
-| 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 227.580 | 2023-12-19 |
+| 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 360.445 | 2023-12-19 |
+| 2. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 358.589 | 2023-12-19 |
+| 3. | 1. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 348.946 | 2023-12-19 |
+| 4. | 2. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 347.862 | 2023-12-19 |
+| 5. | 3. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 346.891 | 2023-12-19 |
+| 6. | 4. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 329.877 | 2023-12-19 |
+| 7. | 5. | Brave | 1.61.104 | 120.0.6099.115 | 324.771 | 2023-12-19 |
+| 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 236.463 | 2023-12-19 |
 
 ----
 
@@ -80,14 +80,14 @@ All results “on a large screen (desktop)” as per instructions
 
 | Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
 |--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | 1. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 4642.71 ± 14.80% | 2023-12-13 |
-| 2. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 4519.09 ± 18.93% | 2023-12-14 |
-| 3. | &mdash; | Safari | 17.2<br>(19617.1.17.11.9) | &mdash; | 4365.06 ± 31.82% | 2023-12-12 |
-| 4. | 3. | Arc | 1.21.1 (44274) | 120.0.6099.109 | 4363.96 ± 10.10% | 2023-12-15 |
-| 5. | 4. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 4253.68 ± 25.98% | 2023-12-15 |
-| 6. | 5. | Brave | 1.61.104 | 120.0.6099.115 | 3657.34 ± 22.13% | 2023-12-13 |
-| 7. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 3653.62 ± 5.89% | 2023-12-14 |
-| 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 1536.32 ± 2.66% | 2023-12-19 |
+| 1. | 1. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 4650.73 ± 17.15% | 2023-12-19 |
+| 2. | 2. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 4537.41 ± 17.46% | 2023-12-19 |
+| 3. | 3. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 4532.02 ± 19.92% | 2023-12-19 |
+| 4. | 4. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 4301.27 ± 14.11% | 2023-12-19 |
+| 5. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 4133.80 ± 29.49% | 2023-12-19 |
+| 6. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 3736.60 ± 14.89% | 2023-12-19 |
+| 7. | 5. | Brave | 1.61.104 | 120.0.6099.115 | 3507.12 ± 9.91% | 2023-12-19 |
+| 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 1584.07 ± 6.68% | 2023-12-19 |
 
 <!--
 ----
@@ -99,192 +99,192 @@ All results “on a large screen (desktop)” as per instructions
 #### Speedometer raw data
 
 Google Chrome v.120.0.6099.109 (Official Build) (arm64)
-2023-12-13
-Arithmetic Mean: 403 ± 16 (4.0%)
-Iteration 1	341.7 runs/min  <-- WORST
-Iteration 2	393.8 runs/min
-Iteration 3	411.1 runs/min
-Iteration 4	414.4 runs/min
-Iteration 5	413.4 runs/min
-Iteration 6	415.3 runs/min
-Iteration 7	414.8 runs/min
-Iteration 8	415.7 runs/min  <-- BEST
-Iteration 9	412.3 runs/min
-Iteration 10	401.1 runs/min
+2023-12-19
+Arithmetic Mean: 426 ± 19 (4.5%)
+Iteration 1	353.9 runs/min  <-- WORST
+Iteration 2	428.7 runs/min
+Iteration 3	430.3 runs/min
+Iteration 4	414.5 runs/min
+Iteration 5	438.4 runs/min
+Iteration 6	430.2 runs/min
+Iteration 7	442.3 runs/min  <-- BEST
+Iteration 8	438.6 runs/min
+Iteration 9	442.0 runs/min
+Iteration 10	437.4 runs/min
 
 Brave v.1.61.104 Chromium: 120.0.6099.115 (Official Build) (arm64)
-2023-12-13
-Arithmetic Mean: 410 ± 18 (4.5%)
-Iteration 1	361.0 runs/min  <-- WORST
-Iteration 2	407.7 runs/min
-Iteration 3	414.8 runs/min
-Iteration 4	411.9 runs/min
-Iteration 5	438.8 runs/min
-Iteration 6	411.1 runs/min
-Iteration 7	447.7 runs/min  <-- BEST
-Iteration 8	423.5 runs/min
-Iteration 9	411.8 runs/min
-Iteration 10	376.4 runs/min
+2023-12-19
+Arithmetic Mean: 425 ± 16 (3.7%)
+Iteration 1	375.3 runs/min  <-- WORST
+Iteration 2	410.4 runs/min
+Iteration 3	453.6 runs/min  <-- BEST
+Iteration 4	438.9 runs/min
+Iteration 5	423.5 runs/min
+Iteration 6	439.2 runs/min
+Iteration 7	437.5 runs/min
+Iteration 8	434.7 runs/min
+Iteration 9	420.1 runs/min
+Iteration 10	412.3 runs/min
 
 Mozilla Firefox v.121.0 (64-bit)
 2023-12-19
-Arithmetic Mean: 421 ± 27 (6.4%)
-Iteration 1	314.7 runs/min  <-- WORST
-Iteration 2	423.2 runs/min
-Iteration 3	444.1 runs/min  <-- BEST
-Iteration 4	437.6 runs/min
-Iteration 5	433.7 runs/min
-Iteration 6	440.3 runs/min
-Iteration 7	430.2 runs/min
-Iteration 8	426.4 runs/min
-Iteration 9	423.9 runs/min
-Iteration 10	432.9 runs/min
+Arithmetic Mean: 416 ± 20 (4.8%)
+Iteration 1	340.4 runs/min  <-- WORST
+Iteration 2	422.3 runs/min
+Iteration 3	424.1 runs/min
+Iteration 4	435.3 runs/min  <-- BEST
+Iteration 5	424.2 runs/min
+Iteration 6	427.3 runs/min
+Iteration 7	424.4 runs/min
+Iteration 8	422.0 runs/min
+Iteration 9	434.8 runs/min
+Iteration 10	408.3 runs/min
 
-Safari v.17.2 (19617.1.17.11.9)
-2023-12-12
-Arithmetic Mean: 490 ± 25 (5.0%)
-Iteration 1	394.5 runs/min  <-- WORST
-Iteration 2	490.2 runs/min
-Iteration 3	494.4 runs/min
-Iteration 4	491.1 runs/min
-Iteration 5	497.8 runs/min
-Iteration 6	504.6 runs/min
-Iteration 7	495.7 runs/min
-Iteration 8	503.2 runs/min
-Iteration 9	508.4 runs/min
-Iteration 10	515.7 runs/min  <-- BEST
+Safari v.17.2.1 (19617.1.17.11.12)
+2023-12-19
+Arithmetic Mean: 478 ± 25 (5.2%)
+Iteration 1	381.4 runs/min  <-- WORST
+Iteration 2	480.0 runs/min
+Iteration 3	489.5 runs/min
+Iteration 4	496.6 runs/min
+Iteration 5	476.3 runs/min
+Iteration 6	503.0 runs/min  <-- BEST
+Iteration 7	488.9 runs/min
+Iteration 8	493.1 runs/min
+Iteration 9	490.1 runs/min
+Iteration 10	481.3 runs/min
 
 Microsoft Edge v.120.0.2210.77 (Official build) (arm64)
 Chromium v.120.0.6099.110
-2023-12-15
-Arithmetic Mean: 390 ± 16 (4.1%)
-Iteration 1	326.4 runs/min  <-- WORST
-Iteration 2	397.1 runs/min
-Iteration 3	400.0 runs/min  <-- BEST
-Iteration 4	396.0 runs/min
-Iteration 5	391.5 runs/min
-Iteration 6	398.1 runs/min
-Iteration 7	399.0 runs/min
-Iteration 8	395.6 runs/min
-Iteration 9	398.9 runs/min
-Iteration 10	394.3 runs/min
+2023-12-19
+Arithmetic Mean: 425 ± 22 (5.3%)
+Iteration 1	343.5 runs/min  <-- WORST
+Iteration 2	417.8 runs/min
+Iteration 3	438.8 runs/min
+Iteration 4	442.3 runs/min
+Iteration 5	417.1 runs/min
+Iteration 6	444.9 runs/min
+Iteration 7	453.9 runs/min  <-- BEST
+Iteration 8	439.6 runs/min
+Iteration 9	434.1 runs/min
+Iteration 10	417.0 runs/min
 
-Arc v.1.20.1 (43987)
+Arc v.1.21.1 (44329)
 Chromium v.120.0.6099.109 (Official Build) (arm64)
-2023-12-15
-Arithmetic Mean: 397 ± 15 (3.8%)
-Iteration 1	343.8 runs/min  <-- WORST
-Iteration 2	398.2 runs/min
-Iteration 3	400.4 runs/min
-Iteration 4	380.0 runs/min
-Iteration 5	412.5 runs/min
-Iteration 6	412.7 runs/min  <-- BEST
-Iteration 7	411.7 runs/min
-Iteration 8	406.2 runs/min
-Iteration 9	401.8 runs/min
-Iteration 10	407.5 runs/min
+2023-12-19
+Arithmetic Mean: 414 ± 17 (4.1%)
+Iteration 1	370.3 runs/min  <-- WORST
+Iteration 2	420.2 runs/min
+Iteration 3	432.5 runs/min
+Iteration 4	439.2 runs/min  <-- BEST
+Iteration 5	410.3 runs/min
+Iteration 6	432.9 runs/min
+Iteration 7	427.0 runs/min
+Iteration 8	419.9 runs/min
+Iteration 9	374.3 runs/min
+Iteration 10	414.3 runs/min
 
 Orion v.0.99.126.4.1-beta (WebKit 618.1.2)
-2023-12-14
-Arithmetic Mean: 309 ± 31 (10%)
-Iteration 1	348.9 runs/min
-Iteration 2	403.5 runs/min  <-- BEST
-Iteration 3	291.9 runs/min
-Iteration 4	306.1 runs/min
-Iteration 5	294.5 runs/min
-Iteration 6	290.3 runs/min
-Iteration 7	315.9 runs/min
-Iteration 8	322.0 runs/min
-Iteration 9	269.7 runs/min
-Iteration 10	245.8 runs/min  <-- WORST
+2023-12-19
+Arithmetic Mean: 455 ± 24 (5.2%)
+Iteration 1	360.9 runs/min  <-- WORST
+Iteration 2	467.0 runs/min
+Iteration 3	462.1 runs/min
+Iteration 4	464.0 runs/min
+Iteration 5	463.2 runs/min
+Iteration 6	466.5 runs/min
+Iteration 7	470.0 runs/min
+Iteration 8	468.7 runs/min
+Iteration 9	470.5 runs/min  <-- BEST
+Iteration 10	452.8 runs/min
 
 Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
 Chromium v.120.0.6099.121
-2023-12-14
-Arithmetic Mean: 435 ± 22 (5.2%)
-Iteration 1	347.7 runs/min  <-- WORST
-Iteration 2	445.8 runs/min
-Iteration 3	454.6 runs/min
-Iteration 4	438.0 runs/min
-Iteration 5	455.0 runs/min  <-- BEST
-Iteration 6	441.7 runs/min
-Iteration 7	448.0 runs/min
-Iteration 8	434.4 runs/min
-Iteration 9	441.3 runs/min
-Iteration 10	442.9 runs/min
+2023-12-19
+Arithmetic Mean: 424 ± 18 (4.3%)
+Iteration 1	372.1 runs/min  <-- WORST
+Iteration 2	440.9 runs/min
+Iteration 3	440.2 runs/min
+Iteration 4	436.4 runs/min
+Iteration 5	450.5 runs/min  <-- BEST
+Iteration 6	404.2 runs/min
+Iteration 7	433.5 runs/min
+Iteration 8	392.9 runs/min
+Iteration 9	438.3 runs/min
+Iteration 10	432.7 runs/min
 
 #### JetStream raw data
 
 Google Chrome v.120.0.6099.109 (Official Build) (arm64)
-2023-12-13
-Score: 361.499
+2023-12-19
+Score: 347.862
 
 Brave v.1.61.104 Chromium: 120.0.6099.115 (Official Build) (arm64)
-2023-12-13
-Score: 341.232
+2023-12-19
+Score: 324.771
 
 Mozilla Firefox v.121.0 (64-bit)
 2023-12-19
-Score: 227.580
+Score: 236.463
 
-Safari v.17.2 (19617.1.17.11.9)
-2023-12-12
-Score: 357.901
+Safari v.17.2.1 (19617.1.17.11.12)
+2023-12-19
+Score: 360.445
 
 Microsoft Edge v.120.0.2210.77 (Official build) (arm64)
 Chromium v.120.0.6099.110
-2023-12-15
-Score: 334.443
+2023-12-19
+Score: 346.891
 
-Arc v.1.20.1 (43987)
+Arc v.1.21.1 (44329)
 Chromium v.120.0.6099.109 (Official Build) (arm64)
-2023-12-15
-Score: 354.602
+2023-12-19
+Score: 348.946
 
 Orion v.0.99.126.4.1-beta (WebKit 618.1.2)
-2023-12-14
-Score: 356.565
+2023-12-19
+Score: 358.589
 
 Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
 Chromium v.120.0.6099.121
-2023-12-14
-Score: 355.110
+2023-12-19
+Score: 329.877
 
 #### MotionMark raw data
 
 Google Chrome v.120.0.6099.109 (Official Build) (arm64)
-2023-12-13
-Score: 4642.71 ± 14.80%
+2023-12-19
+Score: 4537.41 ± 17.46%
 
 Brave v.1.61.104 Chromium: 120.0.6099.115 (Official Build) (arm64)
-2023-12-13
-Score: 3657.34 ± 22.13%
+2023-12-19
+Score: 3507.12 ± 9.91%
 
 Mozilla Firefox v.121.0 (64-bit)
 2023-12-19
-Score: 1536.32 ± 2.66%
+Score: 1584.07 ± 6.68%
 
-Safari v.17.2 (19617.1.17.11.9)
-2023-12-12
-Score: 4365.06 ± 31.82%
+Safari v.17.2.1 (19617.1.17.11.12)
+2023-12-19
+Score: 4133.80 ± 29.49%
 
 Microsoft Edge v.120.0.2210.77 (Official build) (arm64)
 Chromium v.120.0.6099.110
-2023-12-15
-Score: 4253.68 ± 25.98%
+2023-12-19
+Score: 4650.73 ± 17.15%
 
-Arc v.1.20.1 (43987)
+Arc v.1.21.1 (44329)
 Chromium v.120.0.6099.109 (Official Build) (arm64)
-2023-12-15
-Score: 4363.96 ± 10.10%
+2023-12-19
+Score: 4532.02 ± 19.92%
 
 Orion v.0.99.126.4.1-beta (WebKit 618.1.2)
-2023-12-14
-Score: 3653.62 ± 5.89%
+2023-12-19
+Score: 3736.60 ± 14.89%
 
 Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
 Chromium v.120.0.6099.121
-2023-12-14
-Score: 4519.09 ± 18.93%
+2023-12-19
+Score: 4301.27 ± 14.11%
 
 -->
