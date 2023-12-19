@@ -24,8 +24,8 @@ URL: https://browserbench.org/Speedometer2.1/
 | 1. | 1. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 214 ± 8.0 (3.7%) | 2023-12-16 |
 | 2. | 2. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 206 ± 5.8 (2.8%) | 2023-12-16 |
 | 3. | 3. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 206 ± 7.6 (3.7%) | 2023-12-16 |
-| 4. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 199 ± 9.1 (4.6%) | 2023-12-16 |
-| 5. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 183 ± 2.6 (1.4%) | 2023-12-16 |
+| 4. | &mdash; | Mozilla Firefox | Flathub | 121.0 | &mdash; | 199 ± 9.1 (4.6%) | 2023-12-19 |
+| 5. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 183 ± 5.9 (3.2%) | 2023-12-19 |
 | 6. | 4. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110 | 169 ± 4.8 (2.9%) | 2023-12-16 |
 | 7. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 166 ± 4.7 (2.9%) | 2023-12-16 |
 
@@ -36,8 +36,8 @@ URL: https://browserbench.org/Speedometer2.1/
 | 1. | 1. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 225.4 | 2023-12-16 |
 | 2. | 2. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 219.7 | 2023-12-16 |
 | 3. | 3. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 215.7 | 2023-12-16 |
-| 4. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 210.8 | 2023-12-16 |
-| 5. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 188.5 | 2023-12-16 |
+| 4. | &mdash; | Mozilla Firefox | Flathub | 121.0 | &mdash; | 210.8 | 2023-12-19 |
+| 5. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 190.7 | 2023-12-19 |
 | 6. | 4. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110  | 175.7 | 2023-12-16 |
 | 7. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 173.9 | 2023-12-16 |
 
@@ -48,8 +48,8 @@ URL: https://browserbench.org/Speedometer2.1/
 | 1. | 1. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 193.8 | 2023-12-16  |
 | 2. | 2. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 187.6 | 2023-12-16 |
 | 3. | 3. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 180.2 | 2023-12-16 |
-| 4. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 178.4 | 2023-12-16 |
-| 5. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 166.5 | 2023-12-16 |
+| 4. | &mdash; | Mozilla Firefox | Flathub | 121.0 | &mdash; | 166.5 | 2023-12-19 |
+| 5. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 162.6 | 2023-12-19 |
 | 6. | 4. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 151.8 | 2023-12-16 |
 | 7. | 5. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110  | 151.3 | 2023-12-16 |
 
@@ -62,14 +62,12 @@ URL: https://browserbench.org/JetStream/
 | Rank | Chr.<br>rank | Browser | Repo | Version | Chromium<br>version | Score | Date |
 |--:|--:|:-:|:-:|:-:|:-:|:-:|--:|
 | 1. | 1. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 177.602 | 2023-12-16 |
-| 2. | 2. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 176.918 | 2023-12-16 |
-| 3. | 3. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 176.908 | 2023-12-16 |
-| 4. | 4. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110 | 174.280 | 2023-12-16 |
-| 5. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 169.020 | 2023-12-16 |
-| 6. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 128.921 | 2023-12-16 |
-| 7. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | N/A[^DNF] | 2023-12-16 |
-
-[^DNF]: Browser was unable to run this benchmark.
+| 2. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 177.250 | 2023-12-19 |
+| 3. | 2. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 176.918 | 2023-12-16 |
+| 4. | 3. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 176.908 | 2023-12-16 |
+| 5. | 4. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110 | 174.280 | 2023-12-16 |
+| 6. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 169.020 | 2023-12-16 |
+| 7. | &mdash; | Mozilla Firefox | Flathub | 121.0 | &mdash; | 128.921 | 2023-12-19 |
 
 ----
 
@@ -86,8 +84,8 @@ All results “on a large screen (desktop)” as per instructions
 | 3. | 3. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 961.43 ± 2.54% | 2023-12-16 |
 | 4. | 4. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 852.85 ± 7.82% | 2023-12-16 |
 | 5. | 5. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110 | 843.80 ± 4.70% | 2023-12-16 |
-| 6. | &mdash; | GNOME Web/Epiphany | Fedora | 45.1 | &mdash; | 262.30 ± 17.24% | 2023-12-16 |
-| 7. | &mdash; | Mozilla Firefox | Fedora | 120.0.1 | &mdash; | 224.02 ± 10.22% | 2023-12-16 |
+| 6. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 249.44 ± 8.08% | 2023-12-19 |
+| 7. | &mdash; | Mozilla Firefox | Flathub | 121.0 | &mdash; | 224.02 ± 10.22% | 2023-12-19 |
 
 [^real]: Not a typo; re-ran test on multiple browsers to confirm Chrome was this far ahead.
 
@@ -172,33 +170,33 @@ Iteration 8	168.9 runs/min
 Iteration 9	159.8 runs/min
 Iteration 10	161.4 runs/min
 
-Mozilla Firefox v.120.0.1 (64-bit)
-2023-12-16
-Arithmetic Mean: 199 ± 9.1 (4.6%)
-Iteration 1	166.5 runs/min  <-- WORST
-Iteration 2	204.8 runs/min
-Iteration 3	210.8 runs/min  <-- BEST
-Iteration 4	201.4 runs/min
-Iteration 5	199.0 runs/min
-Iteration 6	203.1 runs/min
-Iteration 7	201.3 runs/min
-Iteration 8	189.8 runs/min
-Iteration 9	208.5 runs/min
-Iteration 10	203.2 runs/min
+Mozilla Firefox v.121.0 (64-bit)
+2023-12-19
+Arithmetic Mean: 215 ± 11 (5.3%)
+Iteration 1	175.0 runs/min  <-- WORST
+Iteration 2	221.9 runs/min
+Iteration 3	225.0 runs/min
+Iteration 4	219.5 runs/min
+Iteration 5	201.6 runs/min
+Iteration 6	219.4 runs/min
+Iteration 7	228.2 runs/min  <-- BEST
+Iteration 8	218.1 runs/min
+Iteration 9	211.2 runs/min
+Iteration 10	225.3 runs/min
 
 GNOME Web/Epiphany v.45.1
-2023-12-16
-Arithmetic Mean: 183 ± 2.6 (1.4%)
-Iteration 1	184.1 runs/min
-Iteration 2	179.1 runs/min
-Iteration 3	186.4 runs/min
-Iteration 4	185.8 runs/min
-Iteration 5	179.3 runs/min
-Iteration 6	186.9 runs/min
-Iteration 7	182.4 runs/min
-Iteration 8	178.4 runs/min  <-- WORST
-Iteration 9	183.1 runs/min
-Iteration 10	188.5 runs/min  <-- BEST
+2023-12-19
+Arithmetic Mean: 183 ± 5.9 (3.2%)
+Iteration 1	162.6 runs/min  <-- WORST
+Iteration 2	181.2 runs/min
+Iteration 3	187.1 runs/min
+Iteration 4	185.1 runs/min
+Iteration 5	190.7 runs/min  <-- BEST
+Iteration 6	188.5 runs/min
+Iteration 7	187.5 runs/min
+Iteration 8	186.7 runs/min
+Iteration 9	183.2 runs/min
+Iteration 10	176.7 runs/min
 
 
 #### JetStream raw data
@@ -225,13 +223,13 @@ Ungoogled Chromium v.120.0.6099.109 (Official Build, ungoogled-chromium) (64-bit
 2023-12-16
 Score: 169.020
 
-Mozilla Firefox v.120.0.1 (64-bit)
-2023-12-16
-Score: 128.921
+Mozilla Firefox v.121.0 (64-bit)
+2023-12-19
+Score: 136.720
 
 GNOME Web/Epiphany v.45.1
-2023-12-16
-Score: N/A (hung on the first test and wouldn't proceed)
+2023-12-19
+Score: 177.250
 
 #### MotionMark raw data
 
@@ -257,12 +255,12 @@ Ungoogled Chromium v.120.0.6099.109 (Official Build, ungoogled-chromium) (64-bit
 2023-12-16
 Score: 852.85 ± 7.82%
 
-Mozilla Firefox v.120.0.1 (64-bit)
-2023-12-16
-Score: 224.02 ± 10.22%
+Mozilla Firefox v.121.0 (64-bit)
+2023-12-19
+Score: 935.91 ± 9.37%
 
 GNOME Web/Epiphany v.45.1
-2023-12-16
-Score: 262.30 ± 17.24%
+2023-12-19
+Score: 249.44 ± 8.08%
 
 -->
