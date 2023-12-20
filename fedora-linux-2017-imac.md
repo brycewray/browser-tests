@@ -24,7 +24,7 @@ URL: https://browserbench.org/Speedometer2.1/
 | 3. | 3. | Google Chrome | Google | 120.0.6099.129 | 120.0.6099.129 | 203 ± 7.8 (3.9%) | 2023-12-20 |
 | 4. | &mdash; | Mozilla Firefox | Flathub | 121.0 | &mdash; | 199 ± 9.1 (4.6%) | 2023-12-19 |
 | 5. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 183 ± 5.9 (3.2%) | 2023-12-19 |
-| 6. | 4. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110 | 169 ± 4.8 (2.9%) | 2023-12-16 |
+| 6. | 4. | Microsoft Edge | Microsoft | 120.0.2210.89 | 120.0.6099.110 | 169 ± 4.4 (2.6%) | 2023-12-20 |
 | 7. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 166 ± 4.7 (2.9%) | 2023-12-16 |
 
 ----
@@ -39,7 +39,7 @@ URL: https://browserbench.org/JetStream/
 | 2. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 177.250 | 2023-12-19 |
 | 3. | 2. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 176.918 | 2023-12-16 |
 | 4. | 3. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 176.908 | 2023-12-16 |
-| 5. | 4. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110 | 174.280 | 2023-12-16 |
+| 5. | 4. | Microsoft Edge | Microsoft | 120.0.2210.89 | 120.0.6099.110 | 169.950 | 2023-12-20 |
 | 6. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 169.020 | 2023-12-16 |
 | 7. | &mdash; | Mozilla Firefox | Flathub | 121.0 | &mdash; | 128.921 | 2023-12-19 |
 
@@ -56,8 +56,8 @@ All results “on a large screen (desktop)” as per instructions
 | 1. | 1. | Google Chrome | Google | 120.0.6099.129 | 120.0.6099.129 | 2460.81 ± 2.97%[^real] | 2023-12-20 |
 | 2. | 2. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 979.03 ± 2.69% | 2023-12-16 |
 | 3. | 3. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 961.43 ± 2.54% | 2023-12-16 |
-| 4. | 4. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 852.85 ± 7.82% | 2023-12-16 |
-| 5. | 5. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110 | 843.80 ± 4.70% | 2023-12-16 |
+| 4. | 4. | Microsoft Edge | Microsoft | 120.0.2210.89 | 120.0.6099.110 | 862.63 ± 2.40% | 2023-12-20 |
+| 5. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 852.85 ± 7.82% | 2023-12-16 |
 | 6. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 249.44 ± 8.08% | 2023-12-19 |
 | 7. | &mdash; | Mozilla Firefox | Flathub | 121.0 | &mdash; | 224.02 ± 10.22% | 2023-12-19 |
 
@@ -100,20 +100,20 @@ Iteration 8	209.5 runs/min
 Iteration 9	209.0 runs/min
 Iteration 10	207.2 runs/min
 
-Microsoft Edge v.120.0.2210.77 (Official build) (64-bit)
+Microsoft Edge v.120.0.2210.89 (Official build) (64-bit)
 Chromium v.120.0.6099.110
-2023-12-16
-Arithmetic Mean: 169 ± 4.8 (2.9%)
-Iteration 1	151.3 runs/min
-Iteration 2	169.8 runs/min
-Iteration 3	170.2 runs/min
-Iteration 4	170.8 runs/min
-Iteration 5	167.2 runs/min
-Iteration 6	175.7 runs/min
-Iteration 7	174.7 runs/min
-Iteration 8	170.6 runs/min
-Iteration 9	168.3 runs/min
-Iteration 10	171.8 runs/min
+2023-12-20
+Arithmetic Mean: 169 ± 4.4 (2.6%)
+Iteration 1	153.6 runs/min
+Iteration 2	168.6 runs/min
+Iteration 3	174.8 runs/min
+Iteration 4	171.2 runs/min
+Iteration 5	172.8 runs/min
+Iteration 6	172.5 runs/min
+Iteration 7	171.6 runs/min
+Iteration 8	170.1 runs/min
+Iteration 9	165.1 runs/min
+Iteration 10	173.1 runs/min
 
 Vivaldi v.6.5.3206.39 (Stable channel) stable (64-bit)
 Chromium v.120.0.6099.121
@@ -183,10 +183,10 @@ Brave v.1.61.104 with Chromium: 120.0.6099.115 (Official Build) unknown (64-bit)
 2023-12-16
 Score: 176.918
 
-Microsoft Edge v.120.0.2210.77 (Official build) (64-bit)
+Microsoft Edge v.120.0.2210.89 (Official build) (64-bit)
 Chromium v.120.0.6099.110
-2023-12-16
-Score: 174.280
+2023-12-20
+Score: 169.950
 
 Vivaldi v.6.5.3206.39 (Stable channel) (64-bit)
 Chromium v.120.0.6099.121
@@ -215,10 +215,10 @@ Brave v.1.61.104 with Chromium: 120.0.6099.115 (Official Build) unknown (64-bit)
 2023-12-16
 Score: 979.03 ± 2.69%
 
-Microsoft Edge v.120.0.2210.77 (Official build) (64-bit)
+Microsoft Edge v.120.0.2210.89 (Official build) (64-bit)
 Chromium v.120.0.6099.110
-2023-12-16
-Score: 843.80 ± 4.70%
+2023-12-20
+Score: 862.63 ± 2.40%
 
 Vivaldi v.6.5.3206.39 (Stable channel) (64-bit)
 Chromium v.120.0.6099.121
