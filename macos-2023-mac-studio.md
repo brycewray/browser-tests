@@ -14,8 +14,6 @@
 
 URL: https://browserbench.org/Speedometer2.1/
 
-### By arithmetic mean
-
 | Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
 |--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 478 ± 25 (5.2%) | 2023-12-19 |
@@ -26,32 +24,6 @@ URL: https://browserbench.org/Speedometer2.1/
 | 6. | 4. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 424 ± 18 (4.3%) | 2023-12-19 |
 | 7. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 416 ± 20 (4.8%) | 2023-12-19 |
 | 8. | 5. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 414 ± 17 (4.1%) | 2023-12-19 |
-
-### By BEST RESULT of 10 iterations
-
-| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 503.0| 2023-12-19 |
-| 2. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 470.5 | 2023-12-19 |
-| 3. | 1. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 453.9 | 2023-12-19 |
-| 4. | 2. | Brave | 1.61.104 | 120.0.6099.115 | 453.6 | 2023-12-19 |
-| 5. | 3. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 450.5 | 2023-12-19 |
-| 6. | 4. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 442.3 | 2023-12-19 |
-| 7. | 5. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 439.2 | 2023-12-19 |
-| 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 435.3 | 2023-12-19 |
-
-### By WORST RESULT of 10 iterations
-
-| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 381.4 | 2023-12-19 |
-| 2. | 1. | Brave | 1.61.104 | 120.0.6099.115 | 375.3 | 2023-12-19 |
-| 3. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 372.1 | 2023-12-19 |
-| 4. | 3. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 370.3 | 2023-12-19 |
-| 5. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 360.9 | 2023-12-19 |
-| 6. | 4. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 353.9 | 2023-12-19 |
-| 7. | 5. | Microsoft Edge | 120.0.2210.77 | 120.0.6099.110 | 343.5 | 2023-12-19 |
-| 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 340.4 | 2023-12-19 |
 
 ----
 

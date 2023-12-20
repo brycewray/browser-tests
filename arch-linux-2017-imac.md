@@ -21,8 +21,6 @@
 
 URL: https://browserbench.org/Speedometer2.1/
 
-### By arithmetic mean
-
 | Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
 |--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 201 ± 8.6 (4.3%) | 2023-12-14 |
@@ -34,30 +32,6 @@ URL: https://browserbench.org/Speedometer2.1/
 | 7. | 5. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 157 ± 4.9 (3.1%) | 2023-12-14 |
 
 [^UgC]: From the AUR as `ungoogled-chromium-bin`.
-
-### By BEST RESULT of 10 iterations
-
-| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | 1. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 217.0 | 2023-12-14 |
-| 2. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 212.7 | 2023-12-14 |
-| T3. | &mdash; | GNOME Web/Epiphany | 45.1 | &mdash; | 206.8 | 2023-12-14 |
-| T3. | 2. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 206.8 | 2023-12-14 |
-| 5. | 3. | Brave | 1.61.104 | 120.0.6099.109 | 197.0 | 2023-12-14 |
-| 6. | 4. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71  | 176.4 | 2023-12-14 |
-| 7. | 5. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 170.0 | 2023-12-14 |
-
-### By WORST RESULT of 10 iterations
-
-| Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Runs/<br>min. | Date |
-|--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | 1. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 181.1 | 2023-12-14 |
-| 2. | 2. | Google Chrome | 120.0.6099.109 | 120.0.6099.109 | 175.6 | 2023-12-14 |
-| 3. | &mdash; | GNOME Web/Epiphany | 45.1 | &mdash; | 172.5 | 2023-12-14 |
-| 4. | &mdash; | Mozilla Firefox | 120.0.1 | &mdash; | 170.4 | 2023-12-14 |
-| 5. | 3. | Brave | 1.61.104 | 120.0.6099.109 | 161.8 | 2023-12-14 |
-| 6. | 4. | Ungoogled Chromium[^UgC] | 119.0.6045.199 | 119.0.6045.199 | 148.5 | 2023-12-14 |
-| 7. | 5. | Microsoft Edge | 120.0.2210.61 | 120.0.6099.71  | 147.6 | 2023-12-14 |
 
 ----
 

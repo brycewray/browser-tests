@@ -17,8 +17,6 @@
 
 URL: https://browserbench.org/Speedometer2.1/
 
-### By arithmetic mean
-
 | Rank | Chr.<br>rank | Browser | Repo | Version | Chromium<br>version | Score | Date |
 |--:|--:|:-:|:-:|:-:|:-:|:-:|--:|
 | 1. | 1. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 214 ± 8.0 (3.7%) | 2023-12-16 |
@@ -28,30 +26,6 @@ URL: https://browserbench.org/Speedometer2.1/
 | 5. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 183 ± 5.9 (3.2%) | 2023-12-19 |
 | 6. | 4. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110 | 169 ± 4.8 (2.9%) | 2023-12-16 |
 | 7. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 166 ± 4.7 (2.9%) | 2023-12-16 |
-
-### By BEST RESULT of 10 iterations
-
-| Rank | Chr.<br>rank | Browser | Repo | Version | Chromium<br>version | Runs/<br>min. | Date |
-|--:|--:|:-:|:-:|:-:|:-:|:-:|--:|
-| 1. | 1. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 225.4 | 2023-12-16 |
-| 2. | 2. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 219.7 | 2023-12-16 |
-| 3. | 3. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 215.7 | 2023-12-16 |
-| 4. | &mdash; | Mozilla Firefox | Flathub | 121.0 | &mdash; | 210.8 | 2023-12-19 |
-| 5. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 190.7 | 2023-12-19 |
-| 6. | 4. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110  | 175.7 | 2023-12-16 |
-| 7. | 5. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 173.9 | 2023-12-16 |
-
-### By WORST RESULT of 10 iterations
-
-| Rank | Chr.<br>rank | Browser | Repo | Version | Chromium<br>version | Runs/<br>min. | Date |
-|--:|--:|:-:|:-:|:-:|:-:|:-:|--:|
-| 1. | 1. | Vivaldi | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 193.8 | 2023-12-16  |
-| 2. | 2. | Brave | Brave | 1.61.104 | 120.0.6099.115 | 187.6 | 2023-12-16 |
-| 3. | 3. | Google Chrome | Google | 120.0.6099.109 | 120.0.6099.109 | 180.2 | 2023-12-16 |
-| 4. | &mdash; | Mozilla Firefox | Flathub | 121.0 | &mdash; | 166.5 | 2023-12-19 |
-| 5. | &mdash; | GNOME Web/Epiphany | Flathub | 45.1 | &mdash; | 162.6 | 2023-12-19 |
-| 6. | 4. | Ungoogled Chromium | Flathub | 119.0.6099.109 | 119.0.6099.109 | 151.8 | 2023-12-16 |
-| 7. | 5. | Microsoft Edge | Microsoft | 120.0.2210.77 | 120.0.6099.110  | 151.3 | 2023-12-16 |
 
 ----
 
