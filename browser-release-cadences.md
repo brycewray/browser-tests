@@ -9,7 +9,7 @@
 | [Arc](https://resources.arc.net/en/articles/8233343-release-notes) | Closed | ✅ | &mdash; | 1.21.1 (44329)<br>2023-12-?? | Stable 120.0.6099.109<br>2023-12-11 |
 | [Brave](https://github.com/brave/brave-browser/releases) | [Open](https://github.com/brave/brave-browser) | ✅ | ✅ | 1.61.104<br>2023-12-13 | Stable 120.0.6099.115<br>2023-12-11 |
 | [Google Chrome](https://chromereleases.googleblog.com/search/label/Stable%20updates) | Closed | ✅ | ✅ | 120.0.6099.129<br>2023-12-20 | Stable 120.0.6099.129<br>2023-12-20 |
-| [Microsoft Edge](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel) | Closed | ✅ | ✅ | 120.0.2210.77<br>2023-12-14 | Stable 120.0.6099.110<br>2023-12-11 |
+| [Microsoft Edge](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel) | Closed | ✅ | ✅ | 120.0.2210.89<br>2023-12-20 | Stable 120.0.6099.110<br>2023-12-11 |
 | [Vivaldi](https://vivaldi.com/blog/desktop/updates/) | Closed | ✅ | ✅ | 6.5.3206.39<br>2023-12-14 | Extended stable<br>120.0.6099.121<br>2023-12-12 |
 
 ## Non-Chromium browsers
