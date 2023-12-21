@@ -19,9 +19,9 @@ URL: https://browserbench.org/Speedometer2.1/
 | 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 478 ± 25 (5.2%) | 2023-12-19 |
 | 2. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 455 ± 24 (5.2%) | 2023-12-19 |
 | 3. | 1. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 432 ± 16 (3.8%) | 2023-12-20 |
-| 4. | 2. | Brave | 1.61.104 | 120.0.6099.115 | 425 ± 16 (3.7%) | 2023-12-19 |
-| 5. | 3. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 424 ± 18 (4.3%) | 2023-12-19 |
-| 6. | 4. | Microsoft Edge | 120.0.2210.89 | 120.0.6099.110 | 419 ± 24 (5.7%) | 2023-12-20 |
+| 4. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 424 ± 18 (4.3%) | 2023-12-19 |
+| 5. | 3. | Microsoft Edge | 120.0.2210.89 | 120.0.6099.110 | 419 ± 24 (5.7%) | 2023-12-20 |
+| 6. | 4. | Brave | 1.61.109 | 120.0.6099.144 | 418 ± 21 (5.1%) | 2023-12-21 |
 | 7. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 416 ± 20 (4.8%) | 2023-12-19 |
 | 8. | 5. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 414 ± 17 (4.1%) | 2023-12-19 |
 
@@ -35,11 +35,11 @@ URL: https://browserbench.org/JetStream/
 |--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 360.445 | 2023-12-19 |
 | 2. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 358.589 | 2023-12-19 |
-| 3. | 1. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 348.946 | 2023-12-19 |
-| 4. | 2. | Microsoft Edge | 120.0.2210.89 | 120.0.6099.110 | 342.343 | 2023-12-20 |
-| 5. | 3. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 341.568 | 2023-12-20 |
-| 6. | 4. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 329.877 | 2023-12-19 |
-| 7. | 5. | Brave | 1.61.104 | 120.0.6099.115 | 324.771 | 2023-12-19 |
+| 3. | 1. | Brave | 1.61.109 | 120.0.6099.144 | 349.077 | 2023-12-21 |
+| 4. | 2. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 348.946 | 2023-12-19 |
+| 5. | 3. | Microsoft Edge | 120.0.2210.89 | 120.0.6099.110 | 342.343 | 2023-12-20 |
+| 6. | 4. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 341.568 | 2023-12-20 |
+| 7. | 5. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 329.877 | 2023-12-19 |
 | 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 236.463 | 2023-12-19 |
 
 ----
@@ -58,7 +58,7 @@ All results “on a large screen (desktop)” as per instructions
 | 4. | 4. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 4301.27 ± 14.11% | 2023-12-19 |
 | 5. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 4133.80 ± 29.49% | 2023-12-19 |
 | 6. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 3736.60 ± 14.89% | 2023-12-19 |
-| 7. | 5. | Brave | 1.61.104 | 120.0.6099.115 | 3507.12 ± 9.91% | 2023-12-19 |
+| 7. | 5. | Brave | 1.61.109 | 120.0.6099.144 | 3605.20 ± 16.06% | 2023-12-21 |
 | 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 1584.07 ± 6.68% | 2023-12-19 |
 
 <!--
@@ -84,19 +84,19 @@ Iteration 8	432.7 runs/min
 Iteration 9	458.4 runs/min
 Iteration 10	456.0 runs/min
 
-Brave v.1.61.104 Chromium: 120.0.6099.115 (Official Build) (arm64)
-2023-12-19
-Arithmetic Mean: 425 ± 16 (3.7%)
-Iteration 1	375.3 runs/min
-Iteration 2	410.4 runs/min
-Iteration 3	453.6 runs/min
-Iteration 4	438.9 runs/min
-Iteration 5	423.5 runs/min
-Iteration 6	439.2 runs/min
-Iteration 7	437.5 runs/min
-Iteration 8	434.7 runs/min
-Iteration 9	420.1 runs/min
-Iteration 10	412.3 runs/min
+Brave v.1.61.109 Chromium: 120.0.6099.144 (Official Build) (arm64)
+2023-12-21
+Arithmetic Mean: 418 ± 21 (5.1%)
+Iteration 1	337.0 runs/min
+Iteration 2	416.4 runs/min
+Iteration 3	424.1 runs/min
+Iteration 4	437.9 runs/min
+Iteration 5	432.1 runs/min
+Iteration 6	427.2 runs/min
+Iteration 7	415.1 runs/min
+Iteration 8	440.9 runs/min
+Iteration 9	420.4 runs/min
+Iteration 10	431.9 runs/min
 
 Mozilla Firefox v.121.0 (64-bit)
 2023-12-19
@@ -191,9 +191,9 @@ Google Chrome v.120.0.6099.129 (Official Build) (arm64)
 2023-12-20
 Score: 341.568
 
-Brave v.1.61.104 Chromium: 120.0.6099.115 (Official Build) (arm64)
-2023-12-19
-Score: 324.771
+Brave v.1.61.109 Chromium: 120.0.6099.144 (Official Build) (arm64)
+2023-12-21
+Score: 349.077
 
 Mozilla Firefox v.121.0 (64-bit)
 2023-12-19
@@ -228,9 +228,9 @@ Google Chrome v.120.0.6099.129 (Official Build) (arm64)
 2023-12-20
 Score: 4438.72 ± 14.42%
 
-Brave v.1.61.104 Chromium: 120.0.6099.115 (Official Build) (arm64)
-2023-12-19
-Score: 3507.12 ± 9.91%
+Brave v.1.61.109 Chromium: 120.0.6099.144 (Official Build) (arm64)
+2023-12-21
+Score: 3605.20 ± 16.06%
 
 Mozilla Firefox v.121.0 (64-bit)
 2023-12-19
