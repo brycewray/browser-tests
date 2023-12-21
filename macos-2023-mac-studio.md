@@ -19,8 +19,8 @@ URL: https://browserbench.org/Speedometer2.1/
 | 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 478 ± 25 (5.2%) | 2023-12-19 |
 | 2. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 455 ± 24 (5.2%) | 2023-12-19 |
 | 3. | 1. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 432 ± 16 (3.8%) | 2023-12-20 |
-| 4. | 2. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 424 ± 18 (4.3%) | 2023-12-19 |
-| 5. | 3. | Microsoft Edge | 120.0.2210.89 | 120.0.6099.110 | 419 ± 24 (5.7%) | 2023-12-20 |
+| 4. | 2. | Microsoft Edge | 120.0.2210.91 | 120.0.6099.130 | 425 ± 21 (4.9%) | 2023-12-21 |
+| 5. | 3. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 424 ± 18 (4.3%) | 2023-12-19 |
 | 6. | 4. | Brave | 1.61.109 | 120.0.6099.144 | 418 ± 21 (5.1%) | 2023-12-21 |
 | 7. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 416 ± 20 (4.8%) | 2023-12-19 |
 | 8. | 5. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 414 ± 17 (4.1%) | 2023-12-19 |
@@ -37,8 +37,8 @@ URL: https://browserbench.org/JetStream/
 | 2. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 358.589 | 2023-12-19 |
 | 3. | 1. | Brave | 1.61.109 | 120.0.6099.144 | 349.077 | 2023-12-21 |
 | 4. | 2. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 348.946 | 2023-12-19 |
-| 5. | 3. | Microsoft Edge | 120.0.2210.89 | 120.0.6099.110 | 342.343 | 2023-12-20 |
-| 6. | 4. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 341.568 | 2023-12-20 |
+| 5. | 3. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 341.568 | 2023-12-20 |
+| 6. | 4. | Microsoft Edge | 120.0.2210.91 | 120.0.6099.130 | 338.092 | 2023-12-21 |
 | 7. | 5. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 329.877 | 2023-12-19 |
 | 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 236.463 | 2023-12-19 |
 
@@ -52,7 +52,7 @@ All results “on a large screen (desktop)” as per instructions
 
 | Rank | Chr.<br>rank | Browser | Version | Chromium<br>version | Score | Date |
 |--:|--:|:--|:-:|:-:|:-:|--:|
-| 1. | 1. | Microsoft Edge | 120.0.2210.89 | 120.0.6099.110 | 4659.37 ± 20.71% | 2023-12-20 |
+| 1. | 1. | Microsoft Edge | 120.0.2210.91 | 120.0.6099.130 | 4636.72 ± 14.53% | 2023-12-21 |
 | 2. | 2. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 4532.02 ± 19.92% | 2023-12-19 |
 | 3. | 3. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 4438.72 ± 14.42% | 2023-12-20 |
 | 4. | 4. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 4301.27 ± 14.11% | 2023-12-19 |
@@ -126,20 +126,20 @@ Iteration 8	493.1 runs/min
 Iteration 9	490.1 runs/min
 Iteration 10	481.3 runs/min
 
-Microsoft Edge v.120.0.2210.89 (Official build) (arm64)
-Chromium v.120.0.6099.110
-2023-12-20
-Arithmetic Mean: 419 ± 24 (5.7%)
-Iteration 1	327.4 runs/min
-Iteration 2	421.8 runs/min
-Iteration 3	422.2 runs/min
-Iteration 4	446.2 runs/min
-Iteration 5	425.9 runs/min
-Iteration 6	429.0 runs/min
-Iteration 7	434.0 runs/min
-Iteration 8	432.9 runs/min
-Iteration 9	419.6 runs/min
-Iteration 10	435.5 runs/min
+Microsoft Edge v.120.0.2210.91 (Official build) (arm64)
+Chromium v.120.0.6099.130
+2023-12-21
+Arithmetic Mean: 425 ± 21 (4.9%)
+Iteration 1	347.1 runs/min
+Iteration 2	422.6 runs/min
+Iteration 3	427.2 runs/min
+Iteration 4	430.5 runs/min
+Iteration 5	424.2 runs/min
+Iteration 6	421.2 runs/min
+Iteration 7	436.0 runs/min
+Iteration 8	435.4 runs/min
+Iteration 9	445.4 runs/min
+Iteration 10	455.3 runs/min
 
 Arc v.1.21.1 (44329)
 Chromium v.120.0.6099.109 (Official Build) (arm64)
@@ -203,10 +203,10 @@ Safari v.17.2.1 (19617.1.17.11.12)
 2023-12-19
 Score: 360.445
 
-Microsoft Edge v.120.0.2210.89 (Official build) (arm64)
-Chromium v.120.0.6099.110
-2023-12-20
-Score: 342.343
+Microsoft Edge v.120.0.2210.91 (Official build) (arm64)
+Chromium v.120.0.6099.130
+2023-12-21
+Score: 338.092
 
 Arc v.1.21.1 (44329)
 Chromium v.120.0.6099.109 (Official Build) (arm64)
@@ -240,10 +240,10 @@ Safari v.17.2.1 (19617.1.17.11.12)
 2023-12-19
 Score: 4133.80 ± 29.49%
 
-Microsoft Edge v.120.0.2210.89 (Official build) (arm64)
-Chromium v.120.0.6099.110
-2023-12-20
-Score: 4659.37 ± 20.71%
+Microsoft Edge v.120.0.2210.91 (Official build) (arm64)
+Chromium v.120.0.6099.130
+2023-12-21
+Score: 4636.72 ± 14.53%
 
 Arc v.1.21.1 (44329)
 Chromium v.120.0.6099.109 (Official Build) (arm64)
