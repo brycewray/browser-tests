@@ -17,7 +17,7 @@ URL: https://browserbench.org/Speedometer2.1/
 | Rank | Chr.<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | &mdash; | Safari  | 478 ± 25 (5.2%) | 2023-12-19 |
-| 2. | &mdash; | Orion | | 455 ± 24 (5.2%) | 2023-12-19 |
+| 2. | &mdash; | Orion | 455 ± 24 (5.2%) | 2023-12-19 |
 | 3. | 1. | Vivaldi | 441 ± 24 (5.4%) | 2023-12-22 |
 | 4. | 2. | Google Chrome | 432 ± 16 (3.8%) | 2023-12-20 |
 | 5. | 3. | Microsoft Edge | 425 ± 21 (4.9%) | 2023-12-21 |
