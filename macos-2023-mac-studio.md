@@ -18,9 +18,9 @@ URL: https://browserbench.org/Speedometer2.1/
 |--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 478 ± 25 (5.2%) | 2023-12-19 |
 | 2. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 455 ± 24 (5.2%) | 2023-12-19 |
-| 3. | 1. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 432 ± 16 (3.8%) | 2023-12-20 |
-| 4. | 2. | Microsoft Edge | 120.0.2210.91 | 120.0.6099.130 | 425 ± 21 (4.9%) | 2023-12-21 |
-| 5. | 3. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 424 ± 18 (4.3%) | 2023-12-19 |
+| 3. | 1. | Vivaldi | 6.5.3206.42 | 120.0.6099.121 | 441 ± 24 (5.4%) | 2023-12-22 |
+| 4. | 2. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 432 ± 16 (3.8%) | 2023-12-20 |
+| 5. | 3. | Microsoft Edge | 120.0.2210.91 | 120.0.6099.130 | 425 ± 21 (4.9%) | 2023-12-21 |
 | 6. | 4. | Brave | 1.61.109 | 120.0.6099.144 | 418 ± 21 (5.1%) | 2023-12-21 |
 | 7. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 416 ± 20 (4.8%) | 2023-12-19 |
 | 8. | 5. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 414 ± 17 (4.1%) | 2023-12-19 |
@@ -35,11 +35,11 @@ URL: https://browserbench.org/JetStream/
 |--:|--:|:--|:-:|:-:|:-:|--:|
 | 1. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 360.445 | 2023-12-19 |
 | 2. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 358.589 | 2023-12-19 |
-| 3. | 1. | Brave | 1.61.109 | 120.0.6099.144 | 349.077 | 2023-12-21 |
-| 4. | 2. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 348.946 | 2023-12-19 |
-| 5. | 3. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 341.568 | 2023-12-20 |
-| 6. | 4. | Microsoft Edge | 120.0.2210.91 | 120.0.6099.130 | 338.092 | 2023-12-21 |
-| 7. | 5. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 329.877 | 2023-12-19 |
+| 3. | 1. | Vivaldi | 6.5.3206.42 | 120.0.6099.121 | 354.404 | 2023-12-22 |
+| 4. | 2. | Brave | 1.61.109 | 120.0.6099.144 | 349.077 | 2023-12-21 |
+| 5. | 3. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 348.946 | 2023-12-19 |
+| 6. | 4. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 341.568 | 2023-12-20 |
+| 7. | 5. | Microsoft Edge | 120.0.2210.91 | 120.0.6099.130 | 338.092 | 2023-12-21 |
 | 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 236.463 | 2023-12-19 |
 
 ----
@@ -55,7 +55,7 @@ All results “on a large screen (desktop)” as per instructions
 | 1. | 1. | Microsoft Edge | 120.0.2210.91 | 120.0.6099.130 | 4636.72 ± 14.53% | 2023-12-21 |
 | 2. | 2. | Arc | 1.21.1 (44329) | 120.0.6099.109 | 4532.02 ± 19.92% | 2023-12-19 |
 | 3. | 3. | Google Chrome | 120.0.6099.129 | 120.0.6099.129 | 4438.72 ± 14.42% | 2023-12-20 |
-| 4. | 4. | Vivaldi | 6.5.3206.39 | 120.0.6099.121 | 4301.27 ± 14.11% | 2023-12-19 |
+| 4. | 4. | Vivaldi | 6.5.3206.42 | 120.0.6099.121 | 4335.83 ± 19.75% | 2023-12-22 |
 | 5. | &mdash; | Safari | 17.2.1<br>(19617.1.17.11.12) | &mdash; | 4133.80 ± 29.49% | 2023-12-19 |
 | 6. | &mdash; | Orion | 0.99.126.4.1-beta<br>(WebKit 618.1.2) | &mdash; | 3736.60 ± 14.89% | 2023-12-19 |
 | 7. | 5. | Brave | 1.61.109 | 120.0.6099.144 | 3605.20 ± 16.06% | 2023-12-21 |
@@ -170,20 +170,20 @@ Iteration 8	468.7 runs/min
 Iteration 9	470.5 runs/min
 Iteration 10	452.8 runs/min
 
-Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
+Vivaldi v.6.5.3206.42 (Stable channel) (arm64)
 Chromium v.120.0.6099.121
-2023-12-19
-Arithmetic Mean: 424 ± 18 (4.3%)
-Iteration 1	372.1 runs/min
-Iteration 2	440.9 runs/min
-Iteration 3	440.2 runs/min
-Iteration 4	436.4 runs/min
-Iteration 5	450.5 runs/min
-Iteration 6	404.2 runs/min
-Iteration 7	433.5 runs/min
-Iteration 8	392.9 runs/min
-Iteration 9	438.3 runs/min
-Iteration 10	432.7 runs/min
+2023-12-22
+Arithmetic Mean: 441 ± 24 (5.4%)
+Iteration 1	350.8 runs/min
+Iteration 2	431.0 runs/min
+Iteration 3	456.1 runs/min
+Iteration 4	461.6 runs/min
+Iteration 5	449.3 runs/min
+Iteration 6	460.0 runs/min
+Iteration 7	453.5 runs/min
+Iteration 8	435.8 runs/min
+Iteration 9	459.9 runs/min
+Iteration 10	450.1 runs/min
 
 #### JetStream raw data
 
@@ -217,10 +217,10 @@ Orion v.0.99.126.4.1-beta (WebKit 618.1.2)
 2023-12-19
 Score: 358.589
 
-Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
+Vivaldi v.6.5.3206.42 (Stable channel) (arm64)
 Chromium v.120.0.6099.121
-2023-12-19
-Score: 329.877
+2023-12-22
+Score: 354.404
 
 #### MotionMark raw data
 
@@ -254,9 +254,9 @@ Orion v.0.99.126.4.1-beta (WebKit 618.1.2)
 2023-12-19
 Score: 3736.60 ± 14.89%
 
-Vivaldi v.6.5.3206.39 (Stable channel) (arm64)
+Vivaldi v.6.5.3206.42 (Stable channel) (arm64)
 Chromium v.120.0.6099.121
-2023-12-19
-Score: 4301.27 ± 14.11%
+2023-12-22
+Score: 4335.83 ± 19.75%
 
 -->
