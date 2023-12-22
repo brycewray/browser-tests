@@ -55,7 +55,7 @@
 - Mac Studio (mid-2023 version)
   - M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64GB RAM
   - Internal graphics running 5120 × 2880 at 2x (“Retina”)
-- Each browser is [latest available version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection.
+- Each browser is [current stable desktop version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection.
 - On MotionMark test, all results “on a large screen (desktop)” as per instructions.
 
 <!--
