@@ -32,7 +32,7 @@
 
 ----
 
-## [MotionMark 1.2](https://browserbench.org/MotionMark1.2/)[^lgscn]
+## [MotionMark 1.2](https://browserbench.org/MotionMark1.2/)
 
 | Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
@@ -43,8 +43,6 @@
 | 5. | 4. | Ungoogled Chromium | 848.31 ± 2.37% | 2023-12-21 |
 | 6. | 5. | Microsoft Edge | 838.67 ± 2.32% | 2023-12-21 |
 | 7. | &mdash; | GNOME Web/Epiphany | 259.37 ± 2.31% | 2023-12-21 |
-
-[^lgscn]: All results “on a large screen (desktop)” as per instructions.
 
 [^real]: Not a typo.
 
@@ -59,7 +57,8 @@
 - iMac 18,3 (mid-2017 iMac)
   - Intel® Core™ i7-7700K × 8, 64GB RAM
   - AMD Radeon™ Pro 580X running 3840 × 2160 at 2x
-- Each browser is [latest available version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection
+- Each browser is [latest available version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection.
+- On MotionMark test, all results “on a large screen (desktop)” as per instructions.
 
 <!--
 ----

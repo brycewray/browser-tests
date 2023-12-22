@@ -34,7 +34,7 @@
 
 ----
 
-## [MotionMark 1.2](https://browserbench.org/MotionMark1.2/)[^lgscn]
+## [MotionMark 1.2](https://browserbench.org/MotionMark1.2/)
 
 | Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
@@ -47,8 +47,6 @@
 | 7. | 5. | Brave | 3605.20 ± 16.06% | 2023-12-21 |
 | 8. | &mdash; | Mozilla Firefox | 1584.07 ± 6.68% | 2023-12-19 |
 
-[^lgscn]: All results “on a large screen (desktop)” as per instructions.
-
 ----
 
 ## OS, system, and testing specs
@@ -57,7 +55,8 @@
 - Mac Studio (mid-2023 version)
   - M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64GB RAM
   - Internal graphics running 5120 × 2880 at 2x (“Retina”)
-- Each browser is [latest available version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection
+- Each browser is [latest available version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection.
+- On MotionMark test, all results “on a large screen (desktop)” as per instructions.
 
 <!--
 ----
