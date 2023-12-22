@@ -1,15 +1,6 @@
 # Web browser tests on Fedora Linux
 
-## OS, system, and testing specs
-
-- Fedora Linux 39 (Workstation Edition)
-  - Firmware v.515.0.0.0.0
-  - Kernel: Linux 6.6.7-200.fc39.x86_64
-  - GNOME 45.2 / Wayland
-- iMac 18,3 (mid-2017 iMac)
-  - Intel® Core™ i7-7700K × 8, 64GB RAM
-  - AMD Radeon™ Pro 580X running 3840 × 2160 at 2x
-- Each browser is [latest available version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection
+<em style="font-size: 75%;">OS, system, and testing specs at bottom.</em>
 
 ----
 
@@ -62,6 +53,19 @@ All results “on a large screen (desktop)” as per instructions
 | 7. | &mdash; | GNOME Web/Epiphany | 259.37 ± 2.31% | 2023-12-21 |
 
 [^real]: Not a typo.
+
+----
+
+## OS, system, and testing specs
+
+- Fedora Linux 39 (Workstation Edition)
+  - Firmware v.515.0.0.0.0
+  - Kernel: Linux 6.6.7-200.fc39.x86_64
+  - GNOME 45.2 / Wayland
+- iMac 18,3 (mid-2017 iMac)
+  - Intel® Core™ i7-7700K × 8, 64GB RAM
+  - AMD Radeon™ Pro 580X running 3840 × 2160 at 2x
+- Each browser is [latest available version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection
 
 <!--
 ----

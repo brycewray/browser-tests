@@ -1,12 +1,6 @@
 # Web browser tests on macOS
 
-## OS, system, and testing specs
-
-- macOS Sonoma v.14.2.1
-- Mac Studio (mid-2023 version)
-  - M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64GB RAM
-  - Internal graphics running 5120 × 2880 at 2x (“Retina”)
-- Each browser is [latest available version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection
+<em style="font-size: 75%;">OS, system, and testing specs at bottom.</em>
 
 ----
 
@@ -60,6 +54,16 @@ All results “on a large screen (desktop)” as per instructions
 | 6. | &mdash; | Orion | 3736.60 ± 14.89% | 2023-12-19 |
 | 7. | 5. | Brave | 3605.20 ± 16.06% | 2023-12-21 |
 | 8. | &mdash; | Mozilla Firefox | 1584.07 ± 6.68% | 2023-12-19 |
+
+----
+
+## OS, system, and testing specs
+
+- macOS Sonoma v.14.2.1
+- Mac Studio (mid-2023 version)
+  - M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64GB RAM
+  - Internal graphics running 5120 × 2880 at 2x (“Retina”)
+- Each browser is [latest available version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection
 
 <!--
 ----
