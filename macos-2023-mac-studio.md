@@ -59,7 +59,7 @@ All results “on a large screen (desktop)” as per instructions
 | 5. | &mdash; | Safari | 4133.80 ± 29.49% | 2023-12-19 |
 | 6. | &mdash; | Orion | 3736.60 ± 14.89% | 2023-12-19 |
 | 7. | 5. | Brave | 3605.20 ± 16.06% | 2023-12-21 |
-| 8. | &mdash; | Mozilla Firefox | 121.0 | &mdash; | 1584.07 ± 6.68% | 2023-12-19 |
+| 8. | &mdash; | Mozilla Firefox | 1584.07 ± 6.68% | 2023-12-19 |
 
 <!--
 ----
