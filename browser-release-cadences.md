@@ -16,7 +16,7 @@
 
 | Browser | Source | macOS | Linux | Engine | Browser version<br>and release date |
 |:--|:-:|:-:|:-:|:-:|:-:|
-| [Firefox](https://groups.google.com/a/mozilla.org/g/announce) | [Open](https://hg.mozilla.org/mozilla-central/) | ✅ | ✅ | Gecko | 121.0<br>2023-12-19 |
 | [GNOME Web/Epiphany](https://gitlab.gnome.org/GNOME/epiphany/-/releases) | [Open](https://gitlab.gnome.org/GNOME/epiphany) | &mdash; | ✅ | WebKitGTK | 45.1<br>2023-11-06 |
+| [Mozilla Firefox](https://groups.google.com/a/mozilla.org/g/announce) | [Open](https://hg.mozilla.org/mozilla-central/) | ✅ | ✅ | Gecko | 121.0<br>2023-12-19 |
 | [Orion](https://kagi.com/orion/updates/orion-release-notes.html) | Closed | ✅ | &mdash; | WebKit | 0.99.126.4.1-beta<br>(WebKit 618.1.2)<br>2023-12-13 |
 | [Safari](https://developer.apple.com/documentation/safari-release-notes/) | Closed | ✅ | &mdash; | WebKit | 17.2.1 (19617.1.17.11.12)<br>2023-12-19 |
