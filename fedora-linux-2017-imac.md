@@ -17,7 +17,7 @@
 
 URL: https://browserbench.org/Speedometer2.1/
 
-| Rank | Chr.<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | 1. | Vivaldi | 215 ± 7.6 (3.6%) | 2023-12-22 |
 | 2. | &mdash; | Mozilla Firefox | 214 ± 12 (5.8%) | 2023-12-21 |
@@ -33,7 +33,7 @@ URL: https://browserbench.org/Speedometer2.1/
 
 URL: https://browserbench.org/JetStream/
 
-| Rank | Chr.<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | 1. | Vivaldi | 180.414 | 2023-12-22 |
 | 2. | 2. | Google Chrome | 180.385 | 2023-12-21 |
@@ -51,7 +51,7 @@ URL: https://browserbench.org/MotionMark1.2/
 
 All results “on a large screen (desktop)” as per instructions
 
-| Rank | Chr.<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | 1. | Google Chrome | 2419.74 ± 3.03%[^real] | 2023-12-21 |
 | 2. | 2. | Brave | 964.59 ± 2.67% | 2023-12-21 |

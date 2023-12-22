@@ -14,7 +14,7 @@
 
 URL: https://browserbench.org/Speedometer2.1/
 
-| Rank | Chr.<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | &mdash; | Safari  | 478 ± 25 (5.2%) | 2023-12-19 |
 | 2. | &mdash; | Orion | 455 ± 24 (5.2%) | 2023-12-19 |
@@ -31,7 +31,7 @@ URL: https://browserbench.org/Speedometer2.1/
 
 URL: https://browserbench.org/JetStream/
 
-| Rank | Chr.<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | &mdash; | Safari | 360.445 | 2023-12-19 |
 | 2. | &mdash; | Orion | 358.589 | 2023-12-19 |
@@ -50,7 +50,7 @@ URL: https://browserbench.org/MotionMark1.2/
 
 All results “on a large screen (desktop)” as per instructions
 
-| Rank | Chr.<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | 1. | Microsoft Edge | 4636.72 ± 14.53% | 2023-12-21 |
 | 2. | 2. | Arc | 4532.02 ± 19.92% | 2023-12-19 |
