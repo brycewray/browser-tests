@@ -4,9 +4,7 @@
 
 ----
 
-## Speedometer 2.1
-
-URL: https://browserbench.org/Speedometer2.1/
+## [Speedometer 2.1](https://browserbench.org/Speedometer2.1/)
 
 | Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
@@ -21,9 +19,7 @@ URL: https://browserbench.org/Speedometer2.1/
 
 ----
 
-## JetStream 2.1
-
-URL: https://browserbench.org/JetStream/
+## [JetStream 2.1](https://browserbench.org/JetStream/)
 
 | Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
@@ -38,11 +34,7 @@ URL: https://browserbench.org/JetStream/
 
 ----
 
-## MotionMark 1.2
-
-URL: https://browserbench.org/MotionMark1.2/
-
-All results “on a large screen (desktop)” as per instructions
+## [MotionMark 1.2](https://browserbench.org/MotionMark1.2/)[^lgscn]
 
 | Rank | Chromium<br>rank | Browser | Score | Date |
 |--:|--:|:-:|:-:|--:|
@@ -54,6 +46,8 @@ All results “on a large screen (desktop)” as per instructions
 | 6. | &mdash; | Orion | 3736.60 ± 14.89% | 2023-12-19 |
 | 7. | 5. | Brave | 3605.20 ± 16.06% | 2023-12-21 |
 | 8. | &mdash; | Mozilla Firefox | 1584.07 ± 6.68% | 2023-12-19 |
+
+[^lgscn]: All results “on a large screen (desktop)” as per instructions.
 
 ----
 
