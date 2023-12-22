@@ -73,117 +73,38 @@ All results “on a large screen (desktop)” as per instructions
 Google Chrome v.120.0.6099.129 (Official Build) (arm64)
 2023-12-20
 Arithmetic Mean: 432 ± 16 (3.8%)
-Iteration 1	378.8 runs/min
-Iteration 2	421.6 runs/min
-Iteration 3	437.2 runs/min
-Iteration 4	423.2 runs/min
-Iteration 5	424.6 runs/min
-Iteration 6	443.0 runs/min
-Iteration 7	446.6 runs/min
-Iteration 8	432.7 runs/min
-Iteration 9	458.4 runs/min
-Iteration 10	456.0 runs/min
 
 Brave v.1.61.109 Chromium: 120.0.6099.144 (Official Build) (arm64)
 2023-12-21
 Arithmetic Mean: 418 ± 21 (5.1%)
-Iteration 1	337.0 runs/min
-Iteration 2	416.4 runs/min
-Iteration 3	424.1 runs/min
-Iteration 4	437.9 runs/min
-Iteration 5	432.1 runs/min
-Iteration 6	427.2 runs/min
-Iteration 7	415.1 runs/min
-Iteration 8	440.9 runs/min
-Iteration 9	420.4 runs/min
-Iteration 10	431.9 runs/min
 
 Mozilla Firefox v.121.0 (64-bit)
 2023-12-19
 Arithmetic Mean: 416 ± 20 (4.8%)
-Iteration 1	340.4 runs/min
-Iteration 2	422.3 runs/min
-Iteration 3	424.1 runs/min
-Iteration 4	435.3 runs/min
-Iteration 5	424.2 runs/min
-Iteration 6	427.3 runs/min
-Iteration 7	424.4 runs/min
-Iteration 8	422.0 runs/min
-Iteration 9	434.8 runs/min
-Iteration 10	408.3 runs/min
 
 Safari v.17.2.1 (19617.1.17.11.12)
 2023-12-19
 Arithmetic Mean: 478 ± 25 (5.2%)
-Iteration 1	381.4 runs/min
-Iteration 2	480.0 runs/min
-Iteration 3	489.5 runs/min
-Iteration 4	496.6 runs/min
-Iteration 5	476.3 runs/min
-Iteration 6	503.0 runs/min
-Iteration 7	488.9 runs/min
-Iteration 8	493.1 runs/min
-Iteration 9	490.1 runs/min
-Iteration 10	481.3 runs/min
 
 Microsoft Edge v.120.0.2210.91 (Official build) (arm64)
 Chromium v.120.0.6099.130
 2023-12-21
 Arithmetic Mean: 425 ± 21 (4.9%)
-Iteration 1	347.1 runs/min
-Iteration 2	422.6 runs/min
-Iteration 3	427.2 runs/min
-Iteration 4	430.5 runs/min
-Iteration 5	424.2 runs/min
-Iteration 6	421.2 runs/min
-Iteration 7	436.0 runs/min
-Iteration 8	435.4 runs/min
-Iteration 9	445.4 runs/min
-Iteration 10	455.3 runs/min
 
 Arc v.1.21.1 (44329)
 Chromium v.120.0.6099.109 (Official Build) (arm64)
 2023-12-19
 Arithmetic Mean: 414 ± 17 (4.1%)
-Iteration 1	370.3 runs/min
-Iteration 2	420.2 runs/min
-Iteration 3	432.5 runs/min
-Iteration 4	439.2 runs/min
-Iteration 5	410.3 runs/min
-Iteration 6	432.9 runs/min
-Iteration 7	427.0 runs/min
-Iteration 8	419.9 runs/min
-Iteration 9	374.3 runs/min
-Iteration 10	414.3 runs/min
 
 Orion v.0.99.126.4.1-beta (WebKit 618.1.2)
 2023-12-19
 Arithmetic Mean: 455 ± 24 (5.2%)
-Iteration 1	360.9 runs/min
-Iteration 2	467.0 runs/min
-Iteration 3	462.1 runs/min
-Iteration 4	464.0 runs/min
-Iteration 5	463.2 runs/min
-Iteration 6	466.5 runs/min
-Iteration 7	470.0 runs/min
-Iteration 8	468.7 runs/min
-Iteration 9	470.5 runs/min
-Iteration 10	452.8 runs/min
 
 Vivaldi v.6.5.3206.42 (Stable channel) (arm64)
 Chromium v.120.0.6099.121
 2023-12-22
 Arithmetic Mean: 441 ± 24 (5.4%)
-Iteration 1	350.8 runs/min
-Iteration 2	431.0 runs/min
-Iteration 3	456.1 runs/min
-Iteration 4	461.6 runs/min
-Iteration 5	449.3 runs/min
-Iteration 6	460.0 runs/min
-Iteration 7	453.5 runs/min
-Iteration 8	435.8 runs/min
-Iteration 9	459.9 runs/min
-Iteration 10	450.1 runs/min
+
 
 #### JetStream raw data
 
@@ -221,6 +142,7 @@ Vivaldi v.6.5.3206.42 (Stable channel) (arm64)
 Chromium v.120.0.6099.121
 2023-12-22
 Score: 354.404
+
 
 #### MotionMark raw data
 
