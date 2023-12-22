@@ -1,6 +1,6 @@
 # Web browser tests on Fedora Linux
 
-<em style="font-size: 75%;">OS, system, and testing specs at bottom.</em>
+*OS, system, and testing specs at bottom.*
 
 ----
 
