@@ -9,6 +9,7 @@
 | [Google Chrome](https://chromereleases.googleblog.com/search/label/Stable%20updates) | Closed | ✅ | ✅ | Google | 120.0.6099.129<br>2023-12-20 | Stable 120.0.6099.129<br>2023-12-20 |
 | [Microsoft Edge](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel) | Closed | ✅ | ✅ | Microsoft | 120.0.2210.91<br>2023-12-21 | Stable 120.0.6099.130<br>2023-12-19 |
 | [Opera](https://blogs.opera.com/desktop/) | Closed | ✅ | ✅ | Opera | 106.0.4998.19<br>2023-12-22 | Stable 120.0.6099.130<br>2023-12-19 |
+| Tempest | Closed | ✅ | &mdash; | &mdash; |  120.0.6099.5 (BETA)<br>2023-??-?? | Stable 120.0.6099.5<br>2023-11-01 | 
 | [Vivaldi](https://vivaldi.com/blog/desktop/updates/) | Closed | ✅ | ✅ | Vivaldi | 6.5.3206.42<br>2023-12-22 | Extended stable<br>120.0.6099.121<br>2023-12-12 |
 
 ## Non-Chromium browsers
