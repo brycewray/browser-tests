@@ -6,7 +6,7 @@
 
 ## [Speedometer 2.1](https://browserbench.org/Speedometer2.1/)
 
-| Rank | Chromium<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | &mdash; | Safari  | 478 ± 25 (5.2%) | 2023-12-19 |
 | 2. | &mdash; | Orion | 455 ± 24 (5.2%) | 2023-12-19 |
@@ -21,7 +21,7 @@
 
 ## [JetStream 2.1](https://browserbench.org/JetStream/)
 
-| Rank | Chromium<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | &mdash; | Safari | 360.445 | 2023-12-19 |
 | 2. | &mdash; | Orion | 358.589 | 2023-12-19 |
@@ -36,7 +36,7 @@
 
 ## [MotionMark 1.2](https://browserbench.org/MotionMark1.2/)
 
-| Rank | Chromium<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | 1. | Microsoft Edge | 4636.72 ± 14.53% | 2023-12-21 |
 | 2. | 2. | Arc | 4532.02 ± 19.92% | 2023-12-19 |
@@ -55,7 +55,7 @@
 - Mac Studio (mid-2023 version)
   - M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64GB RAM
   - Internal graphics running 5120 × 2880 at 2x (“Retina”)
-- Each browser is [current stable desktop version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection.
+- Each browser is [current stable desktop version](/browsers.md) on date of test, running in a private window with disabling of all extensions and tracking protection.
 - On MotionMark test, all results “on a large screen (desktop)” as per instructions.
 
 <!--

@@ -6,7 +6,7 @@
 
 ## [Speedometer 2.1](https://browserbench.org/Speedometer2.1/)
 
-| Rank | Chromium<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | 1. | Vivaldi | 215 ± 7.6 (3.6%) | 2023-12-22 |
 | 2. | &mdash; | Mozilla Firefox | 214 ± 12 (5.8%) | 2023-12-21 |
@@ -20,7 +20,7 @@
 
 ## [JetStream 2.1](https://browserbench.org/JetStream/)
 
-| Rank | Chromium<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | 1. | Vivaldi | 180.414 | 2023-12-22 |
 | 2. | 2. | Google Chrome | 180.385 | 2023-12-21 |
@@ -34,7 +34,7 @@
 
 ## [MotionMark 1.2](https://browserbench.org/MotionMark1.2/)
 
-| Rank | Chromium<br>rank | Browser | Score | Date |
+| Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | 1. | Google Chrome | 2419.74 ± 3.03%[^real] | 2023-12-21 |
 | 2. | 2. | Brave | 964.59 ± 2.67% | 2023-12-21 |
@@ -57,7 +57,7 @@
 - iMac 18,3 (mid-2017 iMac)
   - Intel® Core™ i7-7700K × 8, 64GB RAM
   - AMD Radeon™ Pro 580X running 3840 × 2160 at 2x
-- Each browser is [current stable desktop version](/browser-release-cadences.md) on date of test, running in a private window with disabling of all extensions and tracking protection.
+- Each browser is [current stable desktop version](/browsers.md) on date of test, running in a private window with disabling of all extensions and tracking protection.
 - On MotionMark test, all results “on a large screen (desktop)” as per instructions.
 
 <!--
