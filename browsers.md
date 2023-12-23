@@ -1,4 +1,4 @@
-# Browser release cadences
+# Browsers
 
 ## Chromium browsers
 
