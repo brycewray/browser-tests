@@ -59,7 +59,7 @@
   - M2 Max (12-core CPU, 38-core GPU, 16-core Neural Engine), 64GB RAM
   - Internal graphics running 5120 × 2880 at 2x (“Retina”)
 - Each browser is [current stable desktop version](/browsers.md) on date of test, running in a private window with disabling of all extensions and tracking protection. No other browsers are running at the time.
-- On MotionMark test, all results “on a large screen (desktop)” as per instructions.
+- On MotionMark test, all results “on a large screen (desktop).”
 
 <!--
 ----

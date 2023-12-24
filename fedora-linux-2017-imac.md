@@ -58,7 +58,7 @@
   - Intel® Core™ i7-7700K × 8, 64GB RAM
   - AMD Radeon™ Pro 580X running 3840 × 2160 at 2x
 - Each browser is [current stable desktop version](/browsers.md) on date of test, running in a private window with disabling of all extensions and tracking protection. No other browsers are running at the time.
-- On MotionMark test, all results “on a large screen (desktop)” as per instructions.
+- On MotionMark test, all results “on a large screen (desktop).”
 
 <!--
 ----
