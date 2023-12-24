@@ -12,7 +12,7 @@
 | [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium/releases) | Open | [^macOSUngChr] | ✅ | Flathub | 120.0.6099.129-1<br>2023-12-21 | Stable 120.0.6099.129<br>2023-12-20 | 
 | [Vivaldi](https://vivaldi.com/blog/desktop/updates/) | Closed | ✅ | ✅ | Vivaldi | 6.5.3206.42<br>2023-12-22 | Extended stable<br>120.0.6099.121<br>2023-12-12 |
 
-[^macOSUngChr]: While there is a Homebrew-hosted macOS version of Ungoogled Chromium, its updates are irregular and sufficiently late (*i.e.*, compared to those for Fedora Linux) that I have chosen not to include it in these tests.
+[^macOSUngChr]: While there is a Homebrew-hosted macOS version of Ungoogled Chromium, its updates are sufficiently irregular (*i.e.*, compared to those for Fedora Linux) that I have chosen not to include it in these tests.
 
 ## Non-Chromium browsers
 
