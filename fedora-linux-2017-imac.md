@@ -9,9 +9,9 @@
 | Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
 |--:|--:|:-:|:-:|--:|
 | 1. | 1. | Vivaldi | 215 ± 7.6 (3.6%) | 2023-12-22 |
-| 2. | &mdash; | Mozilla Firefox | 214 ± 12 (5.8%) | 2023-12-21 |
-| 3. | 2. | Google Chrome | 208 ± 8.0 (3.8%) | 2023-12-21 |
-| 4. | 3. | Brave | 201 ± 7.6 (3.8%) | 2023-12-21 |1
+| 2. | 2. | Google Chrome | 208 ± 8.0 (3.8%) | 2023-12-21 |
+| 3. | 3. | Brave | 201 ± 7.6 (3.8%) | 2023-12-21 |1
+| 4. | &mdash; | Mozilla Firefox | 197 ± 8.3 (4.2%) | 2023-12-24 |
 | 5. | 4. | Opera | 192 ± 6.3 (3.3%) | 2023-12-23 |
 | 6. | 5. | Microsoft Edge | 167 ± 3.9 (2.3%) | 2023-12-21 |
 | 7. | 6. | Ungoogled Chromium | 160 ± 2.8 (1.8%) | 2023-12-21 |
@@ -28,7 +28,7 @@
 | 4. | 4. | Opera | 179.150 | 2023-12-23 |
 | 5. | 5. | Microsoft Edge | 173.661 | 2023-12-21 |
 | 6. | 6. | Ungoogled Chromium | 165.990 | 2023-12-21 |
-| 7. | &mdash; | Mozilla Firefox | 129.801 | 2023-12-21 |
+| 7. | &mdash; | Mozilla Firefox | 127.624 | 2023-12-24 |
 
 ----
 
@@ -36,13 +36,13 @@
 
 | Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
 |--:|--:|:-:|:-:|--:|
-| 1. | 1. | Google Chrome | 2419.74 ± 3.03%[^real] | 2023-12-21 |
+| 1. | 1. | Google Chrome | 2419.74[^real] ± 3.03% | 2023-12-21 |
 | 2. | 2. | Brave | 964.59 ± 2.67% | 2023-12-21 |
 | 3. | 3. | Vivaldi | 956.89 ± 2.86% | 2023-12-22 |
-| 4. | &mdash; | Mozilla Firefox | 955.36 ± 2.76% | 2023-12-21 |
-| 5. | 4. | Opera | 939.81 ± 2.29% | 2023-12-23 |
-| 6. | 5. | Ungoogled Chromium | 848.31 ± 2.37% | 2023-12-21 |
-| 7. | 6. | Microsoft Edge | 838.67 ± 2.32% | 2023-12-21 |
+| 4. | 4. | Opera | 939.81 ± 2.29% | 2023-12-23 |
+| 5. | 5. | Ungoogled Chromium | 848.31 ± 2.37% | 2023-12-21 |
+| 6. | 6. | Microsoft Edge | 838.67 ± 2.32% | 2023-12-21 |
+| 7. | &mdash; | Mozilla Firefox | 208.68[^real] ± 4.69% | 2023-12-24 |
 
 [^real]: Not a typo.
 
@@ -92,9 +92,9 @@ Ungoogled Chromium v.120.0.6099.129 (Official Build, ungoogled-chromium) (64-bit
 2023-12-21
 Arithmetic Mean: 160 ± 2.8 (1.8%)
 
-Mozilla Firefox v.121.0 (64-bit) - Flathub
-2023-12-21
-Arithmetic Mean: 214 ± 12 (5.8%)
+Mozilla Firefox v.121.0 (64-bit) - Fedora repo
+2023-12-24
+Arithmetic Mean: 197 ± 8.3 (4.2%)
 
 Opera v.106.0.4998.19
 Chromium v.120.0.6099.130
@@ -126,9 +126,9 @@ Ungoogled Chromium v.120.0.6099.129 (Official Build, ungoogled-chromium) (64-bit
 2023-12-21
 Score: 165.990
 
-Mozilla Firefox v.121.0 (64-bit) - Flathub
-2023-12-21
-Score: 129.801
+Mozilla Firefox v.121.0 (64-bit) - Fedora repo
+2023-12-24
+Score: 127.624
 
 Opera v.106.0.4998.19
 Chromium v.120.0.6099.130
@@ -160,9 +160,9 @@ Ungoogled Chromium v.120.0.6099.129 (Official Build, ungoogled-chromium) (64-bit
 2023-12-21
 Score: 848.31 ± 2.37%
 
-Mozilla Firefox v.121.0 (64-bit) - Flathub
-2023-12-21
-Score: 955.36 ± 2.76%
+Mozilla Firefox v.121.0 (64-bit) - Fedora repo
+2023-12-24
+Score: 208.68 ± 4.69%
 
 Opera v.106.0.4998.19
 Chromium v.120.0.6099.130
