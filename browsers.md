@@ -10,7 +10,7 @@
 | [Microsoft Edge](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel) | Closed | ✅ | ✅ | Microsoft | 120.0.2210.91<br>2023-12-21 | Stable 120.0.6099.130<br>2023-12-19 |
 | [Opera](https://blogs.opera.com/desktop/) | Closed | ✅ | ✅ | Opera | 106.0.4998.19<br>2023-12-22 | Stable 120.0.6099.130<br>2023-12-19 |
 | [Ungoogled Chromium](https://flathub.org/apps/com.github.Eloston.UngoogledChromium) | Open | [^macOSUngChr] | ✅ | Flathub | 120.0.6099.129-1<br>2023-12-21 | Stable 120.0.6099.129<br>2023-12-20 | 
-| [Vivaldi](https://vivaldi.com/blog/desktop/updates/) | Closed | ✅ | ✅ | Vivaldi | 6.5.3206.42<br>2023-12-22 | Extended stable<br>120.0.6099.121<br>2023-12-12 |
+| [Vivaldi](https://vivaldi.com/blog/desktop/updates/) | Closed | ✅ | ✅ | Vivaldi | 6.5.3206.48<br>2023-12-25 | Extended stable<br>120.0.6099.121<br>2023-12-12 |
 
 [^macOSUngChr]: While there is a Homebrew-hosted macOS version of Ungoogled Chromium, the cadence of its updates is sufficiently irregular and delayed that I have chosen not to include it in these tests.
 
