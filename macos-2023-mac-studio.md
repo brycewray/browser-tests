@@ -7,7 +7,7 @@
 ## [Speedometer 2.1](https://browserbench.org/Speedometer2.1/)
 
 | Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
-|--:|--:|:-:|:-:|--:|
+|--:|--:|:--|:-:|--:|
 | 1. | 1. | Opera | 496 ± 24 (4.8%) | 2023-12-23 |
 | 2. | &mdash; | Safari  | 478 ± 25 (5.2%) | 2023-12-19 |
 | 3. | &mdash; | Orion | 455 ± 24 (5.2%) | 2023-12-19 |
@@ -23,7 +23,7 @@
 ## [JetStream 2.1](https://browserbench.org/JetStream/)
 
 | Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
-|--:|--:|:-:|:-:|--:|
+|--:|--:|:--|:-:|--:|
 | 1. | &mdash; | Safari | 360.445 | 2023-12-19 |
 | 2. | &mdash; | Orion | 358.589 | 2023-12-19 |
 | 3. | 1. | Opera | 353.422 | 2023-12-23 |
@@ -39,7 +39,7 @@
 ## [MotionMark 1.2](https://browserbench.org/MotionMark1.2/)
 
 | Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
-|--:|--:|:-:|:-:|--:|
+|--:|--:|:--|:-:|--:|
 | 1. | 1. | Opera | 5183.02 ± 22.04% | 2023-12-23 |
 | 2. | 2. | Microsoft Edge | 4636.72 ± 14.53% | 2023-12-21 |
 | 3. | 3. | Arc | 4532.02 ± 19.92% | 2023-12-19 |

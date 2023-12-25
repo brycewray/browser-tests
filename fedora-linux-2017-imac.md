@@ -7,7 +7,7 @@
 ## [Speedometer 2.1](https://browserbench.org/Speedometer2.1/)
 
 | Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
-|--:|--:|:-:|:-:|--:|
+|--:|--:|:--|:-:|--:|
 | 1. | 1. | Vivaldi | 215 ± 7.6 (3.6%) | 2023-12-22 |
 | 2. | 2. | Google Chrome | 208 ± 8.0 (3.8%) | 2023-12-21 |
 | 3. | 3. | Brave | 201 ± 7.6 (3.8%) | 2023-12-21 |1
@@ -21,7 +21,7 @@
 ## [JetStream 2.1](https://browserbench.org/JetStream/)
 
 | Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
-|--:|--:|:-:|:-:|--:|
+|--:|--:|:--|:-:|--:|
 | 1. | 1. | Vivaldi | 180.414 | 2023-12-22 |
 | 2. | 2. | Google Chrome | 180.385 | 2023-12-21 |
 | 3. | 3. | Brave | 180.141 | 2023-12-21 |
@@ -35,7 +35,7 @@
 ## [MotionMark 1.2](https://browserbench.org/MotionMark1.2/)
 
 | Rank | Chromium<br>rank | [Browser](/browsers.md) | Score | Date |
-|--:|--:|:-:|:-:|--:|
+|--:|--:|:--|:-:|--:|
 | 1. | 1. | Google Chrome | 2419.74[^real] ± 3.03% | 2023-12-21 |
 | 2. | 2. | Brave | 964.59 ± 2.67% | 2023-12-21 |
 | 3. | 3. | Vivaldi | 956.89 ± 2.86% | 2023-12-22 |
