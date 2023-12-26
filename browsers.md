@@ -18,6 +18,6 @@
 
 | Browser | Source | macOS | Linux | Linux repo | Engine | Browser version<br>and release date |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Mozilla Firefox](https://groups.google.com/a/mozilla.org/g/announce) | [Open](https://hg.mozilla.org/mozilla-central/) | ✅ | ✅ | Fedora | Gecko | 121.0<br>2023-12-19 |
+| [Mozilla Firefox](https://groups.google.com/a/mozilla.org/g/announce) | [Open](https://hg.mozilla.org/mozilla-central/) | ✅ | ✅ | Fedora | Quantum | 121.0<br>2023-12-19 |
 | [Orion](https://kagi.com/orion/updates/orion-release-notes.html) | Closed | ✅ | &mdash; | &mdash; | WebKit | 0.99.126.4.1-beta<br>(WebKit 618.1.2)<br>2023-12-13 |
 | [Safari](https://developer.apple.com/documentation/safari-release-notes/) | Closed | ✅ | &mdash; | &mdash; | WebKit | 17.2.1 (19617.1.17.11.12)<br>2023-12-19 |
