@@ -5,8 +5,8 @@
 | Browser | Source | macOS | Linux | Linux repo | Browser version<br>and release date | [Chromium](https://chromiumdash.appspot.com/releases) version<br>and release date |
 |:--|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Arc](https://resources.arc.net/en/articles/8233343-release-notes) | Closed | ✅ | &mdash; | &mdash; | 1.21.1 (44329)<br>2023-12-14 | Stable 120.0.6099.109<br>2023-12-11 |
-| [Brave](https://github.com/brave/brave-browser/releases) | [Open](https://github.com/brave/brave-browser) | ✅ | ✅ | Brave | 1.61.109<br>2023-12-20 | Stable 120.0.6099.144<br>2023-12-19 |
-| [Google Chrome](https://chromereleases.googleblog.com/search/label/Stable%20updates) | Closed | ✅ | ✅ | Google | 120.0.6099.129<br>2023-12-20 | Stable 120.0.6099.129<br>2023-12-20 |
+| [Brave](https://github.com/brave/brave-browser) | [Open](https://github.com/brave/brave-browser) | ✅ | ✅ | Brave | 1.61.109<br>2023-12-20 | Stable 120.0.6099.144<br>2023-12-19 |
+| [Google Chrome](https://chromereleases.googleblog.com/search/label/Desktop%20Update) | Closed | ✅ | ✅ | Google | 120.0.6099.129<br>2023-12-20 | Stable 120.0.6099.129<br>2023-12-20 |
 | [Microsoft Edge](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel) | Closed | ✅ | ✅ | Microsoft | 120.0.2210.91<br>2023-12-21 | Stable 120.0.6099.130<br>2023-12-19 |
 | [Opera](https://blogs.opera.com/desktop/) | Closed | ✅ | ✅ | Opera | 106.0.4998.19<br>2023-12-22 | Stable 120.0.6099.130<br>2023-12-19 |
 | [Ungoogled Chromium](https://flathub.org/apps/com.github.Eloston.UngoogledChromium) | Open | [^macOSUngChr] | ✅ | Flathub | 120.0.6099.129-1<br>2023-12-21 | Stable 120.0.6099.129<br>2023-12-20 | 
