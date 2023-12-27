@@ -1,5 +1,10 @@
 # Browser tests
 
+> [!NOTE]
+> This project is [concluded as of 2023-12-27](https://www.brycewray.com/posts/2023/12/testing-testing-ending-fools-errand/).
+
+----
+
 This is where I keep version-controlled tests on [various web browsers](/browsers.md), along with [the files I originally maintained before deciding this project’s output was worth VC’ing](/pre-git).
 
 The tests are on browsers in [macOS](/macos-2023-mac-studio.md) and [Linux](/fedora-linux-2017-imac.md). All timestamps within are in U.S. Central time (CDT/CST), with dates in `yyyy-mm-dd` format.
